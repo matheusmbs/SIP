@@ -22,7 +22,6 @@ public class SipCallThread implements Runnable {
     public SipCallThread(Numero numero, Integer line) throws IOException {
         this.numero = numero;
         this.line = line;
-        
         // Nessa função, é realizada simultaneamente a conexão de cada instância de registro e a realização da ligação. É importante destacar que é possível realizar essas tarefas de forma separada utilizando os métodos disponíveis do mizu-voip.
         this.sipConect();
     }

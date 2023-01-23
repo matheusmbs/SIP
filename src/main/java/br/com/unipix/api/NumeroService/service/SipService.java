@@ -39,7 +39,7 @@ public class SipService {
             e.printStackTrace();
         }
         for (SipCallThread mt : mainThreads) {
-            numeros.add(mt.getNumero());
+            numerosProcessados.add(mt.getNumero());
         }
         return numerosProcessados;
     }
