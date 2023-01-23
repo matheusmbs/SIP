@@ -23,13 +23,13 @@ public class NumeroController {
     @Autowired
     NumeroService numbersService;
 
-    @PostMapping(value = "/arquivo", consumes = MediaType.MULTIPART_FORM_DATA_VALUE)
+    @PostMapping(value = "/validacao-sip/arquivo", consumes = MediaType.MULTIPART_FORM_DATA_VALUE)
     public ResponseEntity<List<NumeroResponseDTO>> create(MultipartFile arquivo) throws IOException, InterruptedException {
         return ResponseEntity.ok().body(numbersService.processarArquivoNumeros(arquivo));
     }
 
     @PostMapping(value = "/validacao-sip")
     public ResponseEntity<List<NumeroResponseDTO>> validacaoSip(@RequestBody NumeroRequestDTO numeroRequestDTO) throws IOException, InterruptedException {
-        return ResponseEntity.ok().body(numbersService.criarNumeros(numeroRequestDTO.getNumeros(), true));
+        return ResponseEntity.ok().body(numbersService.criarNumeros(numeroRequestDTO.getNumeros()));
     }
 }

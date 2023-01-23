@@ -38,6 +38,7 @@ public class SipService {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
+        
         for (SipCallThread mt : mainThreads) {
             numerosProcessados.add(mt.getNumero());
         }

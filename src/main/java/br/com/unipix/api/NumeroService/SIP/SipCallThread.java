@@ -2,17 +2,13 @@ package br.com.unipix.api.NumeroService.SIP;
 
 import java.time.LocalDateTime;
 import br.com.unipix.api.NumeroService.model.Numero;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.lang3.math.NumberUtils;
 
 import java.io.BufferedReader;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.PrintWriter;
 import java.net.URL;
 
 import webphone.webphone;
@@ -25,42 +21,40 @@ public class SipCallThread implements Runnable {
     public SipCallThread(Numero numero, Integer line) throws IOException {
         this.numero = numero;
         this.line = line;
+        
+        // Nessa função, é realizada simultaneamente a conexão de cada instância de registro e a realização da ligação. É importante destacar que é possível realizar essas tarefas de forma separada utilizando os métodos disponíveis do mizu-voip.
         this.sipConect();
     }
 
     @Override
     public void run() {
         Boolean inLoop = true;
-        List<String> arrDetailLog = new ArrayList();
-        arrDetailLog.add(this.numero.getNumero() + "\n");
-        String detailAux = "";
         long startTime = System.currentTimeMillis();
+
+        //Loop para pegar os detalhes da ligação
         while (inLoop) {
             long endTime = System.currentTimeMillis();
             long elapsedTime = endTime - startTime;
             long seconds = TimeUnit.MILLISECONDS.toSeconds(elapsedTime);
 
-
+            //Em caso de não haver a exibição do status 'Finished' após 15 segundos da realização da chamada, o loop será encerrado. É importante destacar que essa condição é rara de ocorrer quando é utilizada a prática de criar uma instância para cada ligação.
             if (seconds > 15) {
-                arrDetailLog.add(this.webphoneobj.API_GetLineDetails(this.line));
                 LocalDateTime today = LocalDateTime.now();
                 numero.setDataProcessamento(today);
                 numero.setStatusCode(1000);
                 inLoop = false;
             }
 
+            //Função para obtenção dos detalhes da ligação.
             String statusCall = this.webphoneobj.API_GetLineDetails(this.line);
-            if (statusCall.contains(this.numero.getNumero())) {
-                if (!detailAux.equals(statusCall)) {
-                    detailAux = statusCall;
-                    arrDetailLog.add(statusCall);
-                }
 
+            //Foi necessário incluir essa condição de verificação, pois mesmo solicitando o status do canal específico dessa classe, houve a ocorrência de retorno de informações referentes a outro canal. Dessa forma, é realizada a verificação se o número do detalhe da ligação é o mesmo da classe em questão.
+            if (statusCall.contains(this.numero.getNumero())) {
+
+                //"Caso o status da ligação seja 'Finished', o loop será encerrado e serão obtidos os detalhes do protocolo SIP."
                 if (statusCall.contains("Finished")) {
                     String sipMessagem = webphoneobj.API_GetSIPMessage(this.line, 0, 2);
-                    arrDetailLog.add("\n" + sipMessagem);
                     if (sipMessagem.contains("To: <sip:" + this.numero.getNumero())) {
-
                         String[] sipMensagemLines = sipMessagem.split("\n");
                         String statusLine = sipMensagemLines[0];
                         String statusCode = statusLine.split(" ")[1];
@@ -74,17 +68,8 @@ public class SipCallThread implements Runnable {
                     }
                     inLoop = false;
                     this.sipDisconect();
-
                 }
             }
-
-            try {
-                Thread.sleep(1000);
-            } catch (InterruptedException e) {
-                // TODO Auto-generated catch block
-                e.printStackTrace();
-            }
-
         }
     }
 
@@ -97,6 +82,8 @@ public class SipCallThread implements Runnable {
         BufferedReader in = new BufferedReader(new InputStreamReader(
                 whatismyip.openStream()));
         String ip = in.readLine();
+
+        // Alguns dos parâmetros utilizados nesta função foram passados somente como teste, e podem ser ajustados ou removidos conforme necessário.
         webphoneobj.API_SetParameter("loglevel", "1");
         webphoneobj.API_SetParameter("logtoconsole", "1");
         webphoneobj.API_SetParameter("systemexit", "2");
@@ -118,7 +105,7 @@ public class SipCallThread implements Runnable {
         webphoneobj.API_SetParameter("callto", this.getNumero().getNumero());
         webphoneobj.API_SetParameter("autocall", "true");
         webphoneobj.API_Start();
-        this.webphoneobj.API_SetLine(this.line);
+        webphoneobj.API_SetLine(this.line);
     }
 
     private void sipDisconect() {
