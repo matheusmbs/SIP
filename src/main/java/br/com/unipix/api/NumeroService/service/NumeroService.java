@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.concurrent.ExecutionException;
 import java.util.stream.Collectors;
 
 import org.apache.commons.lang3.StringUtils;
@@ -32,12 +33,12 @@ public class NumeroService {
     SipService sipService;
 
     public List<NumeroResponseDTO> processarArquivoNumeros(MultipartFile arquivo)
-            throws IOException, InterruptedException {
+            throws IOException, InterruptedException, ExecutionException {
         List<String> numeros = readNumberFile.readAndValidateFile(arquivo);
         return criarNumeros(numeros);
     }
 
-    public List<NumeroResponseDTO> criarNumeros(List<String> numbers) throws IOException, InterruptedException {
+    public List<NumeroResponseDTO> criarNumeros(List<String> numbers) throws IOException, InterruptedException, ExecutionException {
         List<Numero> numerosValidos = new ArrayList<>();
         LocalDateTime today = LocalDateTime.now();
 
