@@ -16,15 +16,15 @@ import br.com.unipix.api.NumeroService.model.Numero;
 public class SipService {
 
 
-    public List<Numero> call(List<Numero> numero) throws IOException, InterruptedException {
-        int numThreads = numero.size();
+    public List<Numero> call(List<Numero> numeros) throws IOException, InterruptedException {
+        int numThreads = numeros.size();
         ExecutorService executor = Executors.newFixedThreadPool(500);
         List<SipCallThread> mainThreads = new ArrayList<SipCallThread>();
-        List<Numero> numeros = new ArrayList<Numero>();
+        List<Numero> numerosProcessados = new ArrayList<Numero>();
 
         // Envia as tarefas para o executor
         for (int i = 0; i < numThreads; i++) {
-            SipCallThread mainThread = new SipCallThread(numero.get(i), i);
+            SipCallThread mainThread = new SipCallThread(numeros.get(i), i);
             mainThreads.add(mainThread);
             executor.execute(mainThread);
         }
@@ -39,8 +39,8 @@ public class SipService {
             e.printStackTrace();
         }
         for (SipCallThread mt : mainThreads) {
-            numeros.add(mt.getNumero());
+            numerosProcessados.add(mt.getNumero());
         }
-        return numero;
+        return numerosProcessados;
     }
 }
