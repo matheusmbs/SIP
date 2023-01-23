@@ -10,3 +10,15 @@ Executar a aplicação utilizando sua IDE de desenvolvimento ou através do coma
 mvn spring-boot:run
 
 Esse processo garantirá o funcionamento correto da aplicação.
+
+Para testar a aplicação use o endpoint enviando um json com array de números: 
+POST http://localhost:8080/numeros/validacao-sip
+{
+	"numeros": [
+		"5511948053050"
+	]
+}
+
+Caso prefira enviar um arquivo, use o endpoint arquivo
+POST http://localhost:8080/numeros/validacao-sip/arquivo
+Arquivo: arquivo.txt
