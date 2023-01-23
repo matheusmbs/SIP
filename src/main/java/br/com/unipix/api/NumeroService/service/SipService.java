@@ -1,0 +1,46 @@
+package br.com.unipix.api.NumeroService.service;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.TimeUnit;
+
+import org.springframework.stereotype.Service;
+
+import br.com.unipix.api.NumeroService.SIP.SipCallThread;
+import br.com.unipix.api.NumeroService.model.Numero;
+
+@Service
+public class SipService {
+
+
+    public List<Numero> call(List<Numero> numero) throws IOException, InterruptedException {
+        int numThreads = numero.size();
+        ExecutorService executor = Executors.newFixedThreadPool(500);
+        List<SipCallThread> mainThreads = new ArrayList<SipCallThread>();
+        List<Numero> numeros = new ArrayList<Numero>();
+
+        // Envia as tarefas para o executor
+        for (int i = 0; i < numThreads; i++) {
+            SipCallThread mainThread = new SipCallThread(numero.get(i), i);
+            mainThreads.add(mainThread);
+            executor.execute(mainThread);
+        }
+
+        // Fecha o executor
+        executor.shutdown();
+
+        // Espera todas as tarefas terminarem
+        try {
+            executor.awaitTermination(Long.MAX_VALUE, TimeUnit.NANOSECONDS);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        for (SipCallThread mt : mainThreads) {
+            numeros.add(mt.getNumero());
+        }
+        return numero;
+    }
+}
