@@ -28,11 +28,10 @@ public class SipCallThread implements Runnable {
 
     @Override
     public void run() {
-        Boolean inLoop = true;
         long startTime = System.currentTimeMillis();
 
         //Loop para pegar os detalhes da ligação
-        while (inLoop) {
+        while (true) {
             long endTime = System.currentTimeMillis();
             long elapsedTime = endTime - startTime;
             long seconds = TimeUnit.MILLISECONDS.toSeconds(elapsedTime);
@@ -42,7 +41,7 @@ public class SipCallThread implements Runnable {
                 LocalDateTime today = LocalDateTime.now();
                 numero.setDataProcessamento(today);
                 numero.setStatusCode(1000);
-                inLoop = false;
+                break;
             }
 
             //Função para obtenção dos detalhes da ligação.
@@ -66,8 +65,8 @@ public class SipCallThread implements Runnable {
                         }
                         numero.setCallId(callId);
                     }
-                    inLoop = false;
                     this.sipDisconect();
+                    break;
                 }
             }
         }
