@@ -41,6 +41,14 @@
 			<artifactId>JVoip</artifactId>
 			<version>1.0</version>
 		</dependency>
+
+		<dependency>
+			<groupId>br.com.unipix</groupId>
+			<artifactId>PJSip</artifactId>
+			<version>2.13</version>
+		</dependency>
+
+
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-test</artifactId>

@@ -37,11 +37,11 @@ public class NumeroService {
         return criarNumeros(numeros);
     }
 
-    public List<NumeroResponseDTO> criarNumeros(List<String> numbers)
-            throws IOException, InterruptedException {;
-
+    public List<NumeroResponseDTO> criarNumeros(List<String> numbers) throws IOException, InterruptedException {
         List<Numero> numerosValidos = new ArrayList<>();
         LocalDateTime today = LocalDateTime.now();
+
+        // Criando objetos Numero e adicionando na lista
         for (String n : numbers) {
             Numero numero = new Numero();
             numero.setNumero(n);
@@ -50,22 +50,19 @@ public class NumeroService {
             numerosValidos.add(numero);
         }
 
-        if (numerosValidos.size() > 0) {
+        // Realizando chamadas somente se houver números válidos
+        if (!numerosValidos.isEmpty()) {
             numerosValidos = this.sipService.call(numerosValidos);
         }
 
-        // this.numeroRepository.saveAll(numerosValidos);
-
-        List<NumeroResponseDTO> numeroResponseDTOs = new ArrayList<>();
-        numeroResponseDTOs.addAll(NumerosMapper.convertNumeroToNumeroResponse(numerosValidos));
+        // Transformando objetos Numero em NumeroResponseDTO
+        List<NumeroResponseDTO> numeroResponseDTOs = NumerosMapper.convertNumeroToNumeroResponse(numerosValidos);
         return numeroResponseDTOs;
     }
-
 
     public List<Numero> findNumerosByMaxDate(LocalDateTime date) {
         return this.numeroRepository.findNumerosMaxDate(date);
     }
-
 
     public void deleteNumeros(List<Numero> numeros) {
         numeroRepository.deleteAll(numeros);
