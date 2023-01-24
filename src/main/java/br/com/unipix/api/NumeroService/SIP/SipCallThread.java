@@ -28,10 +28,17 @@ public class SipCallThread implements Runnable {
 
     @Override
     public void run() {
+        try {
+            Thread.sleep(2000);
+        } catch (InterruptedException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
         long startTime = System.currentTimeMillis();
 
         //Loop para pegar os detalhes da ligação
         while (true) {
+            
             long endTime = System.currentTimeMillis();
             long elapsedTime = endTime - startTime;
             long seconds = TimeUnit.MILLISECONDS.toSeconds(elapsedTime);
@@ -47,6 +54,8 @@ public class SipCallThread implements Runnable {
             //Função para obtenção dos detalhes da ligação.
             String statusCall = this.webphoneobj.API_GetLineDetails(this.line);
 
+            System.out.println(statusCall);
+
             //Foi necessário incluir essa condição de verificação, pois mesmo solicitando o status do canal específico dessa classe, houve a ocorrência de retorno de informações referentes a outro canal. Dessa forma, é realizada a verificação se o número do detalhe da ligação é o mesmo da classe em questão.
             if (statusCall.contains(this.numero.getNumero())) {
 
@@ -57,7 +66,7 @@ public class SipCallThread implements Runnable {
                         String[] sipMensagemLines = sipMessagem.split("\n");
                         String statusLine = sipMensagemLines[0];
                         String statusCode = statusLine.split(" ")[1];
-                        String callId = sipMensagemLines[4];
+                        String callId = sipMensagemLines[4].replace("Call-ID: ", "");
                         LocalDateTime today = LocalDateTime.now();
                         numero.setDataProcessamento(today);
                         if (NumberUtils.isDigits(statusCode)) {
