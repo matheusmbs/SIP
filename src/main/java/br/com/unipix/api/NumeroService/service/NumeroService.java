@@ -3,17 +3,11 @@ package br.com.unipix.api.NumeroService.service;
 import java.io.IOException;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 import java.util.concurrent.ExecutionException;
-import java.util.stream.Collectors;
-
-import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
-
 import br.com.unipix.api.NumeroService.dto.response.NumeroResponseDTO;
 import br.com.unipix.api.NumeroService.file.read.ReadNumberFile;
 import br.com.unipix.api.NumeroService.mapper.NumerosMapper;
@@ -38,8 +32,10 @@ public class NumeroService {
         return criarNumeros(numeros);
     }
 
-    public List<NumeroResponseDTO> criarNumeros(List<String> numbers) throws IOException, InterruptedException, ExecutionException {
+    public List<NumeroResponseDTO> criarNumeros(List<String> numbers)
+            throws IOException, InterruptedException, ExecutionException {
         List<Numero> numerosValidos = new ArrayList<>();
+        List<Numero> numeroProcessados = new ArrayList<>();
         LocalDateTime today = LocalDateTime.now();
 
         // Criando objetos Numero e adicionando na lista
@@ -53,11 +49,37 @@ public class NumeroService {
 
         // Realizando chamadas somente se houver números válidos
         if (!numerosValidos.isEmpty()) {
-            numerosValidos = this.sipService.call(numerosValidos);
+            // int subListSize = 10;
+            // ListIterator<Numero> iterator = numerosValidos.listIterator();
+            // List<List<Numero>> subLists = new ArrayList<>();
+            // List<Numero> subList = new ArrayList<>(subListSize);
+            // while (iterator.hasNext()) {
+            // subList.add(iterator.next());
+            // if (subList.size() == subListSize) {
+            // subLists.add(subList);
+            // subList = new ArrayList<>(subListSize);
+            // }
+            // }
+            // if (!subList.isEmpty()) {
+            // subLists.add(subList);
+            // }
+
+            // Integer i = 1;
+
+            // for (List<Numero> ns : subLists) {
+            // System.out.println("Processando " + (i * 10) + " de " +
+            // numerosValidos.size());
+            // this.sipService.call(ns);
+            // i++;
+            // }
+
+            // numerosValidos = this.sipService.call(numerosValidos);
+
+            this.sipService.call(numerosValidos);
         }
 
         // Transformando objetos Numero em NumeroResponseDTO
-        List<NumeroResponseDTO> numeroResponseDTOs = NumerosMapper.convertNumeroToNumeroResponse(numerosValidos);
+        List<NumeroResponseDTO> numeroResponseDTOs = NumerosMapper.convertNumeroToNumeroResponse(numeroProcessados);
         return numeroResponseDTOs;
     }
 
