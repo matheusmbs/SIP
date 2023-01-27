@@ -6,16 +6,15 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.URL;
-import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
+import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
-import org.apache.commons.lang3.math.NumberUtils;
 import org.springframework.stereotype.Service;
 
 import br.com.unipix.api.NumeroService.SIP.SipCallThread;
@@ -29,165 +28,48 @@ public class SipService {
     private SipNotification sipNotification = null;
     private Integer line = 1;
 
-    // public List<Numero> call(List<Numero> numeros) throws IOException,
-    // InterruptedException {
-    // URL whatismyip = new URL("http://checkip.amazonaws.com");
-    // BufferedReader in = new BufferedReader(new InputStreamReader(
-    // whatismyip.openStream()));
-    // String ip = in.readLine();
-    // int numThreads = numeros.size();
-    // ExecutorService executor = Executors.newFixedThreadPool(5000);
-    // List<SipCallThread> mainThreads = new ArrayList<SipCallThread>();
-    // List<Numero> numerosProcessados = new ArrayList<Numero>();
+    public List<Numero> processCall(List<Numero> numeros) throws IOException, InterruptedException, ExecutionException {
+        List<Numero> numerosProcessados = new ArrayList<Numero>();
+        List<Numero> numerosChamados = this.call(numeros);
+        List<Numero> numerosValidos = numerosChamados.stream().filter(n -> n.getStatusCode() != 0)
+                .collect(Collectors.toList());
+        List<Numero> numeroReprocessamento = numerosChamados.stream().filter(n -> n.getStatusCode() == 0)
+                .collect(Collectors.toList());
 
-    // // Envia as tarefas para o executor
-    // for (int i = 0; i < numThreads; i++) {
-    // SipCallThread mainThread = new SipCallThread(numeros.get(i), i, ip);
-    // mainThreads.add(mainThread);
-    // }
+        if (numeroReprocessamento.size() > 0) {
+            numerosValidos.addAll(this.processCall(numeroReprocessamento));
+        }
 
-    // Thread.sleep(3000);
-
-    // for (SipCallThread mainThread : mainThreads) {
-    // executor.execute(mainThread);
-    // }
-
-    // // Fecha o executor
-    // executor.shutdown();
-
-    // // Espera todas as tarefas terminarem
-    // try {
-    // executor.awaitTermination(Long.MAX_VALUE, TimeUnit.NANOSECONDS);
-    // } catch (InterruptedException e) {
-    // e.printStackTrace();
-    // }
-
-    // List<String> fileText = new ArrayList();
-    // Integer i = 0;
-    // for (SipCallThread mt : mainThreads) {
-    // numerosProcessados.add(mt.getNumero());
-
-    // String text = mt.getNumero().getNumero() + ";" +
-    // mt.getNumero().getStatusCode() + ";"
-    // + mt.getNumero().getCallId();
-    // text = "\n" + text;
-
-    // i++;
-    // fileText.add(text);
-    // }
-    // try (FileWriter fileWriter = new FileWriter("numeros.txt", true);
-    // BufferedWriter bufferedWriter = new BufferedWriter(fileWriter)) {
-    // bufferedWriter.write(String.join("", fileText));
-    // } catch (IOException e) {
-    // System.err.println("Erro ao gravar arquivo " + "numeros.txt" + ": " +
-    // e.getMessage());
-    // }
-    // return numerosProcessados;
-    // }
+        numerosProcessados.addAll(numerosValidos);
+        return numerosProcessados;
+    }
 
     public List<Numero> call(List<Numero> numeros) throws IOException,
-            InterruptedException {
+            InterruptedException, ExecutionException {
         this.sipStart();
+
+
         Thread.sleep(2000);
         List<Numero> numerosProcessados = new ArrayList<Numero>();
         int numThreads = numeros.size();
         ExecutorService executor = Executors.newFixedThreadPool(500);
-        List<SipCallThread> mainThreads = new ArrayList<SipCallThread>();
+        List<Future<Numero>> mainThreads = new ArrayList<Future<Numero>>();
 
         for (int i = 0; i < numThreads; i++) {
-            SipCallThread mainThread = new SipCallThread(webphoneobj, numeros.get(i), i);
+            Future<Numero> mainThread = executor
+                    .submit(new SipCallThread(webphoneobj, sipNotification, numeros.get(i), i));
             mainThreads.add(mainThread);
-            executor.execute(mainThread);
             this.line++;
         }
 
-        // // Fecha o executor
+        // // Fecha o executor e espera todas as tarefas terminarem
         executor.shutdown();
+        executor.awaitTermination(Long.MAX_VALUE, TimeUnit.NANOSECONDS);
 
-        // Espera todas as tarefas terminarem
-        try {
-            executor.awaitTermination(Long.MAX_VALUE, TimeUnit.NANOSECONDS);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
+        for (Future nf : mainThreads) {
+            Numero numero = (Numero) nf.get();
+            numerosProcessados.add(numero);
         }
-
-        for (SipCallThread mt : mainThreads) {
-            try (FileWriter fileWriter = new FileWriter("logsNumeros/" + mt.getNumero().getNumero() + ".txt", false);
-                    BufferedWriter bufferedWriter = new BufferedWriter(fileWriter)) {
-                bufferedWriter.write(String.join("\n", mt.getNotification()));
-                // fileWriter.close();
-            } catch (IOException e) {
-                System.err.println("Erro ao gravar arquivo " + "cdr.txt" + ": " +
-                        e.getMessage());
-            }
-            numerosProcessados.add(mt.getNumero());
-        }
-
-        // long startTime = System.currentTimeMillis();
-        // while (true) {
-        // Thread.sleep(1000);
-        // long endTime = System.currentTimeMillis();
-        // long elapsedTime = endTime - startTime;
-        // long seconds = TimeUnit.MILLISECONDS.toSeconds(elapsedTime);
-        // if (seconds > 10) {
-        // this.webphoneobj.API_Hangup(-1);
-        // }
-
-        // if (seconds > 15 || this.sipNotification.getNotifications().size() >=
-        // numeros.size()) {
-        // break;
-        // }
-        // }
-
-        // List<String> sipNotifications = this.sipNotification.getNotifications();
-        // for (String notification : sipNotifications) {
-        // String[] nArr = notification.split(",");
-        // String linha = nArr[1];
-        // String numeroNotificação = nArr[3];
-        // Numero numero = numeros.stream().filter(obj ->
-        // obj.getNumero().equals(numeroNotificação.trim())).findFirst()
-        // .orElse(null);
-
-        // if (numero != null) {
-        // String sipMessagem = webphoneobj.API_GetSIPMessage(Integer.parseInt(linha),
-        // 0, 2);
-        // LocalDateTime today = LocalDateTime.now();
-        // numero.setDataProcessamento(today);
-        // if (sipMessagem.contains("To: <sip:" + numeroNotificação)) {
-        // String[] sipMensagemLines = sipMessagem.split("\n");
-        // String statusLine = sipMensagemLines[0];
-        // String statusCode = statusLine.split(" ")[1];
-        // String callId = sipMensagemLines[4].replace("Call-ID: ", "").replace("\r",
-        // "");
-        // if (NumberUtils.isDigits(statusCode)) {
-        // numero.setStatusCode(Integer.parseInt(statusCode));
-        // }
-        // numero.setCallId(callId);
-        // }
-        // numerosProcessados.add(numero);
-        // }
-        // }
-
-        // try (FileWriter fileWriter = new FileWriter("cdr.txt", true);
-        // BufferedWriter bufferedWriter = new BufferedWriter(fileWriter)) {
-        // bufferedWriter.write(String.join("\n", this.sipNotification.getCDR()));
-        // } catch (IOException e) {
-        // System.err.println("Erro ao gravar arquivo " + "cdr.txt" + ": " +
-        // e.getMessage());
-        // }
-
-        // List<String> fileText = numeros.stream()
-        // .map(n -> n.getNumero() + ";" + n.getStatusCode() + ";" + n.getCallId() +
-        // "\n")
-        // .collect(Collectors.toList());
-
-        // try (FileWriter fileWriter = new FileWriter("numeros.txt", true);
-        // BufferedWriter bufferedWriter = new BufferedWriter(fileWriter)) {
-        // bufferedWriter.write(String.join("", fileText));
-        // } catch (IOException e) {
-        // System.err.println("Erro ao gravar arquivo " + "numeros.txt" + ": " +
-        // e.getMessage());
-        // }
 
         this.sipDisconect();
         return numerosProcessados;

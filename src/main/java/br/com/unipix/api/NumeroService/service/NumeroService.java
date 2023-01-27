@@ -1,5 +1,7 @@
 package br.com.unipix.api.NumeroService.service;
 
+import java.io.BufferedWriter;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
@@ -29,7 +31,22 @@ public class NumeroService {
     public List<NumeroResponseDTO> processarArquivoNumeros(MultipartFile arquivo)
             throws IOException, InterruptedException, ExecutionException {
         List<String> numeros = readNumberFile.readAndValidateFile(arquivo);
-        return criarNumeros(numeros);
+
+        // FileWriter fileWriter = new FileWriter("numeroSemRepeticao.txt", false);
+        // BufferedWriter writer = new BufferedWriter(fileWriter);
+      
+        // List<String> nSalvos = new ArrayList<>();
+        // for (String n : numeros) {
+        //     String[] nAr = n.split(",");
+        //     String numero = nAr[0];
+        //     Integer i = nSalvos.indexOf(numero);
+        //     if(i == -1){
+        //         nSalvos.add(numero);
+        //         writer.write(n + "\n");
+        //     }
+        // }
+        // writer.close();
+        return this.criarNumeros(numeros);
     }
 
     public List<NumeroResponseDTO> criarNumeros(List<String> numbers)
@@ -40,8 +57,10 @@ public class NumeroService {
 
         // Criando objetos Numero e adicionando na lista
         for (String n : numbers) {
+            String[] nAr = n.split(",");
             Numero numero = new Numero();
-            numero.setNumero(n);
+            numero.setNumero(nAr[0]);
+            numero.setStatusSMS(nAr[1]);
             numero.setStatusCode(0);
             numero.setDataCriacao(today);
             numerosValidos.add(numero);
@@ -49,33 +68,7 @@ public class NumeroService {
 
         // Realizando chamadas somente se houver números válidos
         if (!numerosValidos.isEmpty()) {
-            // int subListSize = 10;
-            // ListIterator<Numero> iterator = numerosValidos.listIterator();
-            // List<List<Numero>> subLists = new ArrayList<>();
-            // List<Numero> subList = new ArrayList<>(subListSize);
-            // while (iterator.hasNext()) {
-            // subList.add(iterator.next());
-            // if (subList.size() == subListSize) {
-            // subLists.add(subList);
-            // subList = new ArrayList<>(subListSize);
-            // }
-            // }
-            // if (!subList.isEmpty()) {
-            // subLists.add(subList);
-            // }
-
-            // Integer i = 1;
-
-            // for (List<Numero> ns : subLists) {
-            // System.out.println("Processando " + (i * 10) + " de " +
-            // numerosValidos.size());
-            // this.sipService.call(ns);
-            // i++;
-            // }
-
-            // numerosValidos = this.sipService.call(numerosValidos);
-
-            this.sipService.call(numerosValidos);
+            numeroProcessados = this.sipService.processCall(numerosValidos);
         }
 
         // Transformando objetos Numero em NumeroResponseDTO

@@ -1,5 +1,8 @@
 package br.com.unipix.api.NumeroService.SIP;
 
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -97,7 +100,6 @@ public class SipNotification extends Thread {
                 if (msgr[2].contains("Finished")) {
                     String line = msgr[1];
                     if (!line.equals("-1")) {
-                        // System.out.println((this.notifications.size() + 1) + ": " + msg);
                         this.notifications.add(msg);
                     }
                 }
@@ -106,6 +108,14 @@ public class SipNotification extends Thread {
 
             if (msgr[0].equals("CDR")) {
                 this.cdrNotification.add(msg);
+                try {
+                    FileWriter fileWriter = new FileWriter("cdr.txt", true);
+                    BufferedWriter writer = new BufferedWriter(fileWriter);
+                    writer.write("\n"+msg);
+                    writer.close();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
             }
 
         } catch (Exception e) {

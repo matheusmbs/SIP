@@ -20,6 +20,7 @@ public class Numero {
 	private String id;
     private String numero;
     private String callId;
+    private String statusSMS;
     private Integer statusCode;
     private LocalDateTime dataCriacao;
     private LocalDateTime dataProcessamento;
