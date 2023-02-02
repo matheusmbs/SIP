@@ -1,20 +1,24 @@
 package br.com.unipix.api.NumeroService.SIP;
 
-import java.io.BufferedWriter;
-import java.io.FileWriter;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
+import java.time.LocalDateTime;
 
+import org.springframework.beans.factory.annotation.Autowired;
+
+import br.com.unipix.api.NumeroService.model.Numero;
+import br.com.unipix.api.NumeroService.service.NumeroService;
 import webphone.webphone;
 
 public class SipNotification extends Thread {
     boolean terminated = false;
     webphone webphoneobj = null;
-    List<String> notifications = new ArrayList();
-    List<String> cdrNotification = new ArrayList();
+    String arquivoCDR;
+    
+    @Autowired
+    NumeroService numeroService;
 
-    public SipNotification(webphone webphoneobj_in) {
+
+    public SipNotification(webphone webphoneobj_in) throws IOException {
         webphoneobj = webphoneobj_in;
     }
 
@@ -41,7 +45,6 @@ public class SipNotification extends Thread {
 
     {
         terminated = true;
-        this.notifications.clear();
     }
 
     // blocking read in this thread
@@ -78,44 +81,22 @@ public class SipNotification extends Thread {
 
     }
 
-    public List<String> getNotifications() {
-        return notifications;
-    }
-
-    public List<String> getCDR() {
-        return cdrNotification;
-    }
-
     public void ProcessNotifications(String msg) {
 
         try {
             msg = msg.replace("WPNOTIFICATION,", "");
             String[] msgr = msg.split(",");
-            if (msgr[0].equals("STATUS")) {
-                if (msgr[2].contains("Speaking")) {
-                    String line = msg.split(",")[1];
-                    this.webphoneobj.API_Hangup(Integer.parseInt(line));
-                }
 
-                if (msgr[2].contains("Finished")) {
-                    String line = msgr[1];
-                    if (!line.equals("-1")) {
-                        this.notifications.add(msg);
-                    }
-                }
-
-            }
+            // if (msgr[0].equals("STATUS")) {
+            //     this.notifications.add(msg);
+            // }
 
             if (msgr[0].equals("CDR")) {
-                this.cdrNotification.add(msg);
-                try {
-                    FileWriter fileWriter = new FileWriter("cdr.txt", true);
-                    BufferedWriter writer = new BufferedWriter(fileWriter);
-                    writer.write("\n"+msg);
-                    writer.close();
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
+                // Aqui eu pego o CDR da ligação
+                Numero numero = new Numero();
+                LocalDateTime today = LocalDateTime.now();
+                numero.setDataFinalizacao(today);
+                numero.setStatusProcessamento("Processado");
             }
 
         } catch (Exception e) {

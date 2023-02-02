@@ -6,73 +6,96 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.URL;
-import java.util.ArrayList;
+import java.time.LocalDateTime;
 import java.util.List;
 import java.util.concurrent.ExecutionException;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.Future;
-import java.util.concurrent.TimeUnit;
-import java.util.stream.Collectors;
 
+import org.apache.commons.lang3.math.NumberUtils;
+import org.apache.poi.util.StringUtil;
 import org.springframework.stereotype.Service;
-
-import br.com.unipix.api.NumeroService.SIP.SipCallThread;
 import br.com.unipix.api.NumeroService.SIP.SipNotification;
 import br.com.unipix.api.NumeroService.model.Numero;
 import webphone.webphone;
 
 @Service
 public class SipService {
-    private webphone webphoneobj;
+    private webphone wobj;
     private SipNotification sipNotification = null;
     private Integer line = 1;
 
-    public List<Numero> processCall(List<Numero> numeros) throws IOException, InterruptedException, ExecutionException {
-        List<Numero> numerosProcessados = new ArrayList<Numero>();
-        List<Numero> numerosChamados = this.call(numeros);
-        List<Numero> numerosValidos = numerosChamados.stream().filter(n -> n.getStatusCode() != 0)
-                .collect(Collectors.toList());
-        List<Numero> numeroReprocessamento = numerosChamados.stream().filter(n -> n.getStatusCode() == 0)
-                .collect(Collectors.toList());
-
-        if (numeroReprocessamento.size() > 0) {
-            numerosValidos.addAll(this.processCall(numeroReprocessamento));
+    public void ligar(List<Numero> numeros) throws IOException,
+            InterruptedException, ExecutionException {
+        if (wobj == null) {
+            this.sipStart();
         }
 
-        numerosProcessados.addAll(numerosValidos);
-        return numerosProcessados;
-    }
+        Thread.sleep(3000);
 
-    public List<Numero> call(List<Numero> numeros) throws IOException,
-            InterruptedException, ExecutionException {
-        this.sipStart();
-
-
-        Thread.sleep(2000);
-        List<Numero> numerosProcessados = new ArrayList<Numero>();
-        int numThreads = numeros.size();
-        ExecutorService executor = Executors.newFixedThreadPool(500);
-        List<Future<Numero>> mainThreads = new ArrayList<Future<Numero>>();
-
-        for (int i = 0; i < numThreads; i++) {
-            Future<Numero> mainThread = executor
-                    .submit(new SipCallThread(webphoneobj, sipNotification, numeros.get(i), i));
-            mainThreads.add(mainThread);
+        for (Numero n : numeros) {
+            Thread.sleep(20);
+            n.setLine(this.line);
+            this.wobj.API_Call(this.line, n.getNumero());
             this.line++;
         }
+    }
 
-        // // Fecha o executor e espera todas as tarefas terminarem
-        executor.shutdown();
-        executor.awaitTermination(Long.MAX_VALUE, TimeUnit.NANOSECONDS);
+    public List<Numero> processarNumero(List<Numero> numeros, List<String> cdrs, webphone wobj) throws IOException {
+        String text = "";
+        for (String cdr : cdrs) {
+            String[] cdrArr = cdr.split(",");
+            Integer iN = numeros.stream()
+                    .filter(n -> n.getLine().toString().equals(cdrArr[1])).map(numeros::indexOf)
+                    .findFirst()
+                    .orElse(-1);
 
-        for (Future nf : mainThreads) {
-            Numero numero = (Numero) nf.get();
-            numerosProcessados.add(numero);
+            if (iN != -1) {
+                numeros.get(iN).setNumero(cdrArr[2]);
+                numeros.get(iN).setCallId(cdrArr[10].replace("[", "").replace("]", ""));
+                LocalDateTime today = LocalDateTime.now();
+                numeros.get(iN).setDataProcessamento(today);
+                numeros.get(iN).setStatusPlataforma(cdrArr[9]);
+
+                if (cdrArr[9].equals("bye Maximum call time exceeded")) {
+                    numeros.get(iN).setStatusMessage("Ok");
+                    numeros.get(iN).setStatusCode(200);
+                } else if (cdrArr[9].equals("call setup timeout (no connect response)")) {
+                    numeros.get(iN).setStatusMessage("");
+                    numeros.get(iN).setStatusCode(-1);
+                } else {
+                    String sipMessage = wobj.API_GetLastRecSIPMessage(cdrArr[1]);
+                    sipMessage = sipMessage.replace("\r", "");
+                    if (sipMessage.contains(cdrArr[2])) {
+                        String[] textArr = sipMessage.split("\n");
+                        String[] statusMssArr = textArr[0].split(" ");
+                        String statusMessage = "";
+                        for (int i = 2; i < statusMssArr.length; i++) {
+                            statusMessage += statusMssArr[i] + " ";
+                        }
+                        String statusCode = textArr[0].split(" ")[1];
+                        numeros.get(iN).setStatusMessage(statusMessage);
+                        if (NumberUtils.isDigits(statusCode)) {
+                            numeros.get(iN).setStatusCode(Integer.parseInt(statusCode));
+                        } else {
+                            numeros.get(iN).setStatusCode(-1);
+                        }
+
+                    } else {
+                        numeros.get(iN).setStatusCode(-1);
+                    }
+                }
+                String[] arr = { numeros.get(iN).getNumero(), numeros.get(iN).getStatusCode().toString(),
+                        numeros.get(iN).getStatusMessage(),
+                        numeros.get(iN).getStatusPlataforma(), numeros.get(iN).getCallId() };
+                text += StringUtil.join(arr, ",").replace("\n", "") + "\n";
+            }
         }
 
-        this.sipDisconect();
-        return numerosProcessados;
+        FileWriter fileWriter = new FileWriter("numeros.txt", true);
+        BufferedWriter writer = new BufferedWriter(fileWriter);
+        writer.write(text);
+        writer.close();
+        fileWriter.close();
+        return numeros;
     }
 
     private void sipStart() throws IOException {
@@ -80,38 +103,25 @@ public class SipService {
         BufferedReader in = new BufferedReader(new InputStreamReader(
                 whatismyip.openStream()));
         String ip = in.readLine();
-        webphoneobj = new webphone();
-        // Alguns dos parâmetros utilizados nesta função foram passados somente como
-        // teste, e podem ser ajustados ou removidos conforme necessário.
-        webphoneobj.API_SetParameter("loglevel", "1");
-        webphoneobj.API_SetParameter("logtoconsole", "1");
-        webphoneobj.API_SetParameter("systemexit", "2");
-        webphoneobj.API_SetParameter("syncvoicerec", "0");
-        webphoneobj.API_SetParameter("useaudiodevicerecord", "false");
-        webphoneobj.API_SetParameter("useaudiodeviceplayback", "false");
-        webphoneobj.API_SetParameter("mediatimeout", "0");
-        webphoneobj.API_SetParameter("defsetmuted", "3");
-        webphoneobj.API_SetParameter("aec", "0");
-        webphoneobj.API_SetParameter("serveraddress", "177.53.17.120:5060");
-        webphoneobj.API_SetParameter("username", "55111185744186");
-        webphoneobj.API_SetParameter("password", "W5UF6SpQajf6zR");
-        webphoneobj.API_SetParameter("proxyaddress", ip);
-        webphoneobj.API_SetParameter("register", "1");
-        webphoneobj.API_SetParameter("registerinterval", "86400");
-        webphoneobj.API_SetParameter("needunregister", "false");
-        webphoneobj.API_SetParameter("contactaddressfailback", "2");
-        webphoneobj.API_SetParameter("events", "0");
-        webphoneobj.API_Start();
-        this.sipNotification = new SipNotification(webphoneobj);
+        wobj = new webphone();
+        wobj.API_Start();
+        wobj.API_SetParameter("serveraddress", "177.53.17.120:5060");
+        wobj.API_SetParameter("username", "55111185744186");
+        wobj.API_SetParameter("password", "W5UF6SpQajf6zR");
+        wobj.API_SetParameter("proxyaddress", ip);
+        wobj.API_SetParameter("register", "1");
+        wobj.API_SetParameter("maxsimcalls", "1000");
+        wobj.API_SetParameter("maxlinesex", "1000");
+        wobj.API_Start();
+        this.sipNotification = new SipNotification(wobj);
         this.sipNotification.start();
     }
 
     private void sipDisconect() {
-        webphoneobj.API_Unregister();
-        webphoneobj.API_Stop();
-        webphoneobj.API_Exit();
-        this.webphoneobj = null;
-        this.sipNotification.Stop();
+        wobj.API_Stop();
+        wobj.stop();
+        wobj.API_Exit();
+        wobj = null;
         this.sipNotification = null;
     }
 }

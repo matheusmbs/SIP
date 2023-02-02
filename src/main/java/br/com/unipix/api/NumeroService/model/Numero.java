@@ -22,6 +22,12 @@ public class Numero {
     private String callId;
     private String statusSMS;
     private Integer statusCode;
+    private Integer line;
+    private Integer quantidadeReprocessamento;
+    private String statusMessage;
+    private String statusPlataforma;
+    private String statusProcessamento;
     private LocalDateTime dataCriacao;
     private LocalDateTime dataProcessamento;
+    private LocalDateTime dataFinalizacao;
 }

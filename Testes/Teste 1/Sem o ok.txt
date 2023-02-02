@@ -1,0 +1,1864 @@
+5513974014816,entregue no aparelho
+5586988304730,entregue no aparelho
+5567999956907,não entregue
+5585989734140,entregue no aparelho
+5571991453348,não entregue
+5583987115334,entregue no aparelho
+5553997085781,enviado para a operadora
+5586994436675,não entregue
+5591991405879,não entregue
+5522997739959,não entregue
+5592993628085,não entregue
+5514998161126,entregue no aparelho
+5511976868978,não entregue
+5591988539272,não entregue
+5551981149238,não entregue
+5561981941407,entregue no aparelho
+5531995277787,não entregue
+5534996862110,entregue no aparelho
+5542988149885,entregue no aparelho
+5583982206158,entregue no aparelho
+5553981003500,entregue no aparelho
+5534988376545,entregue no aparelho
+5585997002344,não entregue
+5519994072921,entregue no aparelho
+5511939276080,entregue no aparelho
+5548996981196,entregue no aparelho
+5551981317859,entregue no aparelho
+5512988889325,entregue no aparelho
+5528999815367,entregue no aparelho
+5564992494053,entregue no aparelho
+5553984146644,entregue no aparelho
+5517997370441,entregue no aparelho
+5585986050908,não entregue
+5562993077746,não entregue
+5511967149517,entregue no aparelho
+5551989980251,não entregue
+5585981452255,enviado para a operadora
+5585987719580,não entregue
+5585997881881,não entregue
+5511972831195,entregue no aparelho
+5588992590271,entregue no aparelho
+5511999920099,entregue no aparelho
+5565999630217,não entregue
+5511942900695,entregue no aparelho
+5521979027590,entregue no aparelho
+5516996214382,enviado para a operadora
+5564992710875,não entregue
+5511931439000,enviado para a operadora
+5571984367483,entregue no aparelho
+5585988151804,não entregue
+5511958637780,entregue no aparelho
+5566999534646,entregue no aparelho
+5563981262382,entregue no aparelho
+5581988265944,entregue no aparelho
+5581992394861,enviado para a operadora
+5588994110833,não entregue
+5592986135737,não entregue
+5571986673415,entregue no aparelho
+5532991143853,entregue no aparelho
+5579991737169,entregue no aparelho
+5521998656778,entregue no aparelho
+5554991731533,não entregue
+5581989180776,entregue no aparelho
+5537998285539,entregue no aparelho
+5551994227559,entregue no aparelho
+5528999299885,entregue no aparelho
+5585985767162,enviado para a operadora
+5511997974009,entregue no aparelho
+5585991964442,não entregue
+5571981964647,entregue no aparelho
+5588996393272,entregue no aparelho
+5522975256643,não entregue
+5567996401809,entregue no aparelho
+5511949916946,entregue no aparelho
+5521976340140,não entregue
+5592992613721,entregue no aparelho
+5544991110841,entregue no aparelho
+5551981753220,entregue no aparelho
+5512981689595,entregue no aparelho
+5567998900974,entregue no aparelho
+5585999390608,entregue no aparelho
+5511944981978,entregue no aparelho
+5511999028522,entregue no aparelho
+5571988639138,entregue no aparelho
+5521965483850,entregue no aparelho
+5511960319730,entregue no aparelho
+5585996225686,não entregue
+5584993160745,não entregue
+5566996892930,entregue no aparelho
+5511984795843,entregue no aparelho
+5511967766048,entregue no aparelho
+5551996893171,entregue no aparelho
+5567993354352,entregue no aparelho
+5551999551905,entregue no aparelho
+5592988098639,entregue no aparelho
+5553991716969,entregue no aparelho
+5521968562429,entregue no aparelho
+5553999784167,entregue no aparelho
+5551982016503,entregue no aparelho
+5585987527228,não entregue
+5511972979492,entregue no aparelho
+5584988914226,não entregue
+5531984252241,entregue no aparelho
+5551990117441,entregue no aparelho
+5511967306592,enviado para a operadora
+5586994568929,entregue no aparelho
+5583986308227,não entregue
+5565998112777,entregue no aparelho
+5533988483807,entregue no aparelho
+5571981909123,não entregue
+5528992919667,não entregue
+5511961224351,entregue no aparelho
+5591999939690,não entregue
+5511973535771,entregue no aparelho
+5511992196256,não entregue
+5514996518110,entregue no aparelho
+5511997195619,entregue no aparelho
+5591988499321,não entregue
+5511985707880,entregue no aparelho
+5551982149860,entregue no aparelho
+5511957134937,entregue no aparelho
+5581992182461,não entregue
+5585991968564,não entregue
+5583993025000,entregue no aparelho
+5521987147644,entregue no aparelho
+5561991031426,entregue no aparelho
+5585981812046,não entregue
+5575981426958,não entregue
+5512996375324,entregue no aparelho
+5564984420908,enviado para a operadora
+5553984590127,entregue no aparelho
+5582999815952,entregue no aparelho
+5544998272324,entregue no aparelho
+5547984917092,entregue no aparelho
+5564992793994,entregue no aparelho
+5551998872512,não entregue
+5511947165443,entregue no aparelho
+5594991017175,enviado para a operadora
+5531994950037,entregue no aparelho
+5562991348488,entregue no aparelho
+5569992782104,entregue no aparelho
+5543998199149,entregue no aparelho
+5521959300731,enviado para a operadora
+5511956176403,entregue no aparelho
+5511992995921,entregue no aparelho
+5517981271315,entregue no aparelho
+5551996247936,entregue no aparelho
+5511947843558,não entregue
+5532988492993,entregue no aparelho
+5511979509981,entregue no aparelho
+5583986710630,entregue no aparelho
+5589994138335,não entregue
+5511985890107,entregue no aparelho
+5511974767923,entregue no aparelho
+5547999888823,entregue no aparelho
+5591986673352,não entregue
+5531999241098,entregue no aparelho
+5566992356270,entregue no aparelho
+5514997781521,não entregue
+5551997438456,entregue no aparelho
+5564992338881,entregue no aparelho
+5599931991089,não entregue
+5585989561495,entregue no aparelho
+5531975696056,entregue no aparelho
+5534984015545,entregue no aparelho
+5521992073229,entregue no aparelho
+5548991893998,entregue no aparelho
+5521990469226,entregue no aparelho
+5531984933528,não entregue
+5571996305593,entregue no aparelho
+5511985928888,entregue no aparelho
+5522998650502,não entregue
+5528992522582,entregue no aparelho
+5511989128327,entregue no aparelho
+5524981153633,entregue no aparelho
+5571999777421,entregue no aparelho
+5547992024779,enviado para a operadora
+5543999044905,entregue no aparelho
+5528999565216,entregue no aparelho
+5583998861398,entregue no aparelho
+5528992535076,entregue no aparelho
+5528999042638,entregue no aparelho
+5551985965853,entregue no aparelho
+5534984038336,entregue no aparelho
+5571981541744,não entregue
+5527988126789,não entregue
+5566984315045,enviado para a operadora
+5588981751859,não entregue
+5511954667709,não entregue
+5561999093353,enviado para a operadora
+5551996658715,entregue no aparelho
+5511954080694,entregue no aparelho
+5592988383776,não entregue
+5551993688331,entregue no aparelho
+5541988793698,entregue no aparelho
+5565984423109,entregue no aparelho
+5571982312424,entregue no aparelho
+5547989157474,entregue no aparelho
+5551999966728,entregue no aparelho
+5588997125654,entregue no aparelho
+5521992051955,entregue no aparelho
+5583996897814,enviado para a operadora
+5585996528512,não entregue
+5581999468689,entregue no aparelho
+5561982287807,entregue no aparelho
+5551991886525,entregue no aparelho
+5594974004351,entregue no aparelho
+5548998560087,entregue no aparelho
+5521964337307,entregue no aparelho
+5511933898787,entregue no aparelho
+5592984468254,não entregue
+5571991200307,entregue no aparelho
+5531992656592,entregue no aparelho
+5553999434803,entregue no aparelho
+5553997121819,entregue no aparelho
+5511992336593,entregue no aparelho
+5549999406152,entregue no aparelho
+5555991175027,entregue no aparelho
+5515988150484,entregue no aparelho
+5511998956299,enviado para a operadora
+5521983525822,entregue no aparelho
+5532991809396,entregue no aparelho
+5531985089286,entregue no aparelho
+5562981934102,entregue no aparelho
+5575983535906,enviado para a operadora
+5586994650411,entregue no aparelho
+5511999117764,entregue no aparelho
+5511950017402,entregue no aparelho
+5585986341835,não entregue
+5586988681621,entregue no aparelho
+5511941520465,entregue no aparelho
+5579988445698,entregue no aparelho
+5571984011991,entregue no aparelho
+5592993636811,entregue no aparelho
+5586981667769,entregue no aparelho
+5528999554784,entregue no aparelho
+5524998289602,entregue no aparelho
+5555999911663,entregue no aparelho
+5516981864321,entregue no aparelho
+5561987653421,não entregue
+5554991695969,entregue no aparelho
+5586998289658,entregue no aparelho
+5547988347312,não entregue
+5567999624042,entregue no aparelho
+5511981343332,não entregue
+5554993255583,entregue no aparelho
+5551993574445,entregue no aparelho
+5585999991075,não entregue
+5585985501020,enviado para a operadora
+5551999859299,entregue no aparelho
+5566981371000,entregue no aparelho
+5555991780438,entregue no aparelho
+5551993078329,enviado para a operadora
+5571988359190,entregue no aparelho
+5588999627000,não entregue
+5592992960145,entregue no aparelho
+5511970492822,entregue no aparelho
+5521983838308,entregue no aparelho
+5521995303132,entregue no aparelho
+5549999524428,entregue no aparelho
+5511966066617,entregue no aparelho
+5588993445880,não entregue
+5551999861211,enviado para a operadora
+5521986238302,entregue no aparelho
+5561995336496,entregue no aparelho
+5518996046228,entregue no aparelho
+5511993961717,enviado para a operadora
+5511992775791,entregue no aparelho
+5519987468101,entregue no aparelho
+5521988432678,não entregue
+5587981664934,entregue no aparelho
+5577981509762,entregue no aparelho
+5528988158582,entregue no aparelho
+5511969330796,enviado para a operadora
+5527999524747,não entregue
+5513981693265,entregue no aparelho
+5511976247794,entregue no aparelho
+5521970973939,entregue no aparelho
+5517991241746,entregue no aparelho
+5592984601998,não entregue
+5583981807123,entregue no aparelho
+5586981912428,não entregue
+5541985025150,entregue no aparelho
+5577991152568,não entregue
+5585992737998,entregue no aparelho
+5551997158548,entregue no aparelho
+5567998433465,entregue no aparelho
+5512992261913,entregue no aparelho
+5541997621147,entregue no aparelho
+5585997244694,entregue no aparelho
+5517997330636,entregue no aparelho
+5538999934402,entregue no aparelho
+5511954732623,entregue no aparelho
+5585988524507,não entregue
+5521988337782,entregue no aparelho
+5531982611879,entregue no aparelho
+5585999171592,entregue no aparelho
+5527998268908,entregue no aparelho
+5511963626642,não entregue
+5516996145425,entregue no aparelho
+5511995024069,entregue no aparelho
+5514997533735,entregue no aparelho
+5511981711585,entregue no aparelho
+5533988293832,entregue no aparelho
+5527999693798,entregue no aparelho
+5515996741078,entregue no aparelho
+5575991123818,entregue no aparelho
+5547999003751,entregue no aparelho
+5585997071821,não entregue
+5547997526382,não entregue
+5541997548943,não entregue
+5551986169445,entregue no aparelho
+5519995371218,não entregue
+5511967485494,entregue no aparelho
+5586995241825,entregue no aparelho
+5511948320939,entregue no aparelho
+5551999711354,entregue no aparelho
+5571988656855,entregue no aparelho
+5511964563456,entregue no aparelho
+5561992155140,não entregue
+5517991544386,entregue no aparelho
+5511954365059,entregue no aparelho
+5586981610543,entregue no aparelho
+5547996982494,entregue no aparelho
+5551999566668,entregue no aparelho
+5511982340446,não entregue
+5577981105271,entregue no aparelho
+5521975396769,não entregue
+5533984630686,entregue no aparelho
+5551997830232,entregue no aparelho
+5585988872777,enviado para a operadora
+5593991570599,entregue no aparelho
+5548996604452,entregue no aparelho
+5519987016617,enviado para a operadora
+5531981078843,entregue no aparelho
+5531996036515,entregue no aparelho
+5586981148443,entregue no aparelho
+5561993535347,entregue no aparelho
+5583994178955,enviado para a operadora
+5516981212940,entregue no aparelho
+5554984342206,entregue no aparelho
+5511999978852,entregue no aparelho
+5583996121613,entregue no aparelho
+5513991534238,não entregue
+5519974012077,entregue no aparelho
+5585999945162,não entregue
+5569981115287,entregue no aparelho
+5571988423716,entregue no aparelho
+5581985391105,entregue no aparelho
+5589999879323,não entregue
+5565996048304,entregue no aparelho
+5545999066158,entregue no aparelho
+5581993797475,não entregue
+5515996930150,entregue no aparelho
+5567993510045,não entregue
+5554997033706,entregue no aparelho
+5538999365044,entregue no aparelho
+5549999605363,entregue no aparelho
+5519987425691,entregue no aparelho
+5585999506170,não entregue
+5538997374303,entregue no aparelho
+5554999095950,entregue no aparelho
+5511961790361,não entregue
+5582981889729,não entregue
+5527999680227,entregue no aparelho
+5531987630446,entregue no aparelho
+5512996843619,não entregue
+5585996882672,entregue no aparelho
+5584986027288,entregue no aparelho
+5586988852194,entregue no aparelho
+5589981176561,entregue no aparelho
+5534996965247,entregue no aparelho
+5585986034217,entregue no aparelho
+5567999458922,entregue no aparelho
+5599999067759,não entregue
+5571981119065,entregue no aparelho
+5566996101192,enviado para a operadora
+5581973435431,entregue no aparelho
+5511981840561,não entregue
+5592995096424,não entregue
+5585999832580,não entregue
+5521969326523,entregue no aparelho
+5521990256919,entregue no aparelho
+5555991693154,entregue no aparelho
+5561992883684,não entregue
+5511962880376,entregue no aparelho
+5585997998847,entregue no aparelho
+5599984316108,entregue no aparelho
+5522997676845,entregue no aparelho
+5531995962167,entregue no aparelho
+5571991347644,entregue no aparelho
+5561992665863,entregue no aparelho
+5519974219664,entregue no aparelho
+5551986260054,não entregue
+5581982216296,não entregue
+5519988728274,enviado para a operadora
+5521992324929,não entregue
+5511956518641,enviado para a operadora
+5573982548608,entregue no aparelho
+5514998184461,entregue no aparelho
+5511947723332,não entregue
+5531998640073,entregue no aparelho
+5566992399926,não entregue
+5551999043474,entregue no aparelho
+5512991268932,entregue no aparelho
+5542999740420,entregue no aparelho
+5562993135085,entregue no aparelho
+5571983872216,não entregue
+5513997064268,entregue no aparelho
+5531992763107,entregue no aparelho
+5541999231010,entregue no aparelho
+5514996517557,entregue no aparelho
+5547991165459,entregue no aparelho
+5586988757391,enviado para a operadora
+5511991183732,entregue no aparelho
+5585996342266,enviado para a operadora
+5531995183203,entregue no aparelho
+5545998409175,entregue no aparelho
+5561994294006,não entregue
+5511950246269,entregue no aparelho
+5534991009629,entregue no aparelho
+5585999180064,entregue no aparelho
+5561991766659,não entregue
+5584991097568,enviado para a operadora
+5541992288134,entregue no aparelho
+5585999351443,não entregue
+5569993960952,entregue no aparelho
+5511959783547,entregue no aparelho
+5541997243231,entregue no aparelho
+5531983507447,entregue no aparelho
+5531997800962,entregue no aparelho
+5591984909018,entregue no aparelho
+5584987188643,não entregue
+5549991813254,entregue no aparelho
+5521992471695,entregue no aparelho
+5511988501346,entregue no aparelho
+5521994180452,não entregue
+5534998005200,entregue no aparelho
+5519993596943,entregue no aparelho
+5521973405732,entregue no aparelho
+5569993429556,não entregue
+5514991623241,entregue no aparelho
+5511982099012,entregue no aparelho
+5592988066799,enviado para a operadora
+5584992093516,entregue no aparelho
+5562992074222,entregue no aparelho
+5599984332488,entregue no aparelho
+5542999542597,entregue no aparelho
+5592986135376,entregue no aparelho
+5555999133438,entregue no aparelho
+5521975999134,entregue no aparelho
+5527998690345,entregue no aparelho
+5531982882961,entregue no aparelho
+5585991105475,entregue no aparelho
+5585988434231,não entregue
+5511987766147,entregue no aparelho
+5511943207700,entregue no aparelho
+5547996711134,entregue no aparelho
+5585986510153,não entregue
+5532988121376,entregue no aparelho
+5531997110564,entregue no aparelho
+5585988125948,entregue no aparelho
+5586988469760,entregue no aparelho
+5585981056331,não entregue
+5541996479546,não entregue
+5543984795218,não entregue
+5521976172557,entregue no aparelho
+5547999772869,entregue no aparelho
+5512991352199,entregue no aparelho
+5531993429612,entregue no aparelho
+5531983123368,não entregue
+5588999247200,não entregue
+5579988781001,entregue no aparelho
+5527996082858,entregue no aparelho
+5518996299998,entregue no aparelho
+5561999041309,entregue no aparelho
+5585989540638,não entregue
+5584998712633,não entregue
+5534991095131,não entregue
+5531988958090,entregue no aparelho
+5551989210149,não entregue
+5554992295268,entregue no aparelho
+5528999411862,entregue no aparelho
+5565992653063,entregue no aparelho
+5511937602932,não entregue
+5541987268053,não entregue
+5585991296064,entregue no aparelho
+5571983635962,não entregue
+5532998084219,entregue no aparelho
+5561999819078,entregue no aparelho
+5565984331644,entregue no aparelho
+5564992602890,não entregue
+5563991322975,entregue no aparelho
+5512997092004,não entregue
+5555999894318,entregue no aparelho
+5589981262349,entregue no aparelho
+5521979373119,entregue no aparelho
+5551995042140,entregue no aparelho
+5511977014423,entregue no aparelho
+5588993307850,enviado para a operadora
+5579988574783,entregue no aparelho
+5575991191134,entregue no aparelho
+5512987017610,entregue no aparelho
+5586995443626,entregue no aparelho
+5599992169391,entregue no aparelho
+5585988977132,não entregue
+5541997311968,entregue no aparelho
+5585998003189,não entregue
+5531971321959,entregue no aparelho
+5521983768452,entregue no aparelho
+5584981422591,não entregue
+5521981744312,entregue no aparelho
+5599982400111,entregue no aparelho
+5592984152193,entregue no aparelho
+5592985613638,não entregue
+5511982613742,entregue no aparelho
+5591989577002,entregue no aparelho
+5551996515679,não entregue
+5549999701400,entregue no aparelho
+5521977194317,entregue no aparelho
+5528988036721,entregue no aparelho
+5511961324859,entregue no aparelho
+5519999850781,entregue no aparelho
+5586995542114,não entregue
+5533998125356,entregue no aparelho
+5511948511118,entregue no aparelho
+5527996130663,entregue no aparelho
+5521996199875,entregue no aparelho
+5527997444179,entregue no aparelho
+5521981311309,entregue no aparelho
+5528999897574,não entregue
+5561995853077,entregue no aparelho
+5591998295255,entregue no aparelho
+5599991330061,entregue no aparelho
+5571982167768,entregue no aparelho
+5511974396506,entregue no aparelho
+5551997149473,não entregue
+5511998404413,entregue no aparelho
+5571992824210,entregue no aparelho
+5531982603756,não entregue
+5542999943214,entregue no aparelho
+5554999491762,entregue no aparelho
+5586988333960,entregue no aparelho
+5585994037094,entregue no aparelho
+5598982499602,entregue no aparelho
+5565981271728,entregue no aparelho
+5598991524248,entregue no aparelho
+5547984245923,entregue no aparelho
+5584994409432,entregue no aparelho
+5528999006154,entregue no aparelho
+5519901740935,falha
+5514988002897,não entregue
+5562993127493,entregue no aparelho
+5589988215951,enviado para a operadora
+5528999920525,entregue no aparelho
+5589987550594,não entregue
+5511967326314,entregue no aparelho
+5571985306613,não entregue
+5564999945661,entregue no aparelho
+5553999568241,entregue no aparelho
+5551984455880,entregue no aparelho
+5511991663716,entregue no aparelho
+5511911062776,entregue no aparelho
+5534991931775,entregue no aparelho
+5586994329570,entregue no aparelho
+5551995535210,entregue no aparelho
+5586998465291,não entregue
+5551995685230,entregue no aparelho
+5544988156424,não entregue
+5585996484558,entregue no aparelho
+5543984472387,entregue no aparelho
+5511997400338,entregue no aparelho
+5585989182040,enviado para a operadora
+5551989763477,entregue no aparelho
+5514997710507,entregue no aparelho
+5585992641709,não entregue
+5591983334004,entregue no aparelho
+5511996334868,entregue no aparelho
+5561991714234,entregue no aparelho
+5592996090471,entregue no aparelho
+5521979800042,entregue no aparelho
+5561984915084,entregue no aparelho
+5522981210780,entregue no aparelho
+5531989823479,não entregue
+5581997402802,entregue no aparelho
+5521997949107,entregue no aparelho
+5592986129142,não entregue
+5511964273919,entregue no aparelho
+5586994031606,não entregue
+5553984360485,enviado para a operadora
+5571983892551,entregue no aparelho
+5571988765547,entregue no aparelho
+5521975304766,entregue no aparelho
+5551998598582,entregue no aparelho
+5586994355980,entregue no aparelho
+5511984423761,entregue no aparelho
+5581999446700,entregue no aparelho
+5555996061420,enviado para a operadora
+5534999733634,entregue no aparelho
+5562995158540,não entregue
+5514996577795,entregue no aparelho
+5511974262772,entregue no aparelho
+5585991615994,não entregue
+5598989852012,não entregue
+5591988475487,enviado para a operadora
+5566999014468,entregue no aparelho
+5511978470049,não entregue
+5521981907690,entregue no aparelho
+5564999975684,entregue no aparelho
+5544997003343,entregue no aparelho
+5582993534152,entregue no aparelho
+5511966739464,entregue no aparelho
+5521994988505,entregue no aparelho
+5547999743585,entregue no aparelho
+5511977596636,entregue no aparelho
+5567998818621,entregue no aparelho
+5511995321691,entregue no aparelho
+5582981323613,entregue no aparelho
+5551997204080,entregue no aparelho
+5588988800966,não entregue
+5511981225021,entregue no aparelho
+5561983456553,entregue no aparelho
+5548996082197,entregue no aparelho
+5563992593945,não entregue
+5551999371171,entregue no aparelho
+5551998293801,não entregue
+5521985132645,entregue no aparelho
+5574981354303,enviado para a operadora
+5511990153052,entregue no aparelho
+5551998442953,entregue no aparelho
+5511951614747,entregue no aparelho
+5585997840968,entregue no aparelho
+5565992511417,enviado para a operadora
+5511985081054,não entregue
+5584988578553,entregue no aparelho
+5551989575762,não entregue
+5563992806891,enviado para a operadora
+5511989072980,entregue no aparelho
+5571983766161,não entregue
+5551994482579,entregue no aparelho
+5531997471913,entregue no aparelho
+5571992977575,enviado para a operadora
+5571986104815,não entregue
+5551996186674,entregue no aparelho
+5581984887457,entregue no aparelho
+5551999490936,entregue no aparelho
+5531999981788,entregue no aparelho
+5511976402864,entregue no aparelho
+5511942193785,entregue no aparelho
+5511970436151,entregue no aparelho
+5579999717801,enviado para a operadora
+5511945286549,não entregue
+5583981918802,enviado para a operadora
+5527998355589,entregue no aparelho
+5581994820054,entregue no aparelho
+5511999856752,entregue no aparelho
+5584999737992,não entregue
+5524999264527,entregue no aparelho
+5548984743317,não entregue
+5541984522671,não entregue
+5528999829458,entregue no aparelho
+5512996845484,entregue no aparelho
+5581982562498,entregue no aparelho
+5567996357867,entregue no aparelho
+5511940827016,não entregue
+5511981693282,entregue no aparelho
+5588997302836,entregue no aparelho
+5551982612303,entregue no aparelho
+5518996883933,entregue no aparelho
+5521973282552,entregue no aparelho
+5531989662728,não entregue
+5547988879417,não entregue
+5581984840268,não entregue
+5527996882893,enviado para a operadora
+5583988896984,entregue no aparelho
+5561983580434,não entregue
+5519995060210,entregue no aparelho
+5571984078273,entregue no aparelho
+5553991068777,entregue no aparelho
+5551993285935,não entregue
+5517996425096,entregue no aparelho
+5531989833038,entregue no aparelho
+5553999297324,entregue no aparelho
+5541987947038,entregue no aparelho
+5511914630026,entregue no aparelho
+5569993269813,entregue no aparelho
+5585999894819,não entregue
+5531991337778,entregue no aparelho
+5511948409887,entregue no aparelho
+5564992963763,entregue no aparelho
+5511939456251,entregue no aparelho
+5571981979431,não entregue
+5519982571889,entregue no aparelho
+5511979852152,entregue no aparelho
+5581983587405,entregue no aparelho
+5545998559506,entregue no aparelho
+5547997807982,entregue no aparelho
+5522991004342,não entregue
+5592985543838,entregue no aparelho
+5562999340951,entregue no aparelho
+5511953650931,não entregue
+5551996243328,entregue no aparelho
+5551996291145,entregue no aparelho
+5519992159622,entregue no aparelho
+5575981158725,entregue no aparelho
+5511998323005,entregue no aparelho
+5511971315379,entregue no aparelho
+5535910187727,entregue no aparelho
+5585997163512,entregue no aparelho
+5532984646197,não entregue
+5581995252340,entregue no aparelho
+5585997590870,entregue no aparelho
+5591982323642,entregue no aparelho
+5551991752906,não entregue
+5511941450151,não entregue
+5521976685546,entregue no aparelho
+5592991240680,entregue no aparelho
+5512996336613,entregue no aparelho
+5511913595053,entregue no aparelho
+5541987378134,não entregue
+5586981111211,entregue no aparelho
+5561993054356,não entregue
+5571996438256,entregue no aparelho
+5584996576819,entregue no aparelho
+5591985121503,entregue no aparelho
+5551981518666,entregue no aparelho
+5524988595957,entregue no aparelho
+5531991519474,entregue no aparelho
+5519999859985,entregue no aparelho
+5567984298671,entregue no aparelho
+5555987695307,não entregue
+5528999843090,entregue no aparelho
+5585988634070,entregue no aparelho
+5541999387150,entregue no aparelho
+5551995837752,entregue no aparelho
+5585991331966,entregue no aparelho
+5577998159766,entregue no aparelho
+5522988489822,entregue no aparelho
+5547991622384,entregue no aparelho
+5519983264114,entregue no aparelho
+5547996832330,entregue no aparelho
+5592982888519,entregue no aparelho
+5531984909665,entregue no aparelho
+5531990639226,entregue no aparelho
+5565992652510,entregue no aparelho
+5564992936510,enviado para a operadora
+5581999101829,entregue no aparelho
+5512988510464,não entregue
+5511964068303,não entregue
+5562993087997,entregue no aparelho
+5575999879384,entregue no aparelho
+5599985019108,entregue no aparelho
+5555993581062,não entregue
+5528998852362,entregue no aparelho
+5541984294611,entregue no aparelho
+5569992569249,entregue no aparelho
+5561985910290,entregue no aparelho
+5585988315314,entregue no aparelho
+5531982143541,não entregue
+5567998757454,entregue no aparelho
+5561992631185,não entregue
+5592991987920,entregue no aparelho
+5584988405946,não entregue
+5521995479986,entregue no aparelho
+5511911266325,entregue no aparelho
+5587981190875,entregue no aparelho
+5581982912610,entregue no aparelho
+5545999024822,entregue no aparelho
+5511976661541,entregue no aparelho
+5511982945860,não entregue
+5582988338728,entregue no aparelho
+5534999627725,entregue no aparelho
+5511997422089,entregue no aparelho
+5585999390527,entregue no aparelho
+5511994859064,entregue no aparelho
+5598999712208,entregue no aparelho
+5511962377606,entregue no aparelho
+5584987288606,entregue no aparelho
+5553991424130,entregue no aparelho
+5517996560741,entregue no aparelho
+5592995174065,entregue no aparelho
+5518996838144,entregue no aparelho
+5528999862194,enviado para a operadora
+5589994601430,entregue no aparelho
+5511998355311,entregue no aparelho
+5551999638972,entregue no aparelho
+5538998493797,entregue no aparelho
+5511934992453,entregue no aparelho
+5579988241026,entregue no aparelho
+5511991325505,entregue no aparelho
+5511971564457,não entregue
+5516992410543,entregue no aparelho
+5511994368893,entregue no aparelho
+5534998287740,entregue no aparelho
+5553991409339,entregue no aparelho
+5573999889189,entregue no aparelho
+5581996490077,entregue no aparelho
+5561995299617,entregue no aparelho
+5577981334556,entregue no aparelho
+5511981643459,entregue no aparelho
+5567992149872,entregue no aparelho
+5519971711448,entregue no aparelho
+5511994880624,entregue no aparelho
+5531999772895,entregue no aparelho
+5511943416230,entregue no aparelho
+5561993339883,entregue no aparelho
+5542998293530,entregue no aparelho
+5541996650548,entregue no aparelho
+5519982072000,entregue no aparelho
+5567992513532,entregue no aparelho
+5521988135384,entregue no aparelho
+5547996439078,entregue no aparelho
+5547996843327,entregue no aparelho
+5511940540101,entregue no aparelho
+5551984560852,enviado para a operadora
+5512991016852,entregue no aparelho
+5511947105037,entregue no aparelho
+5551989473056,entregue no aparelho
+5511941215736,entregue no aparelho
+5511974656697,entregue no aparelho
+5565992168226,entregue no aparelho
+5562991131474,entregue no aparelho
+5511973606430,entregue no aparelho
+5511987036728,entregue no aparelho
+5519996334820,não entregue
+5585987413630,enviado para a operadora
+5568992312510,entregue no aparelho
+5585992289849,entregue no aparelho
+5513991253764,entregue no aparelho
+5569984485981,entregue no aparelho
+5517991316105,entregue no aparelho
+5511950551445,entregue no aparelho
+5561986533064,entregue no aparelho
+5567984241202,enviado para a operadora
+5521994315957,não entregue
+5585987098768,entregue no aparelho
+5541991773419,entregue no aparelho
+5551999635807,não entregue
+5511939590365,não entregue
+5571992932760,entregue no aparelho
+5515996607919,entregue no aparelho
+5511991615849,entregue no aparelho
+5581986094861,entregue no aparelho
+5586988821552,entregue no aparelho
+5511988996823,não entregue
+5593991328406,entregue no aparelho
+5511986581165,entregue no aparelho
+5518988266047,entregue no aparelho
+5514988177254,entregue no aparelho
+5534988362688,entregue no aparelho
+5551995044746,enviado para a operadora
+5513988287669,não entregue
+5551999514433,entregue no aparelho
+5575982897239,entregue no aparelho
+5521996049143,entregue no aparelho
+5551980371276,não entregue
+5548991643482,não entregue
+5521976231374,não entregue
+5585987324241,entregue no aparelho
+5512997770401,entregue no aparelho
+5592993788272,entregue no aparelho
+5555997264075,entregue no aparelho
+5549991071355,entregue no aparelho
+5516997481943,entregue no aparelho
+5512997210367,entregue no aparelho
+5519994638909,entregue no aparelho
+5555996137579,entregue no aparelho
+5541995453100,entregue no aparelho
+5598989921337,não entregue
+5561985228728,entregue no aparelho
+5555991505635,entregue no aparelho
+5549988471535,entregue no aparelho
+5511968746177,não entregue
+5511987453110,entregue no aparelho
+5511994709887,entregue no aparelho
+5531994102050,entregue no aparelho
+5521977085591,entregue no aparelho
+5583998937803,entregue no aparelho
+5586988630145,entregue no aparelho
+5531984753807,entregue no aparelho
+5511984444484,entregue no aparelho
+5562984420155,enviado para a operadora
+5551998042805,entregue no aparelho
+5511947811800,entregue no aparelho
+5511982350937,entregue no aparelho
+5585986671924,enviado para a operadora
+5511953792407,entregue no aparelho
+5521992017853,não entregue
+5517991232742,não entregue
+5561995907565,enviado para a operadora
+5585999935959,não entregue
+5591987282900,entregue no aparelho
+5579988152595,enviado para a operadora
+5522988718215,entregue no aparelho
+5516997180808,entregue no aparelho
+5511953397301,entregue no aparelho
+5553984734501,entregue no aparelho
+5567981959930,entregue no aparelho
+5511968931363,entregue no aparelho
+5553991477039,não entregue
+5554991163731,não entregue
+5581996419361,não entregue
+5528999631380,enviado para a operadora
+5522997415775,entregue no aparelho
+5541985330129,entregue no aparelho
+5571981680269,entregue no aparelho
+5531984676779,entregue no aparelho
+5551984683162,entregue no aparelho
+5585981690438,entregue no aparelho
+5531996430195,não entregue
+5519993059302,não entregue
+5521973154451,entregue no aparelho
+5551992675750,entregue no aparelho
+5538988339679,entregue no aparelho
+5533999462878,entregue no aparelho
+5511984350531,entregue no aparelho
+5528999259122,entregue no aparelho
+5586995617160,entregue no aparelho
+5561982249265,entregue no aparelho
+5513991202323,entregue no aparelho
+5554999199777,entregue no aparelho
+5511981554605,entregue no aparelho
+5551991227344,entregue no aparelho
+5521982910858,entregue no aparelho
+5571981579465,não entregue
+5511954670027,entregue no aparelho
+5511974154486,entregue no aparelho
+5583991764075,enviado para a operadora
+5588999272443,entregue no aparelho
+5553999883359,entregue no aparelho
+5584987082945,entregue no aparelho
+5555984579649,entregue no aparelho
+5548999931039,entregue no aparelho
+5585999014499,não entregue
+5551981379909,entregue no aparelho
+5528999043921,entregue no aparelho
+5516993647897,entregue no aparelho
+5598981829882,entregue no aparelho
+5585999814704,entregue no aparelho
+5586988386619,entregue no aparelho
+5521988282831,entregue no aparelho
+5535998989683,entregue no aparelho
+5586995464127,entregue no aparelho
+5551995178800,entregue no aparelho
+5591996149811,entregue no aparelho
+5534998069906,entregue no aparelho
+5515997483057,entregue no aparelho
+5585985757551,não entregue
+5585996953780,não entregue
+5551985832887,enviado para a operadora
+5573982467013,entregue no aparelho
+5531982139140,entregue no aparelho
+5511972185545,entregue no aparelho
+5519994507285,entregue no aparelho
+5512988771002,entregue no aparelho
+5563999919071,entregue no aparelho
+5514991109554,não entregue
+5551993305846,entregue no aparelho
+5511989486791,entregue no aparelho
+5531989857340,entregue no aparelho
+5548988458526,entregue no aparelho
+5516999989958,entregue no aparelho
+5531995962304,entregue no aparelho
+5551986109060,entregue no aparelho
+5551999453313,não entregue
+5567991893705,não entregue
+5585991758816,entregue no aparelho
+5555999677810,entregue no aparelho
+5541996866776,entregue no aparelho
+5521987121392,entregue no aparelho
+5574981073976,entregue no aparelho
+5521991055686,entregue no aparelho
+5513988722196,entregue no aparelho
+5581985563134,entregue no aparelho
+5514981452053,não entregue
+5521964701455,entregue no aparelho
+5538984032731,enviado para a operadora
+5571992255020,entregue no aparelho
+5541998976187,entregue no aparelho
+5574991084637,entregue no aparelho
+5585981968391,entregue no aparelho
+5561993327212,não entregue
+5519981170904,entregue no aparelho
+5511934949031,entregue no aparelho
+5511982978219,entregue no aparelho
+5553999983589,entregue no aparelho
+5511977638135,entregue no aparelho
+5555996870666,entregue no aparelho
+5511974825160,enviado para a operadora
+5545999080444,entregue no aparelho
+5551981289144,não entregue
+5524998791633,entregue no aparelho
+5519991845863,entregue no aparelho
+5551992531601,não entregue
+5518991649969,não entregue
+5547984577683,entregue no aparelho
+5511981241192,entregue no aparelho
+5511980363958,entregue no aparelho
+5511998091827,entregue no aparelho
+5553991805226,entregue no aparelho
+5588999028333,não entregue
+5591985944556,entregue no aparelho
+5585996558766,enviado para a operadora
+5592992219931,entregue no aparelho
+5511997890838,entregue no aparelho
+5585997691003,não entregue
+5583988446643,não entregue
+5541984941678,enviado para a operadora
+5566984617549,entregue no aparelho
+5511958572379,entregue no aparelho
+5582988760933,entregue no aparelho
+5531983351211,entregue no aparelho
+5521975685946,não entregue
+5521995875226,entregue no aparelho
+5527998581606,entregue no aparelho
+5555996065710,entregue no aparelho
+5585999667870,não entregue
+5581985013391,entregue no aparelho
+5511992582865,não entregue
+5551995726574,entregue no aparelho
+5521997755040,entregue no aparelho
+5571984663813,entregue no aparelho
+5554996085701,entregue no aparelho
+5562981421819,entregue no aparelho
+5585989536733,entregue no aparelho
+5511993038402,entregue no aparelho
+5538984234861,entregue no aparelho
+5555991256790,entregue no aparelho
+5588996394781,entregue no aparelho
+5575991352729,entregue no aparelho
+5528999424068,entregue no aparelho
+5551992862325,entregue no aparelho
+5531982144433,entregue no aparelho
+5571985580335,entregue no aparelho
+5511983842773,entregue no aparelho
+5562983447700,entregue no aparelho
+5561996467218,entregue no aparelho
+5581996151084,não entregue
+5521986860199,não entregue
+5521985231878,entregue no aparelho
+5585991083718,não entregue
+5511947433703,entregue no aparelho
+5511981234903,entregue no aparelho
+5551999168777,entregue no aparelho
+5511940045235,não entregue
+5531984997867,entregue no aparelho
+5542991571776,entregue no aparelho
+5512991734010,não entregue
+5591985513286,entregue no aparelho
+5586994892498,não entregue
+5551984046502,entregue no aparelho
+5511977072579,entregue no aparelho
+5527997571969,entregue no aparelho
+5551991124945,entregue no aparelho
+5591992817126,não entregue
+5511997944392,entregue no aparelho
+5586998434169,entregue no aparelho
+5511970476082,entregue no aparelho
+5585986387483,não entregue
+5585999810081,não entregue
+5585989585657,entregue no aparelho
+5521996341062,entregue no aparelho
+5551991150100,entregue no aparelho
+5541996091302,entregue no aparelho
+5538984254040,entregue no aparelho
+5538998300446,entregue no aparelho
+5575983391652,entregue no aparelho
+5584988515584,entregue no aparelho
+5511994133282,entregue no aparelho
+5551982401167,entregue no aparelho
+5511988664773,entregue no aparelho
+5514997622042,entregue no aparelho
+5511982189706,entregue no aparelho
+5511948284826,entregue no aparelho
+5581999408000,entregue no aparelho
+5585989956352,não entregue
+5519996685012,entregue no aparelho
+5551994804908,não entregue
+5512988065307,entregue no aparelho
+5551982648850,entregue no aparelho
+5512996548410,entregue no aparelho
+5535984444016,não entregue
+5585999565098,entregue no aparelho
+5527988068912,não entregue
+5573999033901,entregue no aparelho
+5551999903124,entregue no aparelho
+5564992776406,entregue no aparelho
+5518996726014,entregue no aparelho
+5581991845743,não entregue
+5533988620079,não entregue
+5567992220710,não entregue
+5551993703552,não entregue
+5511996130472,entregue no aparelho
+5511984859212,entregue no aparelho
+5553999248494,entregue no aparelho
+5564996114469,entregue no aparelho
+5586981230063,não entregue
+5582993066118,entregue no aparelho
+5541998194606,entregue no aparelho
+5585986771742,enviado para a operadora
+5538992574557,entregue no aparelho
+5571983006445,entregue no aparelho
+5591985325426,não entregue
+5531994831423,entregue no aparelho
+5521970287063,enviado para a operadora
+5585988982862,entregue no aparelho
+5511942387378,entregue no aparelho
+5511976117254,entregue no aparelho
+5531997035353,entregue no aparelho
+5527999810193,entregue no aparelho
+5531984359511,entregue no aparelho
+5551999740163,entregue no aparelho
+5564996653888,entregue no aparelho
+5551981338417,não entregue
+5547988261028,entregue no aparelho
+5585988781135,não entregue
+5554999440818,entregue no aparelho
+5538984171146,não entregue
+5532999396952,entregue no aparelho
+5511964961756,entregue no aparelho
+5511999208418,enviado para a operadora
+5514997088287,entregue no aparelho
+5511995346701,entregue no aparelho
+5534984088240,enviado para a operadora
+5511975159804,entregue no aparelho
+5585988611128,não entregue
+5531993151762,entregue no aparelho
+5511982774342,entregue no aparelho
+5524992329046,entregue no aparelho
+5553991077610,não entregue
+5588981796670,não entregue
+5511982338282,entregue no aparelho
+5519996116238,entregue no aparelho
+5521993441796,entregue no aparelho
+5585986959003,não entregue
+5531984292450,não entregue
+5524988161568,entregue no aparelho
+5511989339567,entregue no aparelho
+5585992981688,entregue no aparelho
+5521999862421,entregue no aparelho
+5585991366137,não entregue
+5531973494884,entregue no aparelho
+5585988996251,entregue no aparelho
+5542999943994,entregue no aparelho
+5554991622873,não entregue
+5535988933676,enviado para a operadora
+5535984724778,entregue no aparelho
+5511991137121,entregue no aparelho
+5521985829962,entregue no aparelho
+5577998472149,entregue no aparelho
+5528999488776,entregue no aparelho
+5593984020869,não entregue
+5562981617686,entregue no aparelho
+5554999207310,entregue no aparelho
+5538999412510,entregue no aparelho
+5551995116061,não entregue
+5511999957564,entregue no aparelho
+5548988121420,entregue no aparelho
+5521996487617,não entregue
+5599985070427,entregue no aparelho
+5521967671795,enviado para a operadora
+5583991598617,não entregue
+5522992156716,não entregue
+5528992716056,entregue no aparelho
+5511941890100,entregue no aparelho
+5585999945926,não entregue
+5521991121308,entregue no aparelho
+5511996561210,entregue no aparelho
+5588994355922,não entregue
+5537999496396,entregue no aparelho
+5562999221364,entregue no aparelho
+5515996858648,entregue no aparelho
+5566996655571,entregue no aparelho
+5512997667672,entregue no aparelho
+5577988501727,enviado para a operadora
+5585998007166,não entregue
+5591981372745,entregue no aparelho
+5586999832577,entregue no aparelho
+5511910176775,enviado para a operadora
+5522997561463,entregue no aparelho
+5561996688376,entregue no aparelho
+5511996260856,entregue no aparelho
+5573999786382,não entregue
+5598981398361,não entregue
+5586994311694,não entregue
+5549991895090,entregue no aparelho
+5581987637032,entregue no aparelho
+5585986860201,enviado para a operadora
+5511993845630,entregue no aparelho
+5515988220235,não entregue
+5563991204913,entregue no aparelho
+5527996366052,enviado para a operadora
+5585999785804,entregue no aparelho
+5511958559574,entregue no aparelho
+5521985221939,entregue no aparelho
+5591989032563,entregue no aparelho
+5515996267624,entregue no aparelho
+5528999062477,entregue no aparelho
+5591999035058,não entregue
+5581999479781,entregue no aparelho
+5511944582856,entregue no aparelho
+5591993640557,entregue no aparelho
+5575982412079,entregue no aparelho
+5567993071755,enviado para a operadora
+5579988059435,entregue no aparelho
+5519982268600,entregue no aparelho
+5531985110593,entregue no aparelho
+5537998620877,entregue no aparelho
+5585996120017,não entregue
+5571984228361,entregue no aparelho
+5555989919153,não entregue
+5581994624714,entregue no aparelho
+5585999617321,não entregue
+5585992052835,entregue no aparelho
+5551982792818,não entregue
+5555949990105,não entregue
+5511960752507,entregue no aparelho
+5541991384976,entregue no aparelho
+5511999847882,entregue no aparelho
+5553981142341,enviado para a operadora
+5575999555797,enviado para a operadora
+5587991563856,entregue no aparelho
+5511987432209,entregue no aparelho
+5592993506424,enviado para a operadora
+5581973070171,entregue no aparelho
+5511981935774,entregue no aparelho
+5511953213113,entregue no aparelho
+5567996796799,entregue no aparelho
+5511984733998,entregue no aparelho
+5561981380542,entregue no aparelho
+5567992075817,entregue no aparelho
+5551994132332,entregue no aparelho
+5511986328657,entregue no aparelho
+5511965509928,entregue no aparelho
+5551989464194,não entregue
+5575983473184,entregue no aparelho
+5515988154213,entregue no aparelho
+5511996906712,entregue no aparelho
+5511994630770,entregue no aparelho
+5527988168250,entregue no aparelho
+5535999762103,entregue no aparelho
+5551993587836,entregue no aparelho
+5567991007502,entregue no aparelho
+5541999075537,entregue no aparelho
+5521991416384,enviado para a operadora
+5511981241668,entregue no aparelho
+5594949997503,não entregue
+5511942511804,entregue no aparelho
+5585999412055,enviado para a operadora
+5584991691901,entregue no aparelho
+5585985206922,não entregue
+5547991474041,entregue no aparelho
+5511976784268,entregue no aparelho
+5581993294516,entregue no aparelho
+5511982629789,entregue no aparelho
+5548999630307,entregue no aparelho
+5551991645643,entregue no aparelho
+5521999286109,entregue no aparelho
+5511943495826,entregue no aparelho
+5551984568012,entregue no aparelho
+5531992447611,entregue no aparelho
+5535992715164,entregue no aparelho
+5511976950610,entregue no aparelho
+5521984567011,não entregue
+5551999452083,entregue no aparelho
+5546991229834,entregue no aparelho
+5548991735362,entregue no aparelho
+5544984478184,entregue no aparelho
+5511962520529,entregue no aparelho
+5511915695096,enviado para a operadora
+5511945282124,não entregue
+5511994920629,entregue no aparelho
+5511994983446,entregue no aparelho
+5565992923288,entregue no aparelho
+5511991036461,entregue no aparelho
+5527996600332,entregue no aparelho
+5511949741735,entregue no aparelho
+5584987081720,entregue no aparelho
+5585997480930,entregue no aparelho
+5579999362203,entregue no aparelho
+5555991750237,entregue no aparelho
+5524998783876,não entregue
+5521979917013,não entregue
+5511986814401,entregue no aparelho
+5521966377521,não entregue
+5562985564001,entregue no aparelho
+5511933266213,não entregue
+5592992869743,entregue no aparelho
+5517988361261,enviado para a operadora
+5581995901519,entregue no aparelho
+5511994063681,entregue no aparelho
+5511965406863,entregue no aparelho
+5592993414111,entregue no aparelho
+5551995887780,entregue no aparelho
+5528999220065,entregue no aparelho
+5511951248613,não entregue
+5511932099436,entregue no aparelho
+5531996347242,entregue no aparelho
+5511948431852,entregue no aparelho
+5516992806339,enviado para a operadora
+5537999798323,entregue no aparelho
+5511981503695,não entregue
+5521973492769,não entregue
+5527995047056,entregue no aparelho
+5511914860471,entregue no aparelho
+5585996755351,entregue no aparelho
+5511989382049,entregue no aparelho
+5511956367677,entregue no aparelho
+5511984533816,entregue no aparelho
+5562981188238,entregue no aparelho
+5541985026060,entregue no aparelho
+5585996283067,não entregue
+5511964455019,entregue no aparelho
+5581987556091,enviado para a operadora
+5588997345971,entregue no aparelho
+5528992578255,entregue no aparelho
+5531985974990,entregue no aparelho
+5585996281868,não entregue
+5598991371988,entregue no aparelho
+5592984136316,não entregue
+5583996429666,entregue no aparelho
+5511982941457,entregue no aparelho
+5566984277823,entregue no aparelho
+5575991136759,entregue no aparelho
+5511983810929,entregue no aparelho
+5511984796150,não entregue
+5586988747807,enviado para a operadora
+5561992985835,entregue no aparelho
+5541997590189,entregue no aparelho
+5595991201036,entregue no aparelho
+5531991541674,entregue no aparelho
+5547992369501,não entregue
+5571988191193,não entregue
+5573982018207,não entregue
+5511979855373,entregue no aparelho
+5541992197767,não entregue
+5541987822029,entregue no aparelho
+5519999242504,entregue no aparelho
+5528999485644,entregue no aparelho
+5517992111152,entregue no aparelho
+5554991619025,entregue no aparelho
+5512988209325,entregue no aparelho
+5598989230147,não entregue
+5519981534646,entregue no aparelho
+5582991054768,entregue no aparelho
+5528999868422,entregue no aparelho
+5518996382906,entregue no aparelho
+5547996392222,entregue no aparelho
+5531988059287,entregue no aparelho
+5551997389488,entregue no aparelho
+5511968519616,entregue no aparelho
+5521979121755,não entregue
+5511995207908,entregue no aparelho
+5543998111885,entregue no aparelho
+5548999234637,entregue no aparelho
+5554999922567,entregue no aparelho
+5579988392644,entregue no aparelho
+5514991401266,enviado para a operadora
+5517996613666,entregue no aparelho
+5521981336846,enviado para a operadora
+5511995350311,entregue no aparelho
+5532991396325,entregue no aparelho
+5545988203420,entregue no aparelho
+5538991924200,entregue no aparelho
+5514988098176,entregue no aparelho
+5585996133934,entregue no aparelho
+5511947205678,enviado para a operadora
+5511963737442,entregue no aparelho
+5513997525955,entregue no aparelho
+5586988187290,não entregue
+5551990185993,não entregue
+5588993828863,enviado para a operadora
+5584987020254,entregue no aparelho
+5517988006509,não entregue
+5547996150494,entregue no aparelho
+5585999223237,não entregue
+5511959932527,entregue no aparelho
+5585988803297,entregue no aparelho
+5554991572035,não entregue
+5528999878488,entregue no aparelho
+5516993155132,não entregue
+5541995118211,entregue no aparelho
+5511976822387,entregue no aparelho
+5588992533844,não entregue
+5528998866836,entregue no aparelho
+5586988496003,entregue no aparelho
+5512992252422,entregue no aparelho
+5511942731374,entregue no aparelho
+5561992012813,entregue no aparelho
+5521968698578,não entregue
+5521980870974,entregue no aparelho
+5519981105998,entregue no aparelho
+5544991795125,entregue no aparelho
+5585992063184,entregue no aparelho
+5534996556207,entregue no aparelho
+5582994124985,entregue no aparelho
+5581989683358,entregue no aparelho
+5561983849106,entregue no aparelho
+5524993188445,entregue no aparelho
+5521980932431,entregue no aparelho
+5581985387831,entregue no aparelho
+5566992377840,entregue no aparelho
+5554992354466,enviado para a operadora
+5531972014103,entregue no aparelho
+5519991297340,entregue no aparelho
+5511997963426,entregue no aparelho
+5532998241120,não entregue
+5521912356789,não entregue
+5511966064050,entregue no aparelho
+5545991246942,entregue no aparelho
+5551985078023,não entregue
+5571986429246,enviado para a operadora
+5511954943838,entregue no aparelho
+5511943600527,entregue no aparelho
+5528992767098,entregue no aparelho
+5543996758656,entregue no aparelho
+5561991378192,entregue no aparelho
+5532988309779,entregue no aparelho
+5569984939824,entregue no aparelho
+5575983132902,entregue no aparelho
+5527981350563,entregue no aparelho
+5537988286397,entregue no aparelho
+5511951266373,não entregue
+5561992089178,enviado para a operadora
+5569992253152,entregue no aparelho
+5579981400519,não entregue
+5551999823127,entregue no aparelho
+5511973169400,entregue no aparelho
+5585989049777,enviado para a operadora
+5532985112822,entregue no aparelho
+5511997826480,enviado para a operadora
+5511952976338,entregue no aparelho
+5582988640174,enviado para a operadora
+5527998462280,entregue no aparelho
+5585999020369,entregue no aparelho
+5531998297070,entregue no aparelho
+5553999550072,entregue no aparelho
+5584994727903,entregue no aparelho
+5535992121986,entregue no aparelho
+5521967676825,entregue no aparelho
+5585992357076,entregue no aparelho
+5554981526726,entregue no aparelho
+5513991734247,entregue no aparelho
+5585981200803,entregue no aparelho
+5511992391464,entregue no aparelho
+5561998678077,entregue no aparelho
+5571983279328,não entregue
+5511991999569,entregue no aparelho
+5531994286543,entregue no aparelho
+5588981574665,não entregue
+5535992220870,entregue no aparelho
+5575982289163,entregue no aparelho
+5522992922983,não entregue
+5511971099828,entregue no aparelho
+5585997150181,entregue no aparelho
+5511996761260,não entregue
+5511953033382,entregue no aparelho
+5547988295930,enviado para a operadora
+5524999576792,entregue no aparelho
+5586994378538,entregue no aparelho
+5511991491985,entregue no aparelho
+5512996512283,entregue no aparelho
+5561985599531,não entregue
+5562996293685,entregue no aparelho
+5516997693907,entregue no aparelho
+5551996456177,não entregue
+5532984105437,não entregue
+5511991928852,entregue no aparelho
+5535998981681,entregue no aparelho
+5511993993519,entregue no aparelho
+5511979584917,entregue no aparelho
+5528999022023,entregue no aparelho
+5561994631311,não entregue
+5511964326522,entregue no aparelho
+5582981389908,entregue no aparelho
+5521988068602,entregue no aparelho
+5511968502546,entregue no aparelho
+5591999425799,não entregue
+5551999883213,entregue no aparelho
+5511974690598,entregue no aparelho
+5555984584058,entregue no aparelho
+5512991369052,entregue no aparelho
+5585999042608,não entregue
+5571991379167,entregue no aparelho
+5561991807177,entregue no aparelho
+5527997430894,entregue no aparelho
+5511997619437,enviado para a operadora
+5531998079898,entregue no aparelho
+5531995250123,não entregue
+5511993483246,entregue no aparelho
+5516988703372,enviado para a operadora
+5511955101616,não entregue
+5585997109988,não entregue
+5551998394813,entregue no aparelho
+5585999244090,entregue no aparelho
+5566992286539,não entregue
+5588999626817,não entregue
+5527995076223,entregue no aparelho
+5519997768098,entregue no aparelho
+5533991750049,entregue no aparelho
+5586994250809,entregue no aparelho
+5573982488460,entregue no aparelho
+5581992199406,não entregue
+5511994997339,não entregue
+5511981559321,entregue no aparelho
+5511948380873,entregue no aparelho
+5553997071539,entregue no aparelho
+5598991665183,não entregue
+5521999376611,entregue no aparelho
+5592985999419,entregue no aparelho
+5547984069156,não entregue
+5571987251495,entregue no aparelho
+5599985189478,entregue no aparelho
+5519982228139,entregue no aparelho
+5511981054635,entregue no aparelho
+5555999226796,entregue no aparelho
+5551983278988,não entregue
+5548996776132,entregue no aparelho
+5511981874641,entregue no aparelho
+5513997382604,entregue no aparelho
+5511983177035,entregue no aparelho
+5511974117680,entregue no aparelho
+5521998535300,entregue no aparelho
+5586988890145,entregue no aparelho
+5543988154587,entregue no aparelho
+5549998169819,entregue no aparelho
+5511995117753,entregue no aparelho
+5554997122805,entregue no aparelho
+5551996203078,entregue no aparelho
+5531973078713,entregue no aparelho
+5566992534153,não entregue
+5534992078636,entregue no aparelho
+5575988171318,enviado para a operadora
+5591989968046,entregue no aparelho
+5581997931183,entregue no aparelho
+5511966660149,entregue no aparelho
+5599998330810,não entregue
+5561981331388,entregue no aparelho
+5579998559485,entregue no aparelho
+5571982677191,entregue no aparelho
+5519994791083,não entregue
+5551981264309,não entregue
+5592994393076,entregue no aparelho
+5511940151369,entregue no aparelho
+5581988270471,não entregue
+5511996468235,entregue no aparelho
+5546991276745,entregue no aparelho
+5581997076237,entregue no aparelho
+5511996967876,entregue no aparelho
+5519981945340,enviado para a operadora
+5581991629445,entregue no aparelho
+5544991514803,entregue no aparelho
+5511947922227,não entregue
+5511999530506,entregue no aparelho
+5511969465117,entregue no aparelho
+5567981283954,entregue no aparelho
+5585986555539,entregue no aparelho
+5561985836385,entregue no aparelho
+5597991978662,não entregue
+5511971919536,entregue no aparelho
+5511982056701,entregue no aparelho
+5531995159491,entregue no aparelho
+5541999181932,enviado para a operadora
+5585996120029,não entregue
+5585987873344,entregue no aparelho
+5551993538297,não entregue
+5573999829147,entregue no aparelho
+5538999374445,entregue no aparelho
+5544997284876,entregue no aparelho
+5541991284848,entregue no aparelho
+5521977061022,entregue no aparelho
+5541984234695,entregue no aparelho
+5527988178431,entregue no aparelho
+5514991737922,enviado para a operadora
+5548996601332,entregue no aparelho
+5544991854839,não entregue
+5555984291525,entregue no aparelho
+5577998250852,entregue no aparelho
+5527996943461,enviado para a operadora
+5563991377968,entregue no aparelho
+5511981285312,entregue no aparelho
+5549991236802,entregue no aparelho
+5531972073707,não entregue
+5511941206352,entregue no aparelho
+5548984036354,entregue no aparelho
+5511999740314,entregue no aparelho
+5551990172128,não entregue
+5548984180994,entregue no aparelho
+5548999247724,entregue no aparelho
+5511989389193,entregue no aparelho
+5591991355423,não entregue
+5511993147183,não entregue
+5519988141054,enviado para a operadora
+5548991181214,entregue no aparelho
+5564992937658,entregue no aparelho
+5511913677083,entregue no aparelho
+5519987715136,entregue no aparelho
+5521990031115,entregue no aparelho
+5551996462521,entregue no aparelho
+5511997175282,enviado para a operadora
+5588987832268,não entregue
+5586999689834,entregue no aparelho
+5517981388210,entregue no aparelho
+5515997642024,entregue no aparelho
+5521991951867,entregue no aparelho
+5541987035558,enviado para a operadora
+5591987371437,entregue no aparelho
+5524993266630,não entregue
+5562985240287,entregue no aparelho
+5563991064149,entregue no aparelho
+5591985076064,entregue no aparelho
+5598988224405,entregue no aparelho
+5511956646333,não entregue
+5511943892040,entregue no aparelho
+5586995441760,enviado para a operadora
+5592996069856,entregue no aparelho
+5544999691256,entregue no aparelho
+5531996337425,entregue no aparelho
+5551997793170,não entregue
+5511945854026,entregue no aparelho
+5516992252559,entregue no aparelho
+5551984261079,entregue no aparelho
+5521999431248,entregue no aparelho
+5564999221861,entregue no aparelho
+5583999828023,entregue no aparelho
+5535988865028,entregue no aparelho
+5589981346874,entregue no aparelho
+5571983057575,entregue no aparelho
+5531995939971,entregue no aparelho
+5514988065963,entregue no aparelho
+5511986866815,entregue no aparelho
+5595991522474,entregue no aparelho
+5511971644793,entregue no aparelho
+5511957346634,entregue no aparelho
+5522988775249,enviado para a operadora
+5568992354820,entregue no aparelho
+5582988900010,não entregue
+5521971514082,entregue no aparelho
+5591981420815,entregue no aparelho
+5511987873220,entregue no aparelho
+5531997282636,entregue no aparelho
+5528998853521,entregue no aparelho
+5585988786979,entregue no aparelho
+5575981087313,entregue no aparelho
+5511940215990,entregue no aparelho
+5521999948517,entregue no aparelho
+5519999009297,entregue no aparelho
+5551992838526,entregue no aparelho
+5531992929194,entregue no aparelho
+5585996214275,não entregue
+5591982844880,entregue no aparelho
+5553991062272,não entregue
+5589935721352,não entregue
+5521996871440,entregue no aparelho
+5521976529270,entregue no aparelho
+5565999854242,enviado para a operadora
+5524998470453,não entregue
+5511941493299,entregue no aparelho
+5567998137857,entregue no aparelho
+5511983838474,entregue no aparelho
+5531990674389,entregue no aparelho
+5586995143549,entregue no aparelho
+5571996565989,enviado para a operadora
+5511957923251,não entregue
+5548996082654,entregue no aparelho
+5511965628346,entregue no aparelho
+5511961103888,entregue no aparelho
+5517991107017,entregue no aparelho
+5594991792783,entregue no aparelho
+5511980281908,entregue no aparelho
+5585991883498,entregue no aparelho
+5511989708751,entregue no aparelho
+5511965339740,entregue no aparelho
+5513997246340,entregue no aparelho
+5511940817600,entregue no aparelho
+5542999337977,entregue no aparelho
+5579981574744,não entregue
+5586981583130,não entregue
+5587991181318,entregue no aparelho
+5527998958576,entregue no aparelho
+5562992582060,entregue no aparelho
+5583986540036,entregue no aparelho
+5511963204693,não entregue
+5511967688711,entregue no aparelho
+5551981720465,entregue no aparelho
+5531971430307,entregue no aparelho
+5594992007853,entregue no aparelho
+5521974728824,entregue no aparelho
+5511971991414,entregue no aparelho
+5585997061200,não entregue
+5513997748045,entregue no aparelho
+5562981638140,entregue no aparelho
+5579999261513,entregue no aparelho
+5521980067454,entregue no aparelho
+5528999663185,entregue no aparelho
+5521972002126,entregue no aparelho
+5521964752286,entregue no aparelho
+5521988820603,enviado para a operadora
+5551992513031,entregue no aparelho
+5573988017511,entregue no aparelho
+5585987756551,não entregue
+5571982746172,entregue no aparelho
+5585988941333,não entregue
+5535998039373,entregue no aparelho
+5591991979191,entregue no aparelho
+5567996011783,entregue no aparelho
+5521969017262,entregue no aparelho
+5585985858785,não entregue
+5511982767512,entregue no aparelho
+5591982203351,entregue no aparelho
+5511991911198,não entregue
+5528992771560,não entregue
+5598984288806,entregue no aparelho
+5511952103978,entregue no aparelho
+5522981694589,entregue no aparelho
+5554999223220,entregue no aparelho
+5517988047626,entregue no aparelho
+5511991876989,entregue no aparelho
+5511965952335,entregue no aparelho
+5522998428151,entregue no aparelho
+5511981962261,entregue no aparelho
+5549999174795,entregue no aparelho
+5543996887998,entregue no aparelho
+5584999890060,entregue no aparelho
+5555919920583,não entregue
+5538999291885,entregue no aparelho
+5555999755177,entregue no aparelho
+5522997036929,não entregue
+5573981075037,entregue no aparelho
+5551993345136,entregue no aparelho
+5565993006661,entregue no aparelho
+5511947350180,entregue no aparelho
+5521989021667,entregue no aparelho
+5537998319622,entregue no aparelho
+5519997963125,entregue no aparelho
+5519996668437,entregue no aparelho
+5585987406653,não entregue
+5534988190579,não entregue
+5511989351598,entregue no aparelho
+5511972098162,entregue no aparelho
+5586994937602,entregue no aparelho
+5593939913335,não entregue
+5521993605912,entregue no aparelho
+5571983411093,enviado para a operadora
+5592981518654,entregue no aparelho
+5554996064404,entregue no aparelho
+5511946666132,entregue no aparelho
+5566999976606,entregue no aparelho
+5567992506484,entregue no aparelho
+5573998253329,enviado para a operadora
+5511961874643,entregue no aparelho
+5521985234201,enviado para a operadora
+5541988545488,entregue no aparelho
+5581993602470,entregue no aparelho
+5581983593837,entregue no aparelho
+5592986122155,enviado para a operadora
+5511988123124,entregue no aparelho
+5521998405553,entregue no aparelho
+5519996980958,não entregue
+5511965976097,entregue no aparelho
+5575981919138,não entregue
+5579981326948,entregue no aparelho
+5588999770285,enviado para a operadora
+5584981384480,entregue no aparelho
+5561981494200,entregue no aparelho
+5511953367136,entregue no aparelho
+5585991459961,não entregue
+5554984368812,entregue no aparelho
+5582982295151,entregue no aparelho
+5511994329421,entregue no aparelho
+5514997200585,entregue no aparelho
+5528999967041,não entregue
+5582998030976,entregue no aparelho
+5528999221687,entregue no aparelho
+5549984196917,entregue no aparelho
+5511978351722,enviado para a operadora
+5511992565883,entregue no aparelho
+5561984856105,entregue no aparelho
+5567999834953,entregue no aparelho
+5533987228845,entregue no aparelho
+5512996146589,entregue no aparelho
+5521951012770,não entregue
+5535991195805,entregue no aparelho
+5585981012227,entregue no aparelho
+5551986044195,enviado para a operadora
+5511949650727,entregue no aparelho
+5527999532579,entregue no aparelho
+5555999179464,entregue no aparelho
+5551991407662,entregue no aparelho
+5571984416056,entregue no aparelho
+5511992636421,entregue no aparelho
+5521964336779,entregue no aparelho
+5511991177562,entregue no aparelho
+5511971611214,entregue no aparelho
+5566981510503,entregue no aparelho
+5585992429469,entregue no aparelho
+5585999036622,não entregue
+5591992814331,entregue no aparelho
+5547997004547,entregue no aparelho
+5591991506006,entregue no aparelho
+5541995709021,entregue no aparelho
+5531992071697,entregue no aparelho
+5589934623608,não entregue
+5585998073005,não entregue
+5585999157369,entregue no aparelho
+5561999743072,entregue no aparelho
+5541992114675,entregue no aparelho
+5591991206184,entregue no aparelho
+5511983972016,entregue no aparelho
+5554999678218,enviado para a operadora
+5511995631450,não entregue
+5581999219924,entregue no aparelho
+5551934722987,não entregue
+5564999544813,entregue no aparelho
+5583988566842,entregue no aparelho
+5551981485897,entregue no aparelho
+5582994329873,entregue no aparelho
+5511984085806,entregue no aparelho
+5515998469089,entregue no aparelho
+5521972230042,entregue no aparelho
+5532998273729,entregue no aparelho
+5562981167273,entregue no aparelho
+5511947481954,entregue no aparelho
+5521970638147,entregue no aparelho
+5531971610081,entregue no aparelho
+5548998807807,não entregue
+5586999990449,entregue no aparelho
+5565974008024,enviado para a operadora
+5546999013836,entregue no aparelho
+5512988298461,entregue no aparelho
+5585997675700,entregue no aparelho
+5571992571436,entregue no aparelho
+5575983446168,enviado para a operadora
+5524981611706,entregue no aparelho
+5588981496994,não entregue
+5532991047789,entregue no aparelho
+5511984908183,entregue no aparelho
+5548996246809,entregue no aparelho
+5511994426362,entregue no aparelho
+5545999317381,entregue no aparelho
+5551991210119,entregue no aparelho
+5532998680714,entregue no aparelho
+5567998713649,entregue no aparelho
+5579981250261,entregue no aparelho
+5521980741809,entregue no aparelho
+5515981816358,entregue no aparelho
+5585988666566,entregue no aparelho
+5511972826867,entregue no aparelho
+5511984782484,entregue no aparelho
+5522988730545,enviado para a operadora
+5511951958303,entregue no aparelho
+5521996629435,entregue no aparelho
+5521988278949,enviado para a operadora
+5511965646718,entregue no aparelho
+5551991068945,entregue no aparelho
+5585988817607,entregue no aparelho
+5518998080835,entregue no aparelho
+5581986630117,entregue no aparelho
+5535999611098,entregue no aparelho
+5548991852857,entregue no aparelho
+5511991108284,entregue no aparelho
+5585974010103,entregue no aparelho
+5562992062048,entregue no aparelho
+5571986820300,entregue no aparelho

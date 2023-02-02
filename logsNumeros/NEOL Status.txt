@@ -1,0 +1,57 @@
+STATUS,-1,Initialized,NEOL 
+STATUS,-1,Register...,NEOL 
+STATUS,-1,Connecting...,NEOL 
+STATUS,-1,Starting...,NEOL 
+STATUS,-1,Registering...,NEOL 
+STATUS,-1,Register rejected Forbidden,NEOL 
+STATUS,-1,Starting call,NEOL 
+STATUS,-1,Call,NEOL 
+STATUS,-1,Call Initiated,NEOL 
+STATUS,-1,Call Finished,NEOL 
+STATUS,-1,Register rejected Forbidden,NEOL 
+STATUS,-1,Stop,NEOL 
+STATUS,-1,Initialized,NEOL 
+STATUS,-1,Register...,NEOL 
+STATUS,-1,Connecting...,NEOL 
+STATUS,-1,Starting...,NEOL 
+STATUS,-1,Registering...,NEOL 
+STATUS,-1,Starting call,NEOL 
+STATUS,-1,Call,NEOL 
+STATUS,-1,Call Initiated,NEOL 
+STATUS,-1,Call Finished,NEOL 
+STATUS,-1,Register rejected Forbidden,NEOL 
+STATUS,-1,Stop,NEOL 
+STATUS,-1,Initialized,NEOL 
+STATUS,-1,Register...,NEOL 
+STATUS,-1,Connecting...,NEOL 
+STATUS,-1,Registering...,NEOL 
+STATUS,-1,Starting call,NEOL 
+STATUS,-1,Call,NEOL 
+STATUS,-1,Call Initiated,NEOL 
+STATUS,-1,Calling...,NEOL 
+STATUS,-1,Call Finished,NEOL 
+STATUS,-1,Registered.,NEOL 
+STATUS,-1,Stop,NEOL 
+STATUS,-1,Initialized,NEOL 
+STATUS,-1,Register...,NEOL 
+STATUS,-1,Connecting...,NEOL 
+STATUS,-1,Starting...,NEOL 
+STATUS,-1,Registering...,NEOL 
+STATUS,-1,Starting call,NEOL 
+STATUS,-1,Call,NEOL 
+STATUS,-1,Call Initiated,NEOL 
+STATUS,-1,Calling...,NEOL 
+STATUS,-1,Ringing...,NEOL 
+STATUS,-1,Call Finished,NEOL 
+STATUS,-1,Registered.,NEOL 
+STATUS,-1,Stop,NEOL 
+STATUS,-1,Initialized,NEOL 
+STATUS,-1,Register...,NEOL 
+STATUS,-1,Connecting...,NEOL 
+STATUS,-1,Starting...,NEOL 
+STATUS,-1,Registering...,NEOL 
+STATUS,-1,Starting call,NEOL 
+STATUS,-1,Call,NEOL 
+STATUS,-1,Call Initiated,NEOL 
+STATUS,-1,Calling...,NEOL 
+STATUS,-1,Call Finished,NEOL 

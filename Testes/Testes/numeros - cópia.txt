@@ -1,0 +1,25 @@
+Número,Código SIP,Menssagem SIP,Menssagem plataforma, CallId
+5573988354634,200,Ok,bye Maximum call time exceeded,98e2745038704928376805k3290rmwp
+5555991375752,480,Temporarily Unavailable ,Temporarily Unavailable,94e7757303916316115862k3289rmwp
+5531988354247,200,Ok,bye Maximum call time exceeded,78e1643105244487828339k3285rmwp
+5515991915065,200,Ok,bye Maximum call time exceeded,66e9090367034072564222k3282rmwp
+5511942011540,200,Ok,bye Maximum call time exceeded,82e473560170676554677k3286rmwp
+5563992798926,200,Ok,bye Maximum call time exceeded,62e2414984484477719084k3281rmwp
+5565993325341,200,Ok,bye Maximum call time exceeded,46e8108542992561794896k3277rmwp
+5555999492635,200,Ok,bye Maximum call time exceeded,18e7417297555151925945k3270rmwp
+5521978875304,200,Ok,bye Maximum call time exceeded,58e9045126017150195036k3280rmwp
+5579996845084,200,Ok,bye Maximum call time exceeded,34e5497569397223873899k3274rmwp
+5521991181510,200,Ok,bye Maximum call time exceeded,50e1621912702754714171k3278rmwp
+5521998276548,200,Ok,bye Maximum call time exceeded,10e8182743560696112107k3268rmwp
+5569992458180,200,Ok,bye Maximum call time exceeded,6e7430127109544405825k3267rmwp
+5531995289406,200,Ok,bye Maximum call time exceeded,14e7912629247729196027k3269rmwp
+5571986970674,404,Not Found ,Not Found,74e373352020869657458k3284rmwp
+5596999121409,200,Ok,bye Maximum call time exceeded,54e6183986078941027580k3279rmwp
+5591980656916,200,Ok,bye Maximum call time exceeded,90e4812669843450709472k3288rmwp
+5548984624985,200,Ok,bye Maximum call time exceeded,42e5188655986858443824k3276rmwp
+5573988646777,503,Service Unavailable ,Dropped by terminator connect timeout after setup,30e2539810740833749055k3273rmwp
+5547992011343,503,Service Unavailable ,Dropped by terminator connect timeout after setup,22e7673237264737895232k3271rmwp
+5573988957536,503,Service Unavailable ,Dropped by terminator connect timeout after setup,26e4906962082019787365k3272rmwp
+5575988230435,503,Service Unavailable ,Dropped by terminator connect timeout after setup,38e5770097928580376868k3275rmwp
+5516988633419,503,Service Unavailable ,Dropped by terminator connect timeout after setup,70e782695801621105755k3283rmwp
+5573988239006,503,Service Unavailable ,Dropped by terminator connect timeout after setup,86e2214987864374377562k3287rmwp

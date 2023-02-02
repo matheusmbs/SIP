@@ -14,6 +14,7 @@ public class NumerosMapper {
             NumeroResponseDTO numeroResponseDTO = new NumeroResponseDTO();
             numeroResponseDTO.setNumero(n.getNumero());
             numeroResponseDTO.setStatusCode(n.getStatusCode());
+            numeroResponseDTO.setStatusMessage(n.getStatusMessage());
             numeroResponseDTO.setCalId(n.getCallId());
             numeroResponseDTOs.add(numeroResponseDTO);
         }

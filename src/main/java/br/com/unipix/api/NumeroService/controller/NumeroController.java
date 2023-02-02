@@ -15,6 +15,7 @@ import org.springframework.web.multipart.MultipartFile;
 
 import br.com.unipix.api.NumeroService.dto.request.NumeroRequestDTO;
 import br.com.unipix.api.NumeroService.dto.response.NumeroResponseDTO;
+import br.com.unipix.api.NumeroService.model.Numero;
 import br.com.unipix.api.NumeroService.service.NumeroService;
 
 @RestController
@@ -25,12 +26,14 @@ public class NumeroController {
     NumeroService numbersService;
 
     @PostMapping(value = "/validacao-sip/arquivo", consumes = MediaType.MULTIPART_FORM_DATA_VALUE)
-    public ResponseEntity<List<NumeroResponseDTO>> create(MultipartFile arquivo) throws IOException, InterruptedException, ExecutionException {
+    public ResponseEntity<List<Numero>> create(MultipartFile arquivo)
+            throws IOException, InterruptedException, ExecutionException {
         return ResponseEntity.ok().body(numbersService.processarArquivoNumeros(arquivo));
     }
 
     @PostMapping(value = "/validacao-sip")
-    public ResponseEntity<List<NumeroResponseDTO>> validacaoSip(@RequestBody NumeroRequestDTO numeroRequestDTO) throws IOException, InterruptedException, ExecutionException {
+    public ResponseEntity<List<Numero>> validacaoSip(@RequestBody NumeroRequestDTO numeroRequestDTO)
+            throws IOException, InterruptedException, ExecutionException {
         return ResponseEntity.ok().body(numbersService.criarNumeros(numeroRequestDTO.getNumeros()));
     }
 }

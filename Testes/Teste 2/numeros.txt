@@ -1,0 +1,1864 @@
+5513974014816,entregue no aparelho,480,Temporarily Unavailable,6e7608175606425346688k77822rmwp
+5586988304730,entregue no aparelho,480,Temporarily Unavailable,10e2562989878772251855k77823rmwp
+5567999956907,não entregue,403,Forbidden,14e5978818788222600518k77824rmwp
+5585989734140,entregue no aparelho,480,Temporarily Unavailable,18e2528598623732603574k77825rmwp
+5571991453348,não entregue,603,Decline,22e4565787699618079684k77826rmwp
+5583987115334,entregue no aparelho,-1,Dropped by originator connect timeout,26e1049281634455304133k77827rmwp
+5553997085781,enviado para a operadora,403,Forbidden,30e6250391430681659992k77828rmwp
+5586994436675,não entregue,480,Temporarily Unavailable,34e2073644126386694182k77829rmwp
+5591991405879,não entregue,403,Forbidden,42e7741741917812573563k77831rmwp
+5522997739959,não entregue,480,Temporarily Unavailable,38e2151994774860201835k77830rmwp
+5592993628085,não entregue,480,Temporarily Unavailable,46e5745871814938595261k77832rmwp
+5514998161126,entregue no aparelho,603,Decline,50e3805947322077570880k77833rmwp
+5511976868978,não entregue,480,Temporarily Unavailable,54e8854893400718710974k77834rmwp
+5591988539272,não entregue,404,Not Found,58e7236505733612445559k77835rmwp
+5551981149238,não entregue,404,Not Found,62e2953298100127076418k77836rmwp
+5561981941407,entregue no aparelho,200,Ok,66e6281298163636565090k77837rmwp
+5531995277787,não entregue,404,Not Found,70e4841597168128043768k77838rmwp
+5534996862110,entregue no aparelho,-1,Dropped by originator connect timeout,74e5064674200986638119k77839rmwp
+5542988149885,entregue no aparelho,200,Ok,78e8352249138017668017k77840rmwp
+5583982206158,entregue no aparelho,-1,Dropped by originator connect timeout,82e2192410098157477671k77841rmwp
+5553981003500,entregue no aparelho,-1,Dropped by originator connect timeout,86e98320965423545972k77842rmwp
+5534988376545,entregue no aparelho,-1,Dropped by originator connect timeout,90e840224147931580718k77843rmwp
+5585997002344,não entregue,-1,Dropped by originator connect timeout,94e6740106625456682744k77844rmwp
+5519994072921,entregue no aparelho,200,Ok,98e1131423965096619610k77845rmwp
+5511939276080,entregue no aparelho,-1,Dropped by originator connect timeout,102e4610570247169974959k77846rmwp
+5548996981196,entregue no aparelho,-1,Dropped by originator connect timeout,106e8797336971936337251k77847rmwp
+5551981317859,entregue no aparelho,-1,Dropped by originator connect timeout,110e2349753644581139252k77848rmwp
+5512988889325,entregue no aparelho,-1,Dropped by originator connect timeout,118e3873730391037871856k77850rmwp
+5528999815367,entregue no aparelho,-1,Dropped by originator connect timeout,122e7837434302405581938k77851rmwp
+5564992494053,entregue no aparelho,200,Ok,114e6209557212449290819k77849rmwp
+5553984146644,entregue no aparelho,200,Ok,126e6510753988808528227k77852rmwp
+5517997370441,entregue no aparelho,-1,Dropped by originator connect timeout,130e1308126014227007519k77853rmwp
+5585986050908,não entregue,200,Ok,134e6064089479397366853k77854rmwp
+5562993077746,não entregue,480,Temporarily Unavailable,142e2102004226106938738k77856rmwp
+5511967149517,entregue no aparelho,-1,Dropped by originator connect timeout,138e2993503158865304535k77855rmwp
+5551989980251,não entregue,480,Temporarily Unavailable,146e9129582288629435961k77857rmwp
+5585981452255,enviado para a operadora,200,Ok,150e1624632685496466489k77858rmwp
+5585987719580,não entregue,-1,Dropped by originator connect timeout,158e7911973336723005526k77860rmwp
+5585997881881,não entregue,480,Temporarily Unavailable,154e5848884093243439606k77859rmwp
+5511972831195,entregue no aparelho,-1,Dropped by originator connect timeout,162e6940542803654883952k77861rmwp
+5588992590271,entregue no aparelho,-1,Dropped by originator connect timeout,166e3486135812144058759k77862rmwp
+5511999920099,entregue no aparelho,-1,Dropped by originator connect timeout,218e5636589500401935965k77875rmwp
+5565999630217,não entregue,487,Request Terminated,170e6555123801674045778k77863rmwp
+5511942900695,entregue no aparelho,200,Ok,174e945141286155503979k77864rmwp
+5521979027590,entregue no aparelho,-1,Dropped by originator connect timeout,178e6738530136158025912k77865rmwp
+5516996214382,enviado para a operadora,480,Temporarily Unavailable,182e7424049346821303555k77866rmwp
+5564992710875,não entregue,480,Temporarily Unavailable,186e8676072749015936653k77867rmwp
+5511931439000,enviado para a operadora,-1,Dropped by originator connect timeout,190e4995775944982173471k77868rmwp
+5571984367483,entregue no aparelho,-1,Dropped by originator connect timeout,194e1218141126869791596k77869rmwp
+5585988151804,não entregue,486,Busy Here,198e8333408943547864777k77870rmwp
+5511958637780,entregue no aparelho,200,Ok,202e1457035967799235233k77871rmwp
+5566999534646,entregue no aparelho,200,Ok,214e5135742946262261279k77874rmwp
+5563981262382,entregue no aparelho,-1,Dropped by originator connect timeout,210e612152770856384139k77873rmwp
+5581988265944,entregue no aparelho,-1,Dropped by originator connect timeout,206e8271064356892374997k77872rmwp
+5581992394861,enviado para a operadora,-1,Dropped by originator connect timeout,222e364225157580557223k77876rmwp
+5588994110833,não entregue,-1,Dropped by originator connect timeout,226e5923061072318858512k77877rmwp
+5592986135737,não entregue,403,Forbidden,230e7122116133908606093k77878rmwp
+5571986673415,entregue no aparelho,-1,Dropped by originator connect timeout,238e4598520982265799532k77880rmwp
+5532991143853,entregue no aparelho,-1,Dropped by originator connect timeout,234e260763221730537897k77879rmwp
+5579991737169,entregue no aparelho,-1,Dropped by originator connect timeout,242e7977854304277739247k77881rmwp
+5521998656778,entregue no aparelho,-1,Dropped by originator connect timeout,246e551388396019011112k77882rmwp
+5554991731533,não entregue,603,Decline,250e5370874333084095808k77883rmwp
+5581989180776,entregue no aparelho,-1,Dropped by originator connect timeout,254e8694793659182515958k77884rmwp
+5537998285539,entregue no aparelho,-1,Dropped by originator connect timeout,258e2261264225630769623k77885rmwp
+5551994227559,entregue no aparelho,200,Ok,266e3601495562957780510k77887rmwp
+5528999299885,entregue no aparelho,200,Ok,262e6583370398054813605k77886rmwp
+5585985767162,enviado para a operadora,-1,Dropped by originator connect timeout,270e3267253301595435487k77888rmwp
+5511997974009,entregue no aparelho,-1,Dropped by originator connect timeout,402e8027831404618950912k77921rmwp
+5585991964442,não entregue,-1,Dropped by originator connect timeout,274e146031744695537861k77889rmwp
+5571981964647,entregue no aparelho,-1,Dropped by originator connect timeout,398e1577537657541604526k77920rmwp
+5588996393272,entregue no aparelho,603,Decline,394e5041078154756650599k77919rmwp
+5522975256643,não entregue,404,Not Found,390e2500719040426162044k77918rmwp
+5567996401809,entregue no aparelho,480,Temporarily Unavailable,386e9116129840618421368k77917rmwp
+5511949916946,entregue no aparelho,-1,Dropped by originator connect timeout,382e426771572647397339k77916rmwp
+5521976340140,não entregue,480,Temporarily Unavailable,378e2814696036115364170k77915rmwp
+5592992613721,entregue no aparelho,-1,Dropped by originator connect timeout,374e4737750057623711974k77914rmwp
+5544991110841,entregue no aparelho,-1,Dropped by originator connect timeout,370e5014617124353344439k77913rmwp
+5551981753220,entregue no aparelho,-1,Dropped by originator connect timeout,366e5408217240700654149k77912rmwp
+5512981689595,entregue no aparelho,200,Ok,362e7468454242262393635k77911rmwp
+5567998900974,entregue no aparelho,-1,Dropped by originator connect timeout,358e5442401791887949531k77910rmwp
+5585999390608,entregue no aparelho,-1,Dropped by originator connect timeout,354e7169902701980352251k77909rmwp
+5511944981978,entregue no aparelho,200,Ok,350e427039821464425059k77908rmwp
+5511999028522,entregue no aparelho,-1,Dropped by originator connect timeout,346e3962790346634435924k77907rmwp
+5571988639138,entregue no aparelho,480,Temporarily Unavailable,342e3619873103937577923k77906rmwp
+5521965483850,entregue no aparelho,-1,Dropped by originator connect timeout,338e7562718107962423095k77905rmwp
+5511960319730,entregue no aparelho,-1,Dropped by originator connect timeout,334e2709082329773656072k77904rmwp
+5585996225686,não entregue,200,Ok,330e6419587190502751455k77903rmwp
+5584993160745,não entregue,480,Temporarily Unavailable,326e8861770285706599801k77902rmwp
+5566996892930,entregue no aparelho,-1,Dropped by originator connect timeout,322e4163292572770937846k77901rmwp
+5511984795843,entregue no aparelho,200,Ok,318e605638019164261854k77900rmwp
+5511967766048,entregue no aparelho,-1,Dropped by originator connect timeout,314e6527535277408753259k77899rmwp
+5551996893171,entregue no aparelho,200,Ok,310e3604885502376447402k77898rmwp
+5567993354352,entregue no aparelho,-1,Dropped by originator connect timeout,306e631999036033881692k77897rmwp
+5551999551905,entregue no aparelho,200,Ok,302e806929545184737901k77896rmwp
+5592988098639,entregue no aparelho,-1,Dropped by originator connect timeout,298e9196183716812677242k77895rmwp
+5553991716969,entregue no aparelho,200,Ok,294e2705477953539982138k77894rmwp
+5521968562429,entregue no aparelho,-1,Dropped by originator connect timeout,290e7100814721184489750k77893rmwp
+5553999784167,entregue no aparelho,-1,Dropped by originator connect timeout,286e11517026853817618k77892rmwp
+5551982016503,entregue no aparelho,-1,Dropped by originator connect timeout,282e1145643188763788097k77891rmwp
+5585987527228,não entregue,-1,Dropped by originator connect timeout,278e2665051086147292431k77890rmwp
+5511972979492,entregue no aparelho,200,Ok,406e3367342038922443285k77922rmwp
+5584988914226,não entregue,480,Temporarily Unavailable,410e3880169634536631749k77923rmwp
+5531984252241,entregue no aparelho,-1,Dropped by originator connect timeout,414e5739806576400535367k77924rmwp
+5551990117441,entregue no aparelho,200,Ok,418e1358335122226646628k77925rmwp
+5511967306592,enviado para a operadora,200,Ok,422e2286727604382166547k77926rmwp
+5586994568929,entregue no aparelho,-1,Dropped by originator connect timeout,426e4462540348314167572k77927rmwp
+5583986308227,não entregue,480,Temporarily Unavailable,430e3472511469588827011k77928rmwp
+5565998112777,entregue no aparelho,-1,Dropped by originator connect timeout,434e1701663721369644197k77929rmwp
+5533988483807,entregue no aparelho,-1,Dropped by originator connect timeout,438e8296860065508423910k77930rmwp
+5571981909123,não entregue,480,Temporarily Unavailable,442e1776062353230458348k77931rmwp
+5528992919667,não entregue,404,Not Found,446e1756597935021863757k77932rmwp
+5511961224351,entregue no aparelho,-1,Dropped by originator connect timeout,462e3704912339181212427k77936rmwp
+5591999939690,não entregue,480,Temporarily Unavailable,450e5720060966955181375k77933rmwp
+5511973535771,entregue no aparelho,200,Ok,454e7931917022599174674k77934rmwp
+5511992196256,não entregue,480,Temporarily Unavailable,458e5319830905708409908k77935rmwp
+5514996518110,entregue no aparelho,-1,Dropped by originator connect timeout,466e6631677641284909101k77937rmwp
+5511997195619,entregue no aparelho,200,Ok,470e5798648463183048754k77938rmwp
+5591988499321,não entregue,480,Temporarily Unavailable,474e8049377864062718362k77939rmwp
+5511985707880,entregue no aparelho,-1,Dropped by originator connect timeout,478e5286169055323480017k77940rmwp
+5551982149860,entregue no aparelho,-1,Dropped by originator connect timeout,482e6474895607521677171k77941rmwp
+5511957134937,entregue no aparelho,-1,Dropped by originator connect timeout,486e8264189151950396967k77942rmwp
+5581992182461,não entregue,480,Temporarily Unavailable,490e4321223950156119163k77943rmwp
+5585991968564,não entregue,-1,Dropped by originator connect timeout,494e515827581410746108k77944rmwp
+5583993025000,entregue no aparelho,-1,Dropped by originator connect timeout,498e3935968345256387613k77945rmwp
+5521987147644,entregue no aparelho,-1,Dropped by originator connect timeout,522e1678947475522625375k77951rmwp
+5561991031426,entregue no aparelho,-1,Dropped by originator connect timeout,530e3713138908394722476k77953rmwp
+5585981812046,não entregue,200,Ok,526e2257912121726535916k77952rmwp
+5575981426958,não entregue,403,Forbidden,502e7822803976071994217k77946rmwp
+5512996375324,entregue no aparelho,-1,Dropped by originator connect timeout,506e6729318165120888272k77947rmwp
+5564984420908,enviado para a operadora,-1,Dropped by originator connect timeout,510e8846727606072512323k77948rmwp
+5553984590127,entregue no aparelho,-1,Dropped by originator connect timeout,514e7363560788435041609k77949rmwp
+5582999815952,entregue no aparelho,200,Ok,518e7196238685807691760k77950rmwp
+5544998272324,entregue no aparelho,480,Temporarily Unavailable,534e8974138137345014164k77954rmwp
+5547984917092,entregue no aparelho,200,Ok,538e9188239148218778393k77955rmwp
+5564992793994,entregue no aparelho,-1,Dropped by originator connect timeout,542e7382306270258088950k77956rmwp
+5551998872512,não entregue,404,Not Found,546e2333176879077352066k77957rmwp
+5511947165443,entregue no aparelho,-1,Dropped by originator connect timeout,550e771019021678939237k77958rmwp
+5594991017175,enviado para a operadora,403,Forbidden,554e5508589939827030816k77959rmwp
+5531994950037,entregue no aparelho,200,Ok,558e3359224335326699264k77960rmwp
+5562991348488,entregue no aparelho,-1,Dropped by originator connect timeout,562e3442770338752470961k77961rmwp
+5569992782104,entregue no aparelho,-1,Dropped by originator connect timeout,566e4743300659595702545k77962rmwp
+5543998199149,entregue no aparelho,200,Ok,570e5651231715205797057k77963rmwp
+5521959300731,enviado para a operadora,480,Temporarily Unavailable,574e8245505139476516140k77964rmwp
+5511956176403,entregue no aparelho,480,Temporarily Unavailable,578e5452087258767705862k77965rmwp
+5511992995921,entregue no aparelho,200,Ok,582e4847098560021556647k77966rmwp
+5517981271315,entregue no aparelho,-1,Dropped by originator connect timeout,590e3349079433160128695k77968rmwp
+5551996247936,entregue no aparelho,-1,Dropped by originator connect timeout,586e1357373770009721117k77967rmwp
+5511947843558,não entregue,480,Temporarily Unavailable,594e1046051592928441897k77969rmwp
+5532988492993,entregue no aparelho,-1,Dropped by originator connect timeout,598e2565668566787644750k77970rmwp
+5511979509981,entregue no aparelho,500,Server Internal Error,602e7100790537721561451k77971rmwp
+5583986710630,entregue no aparelho,-1,Dropped by originator connect timeout,606e6136204121383658962k77972rmwp
+5589994138335,não entregue,480,Temporarily Unavailable,610e5847892419389585265k77973rmwp
+5511985890107,entregue no aparelho,603,Decline,614e5817426120272950629k77974rmwp
+5511974767923,entregue no aparelho,200,Ok,618e4856939536450991654k77975rmwp
+5547999888823,entregue no aparelho,486,Busy Here,622e3730030171812867381k77976rmwp
+5591986673352,não entregue,404,Not Found,630e8546273490373415752k77978rmwp
+5531999241098,entregue no aparelho,-1,Dropped by originator connect timeout,626e5913110164676931277k77977rmwp
+5566992356270,entregue no aparelho,-1,Dropped by originator connect timeout,634e5980043017811113585k77979rmwp
+5514997781521,não entregue,404,Not Found,638e2612711882647315783k77980rmwp
+5551997438456,entregue no aparelho,-1,Dropped by originator connect timeout,642e3089100318678241502k77981rmwp
+5564992338881,entregue no aparelho,200,Ok,646e7272081137056202630k77982rmwp
+5599931991089,não entregue,404,Not Found,650e4727481932424997945k77983rmwp
+5585989561495,entregue no aparelho,-1,Dropped by originator connect timeout,654e3691597321135968253k77984rmwp
+5531975696056,entregue no aparelho,-1,Dropped by originator connect timeout,658e7520279584132825888k77985rmwp
+5534984015545,entregue no aparelho,-1,Dropped by originator connect timeout,670e1093780809206983730k77988rmwp
+5521992073229,entregue no aparelho,-1,Dropped by originator connect timeout,662e3941559425384677379k77986rmwp
+5548991893998,entregue no aparelho,-1,Dropped by originator connect timeout,666e4218153278125482591k77987rmwp
+5521990469226,entregue no aparelho,200,Ok,674e4864034049993789336k77989rmwp
+5531984933528,não entregue,480,Temporarily Unavailable,678e7669681556169143470k77990rmwp
+5571996305593,entregue no aparelho,-1,Dropped by originator connect timeout,682e3398698070394341066k77991rmwp
+5511985928888,entregue no aparelho,200,Ok,694e8809438479575193799k77994rmwp
+5522998650502,não entregue,480,Temporarily Unavailable,686e6914502472384845279k77992rmwp
+5528992522582,entregue no aparelho,-1,Dropped by originator connect timeout,690e9056612596731365035k77993rmwp
+5511989128327,entregue no aparelho,-1,Dropped by originator connect timeout,698e5285074492610714265k77995rmwp
+5524981153633,entregue no aparelho,-1,Dropped by originator connect timeout,702e2890736819523902747k77996rmwp
+5571999777421,entregue no aparelho,200,Ok,706e4531097984388153402k77997rmwp
+5547992024779,enviado para a operadora,480,Temporarily Unavailable,710e7737341646145558116k77998rmwp
+5543999044905,entregue no aparelho,-1,Dropped by originator connect timeout,714e148325205314140313k77999rmwp
+5528999565216,entregue no aparelho,200,Ok,718e6416226630737306225k78000rmwp
+5583998861398,entregue no aparelho,-1,Dropped by originator connect timeout,722e4262456297490841807k78001rmwp
+5528992535076,entregue no aparelho,-1,Dropped by originator connect timeout,726e7449732581100357704k78002rmwp
+5528999042638,entregue no aparelho,-1,Dropped by originator connect timeout,730e2679925611106200880k78003rmwp
+5551985965853,entregue no aparelho,603,Decline,734e8570344974143079732k78004rmwp
+5534984038336,entregue no aparelho,-1,Dropped by originator connect timeout,738e7496534853799976341k78005rmwp
+5571981541744,não entregue,-1,Dropped by originator connect timeout,742e3712524910775635805k78006rmwp
+5527988126789,não entregue,404,Not Found,746e1799925464532652622k78007rmwp
+5566984315045,enviado para a operadora,-1,Dropped by originator connect timeout,750e6609068935326594353k78008rmwp
+5588981751859,não entregue,480,Temporarily Unavailable,754e3971454309138293062k78009rmwp
+5511954667709,não entregue,603,Decline,758e647128587562350882k78010rmwp
+5561999093353,enviado para a operadora,-1,Dropped by originator connect timeout,762e5786007082111355758k78011rmwp
+5551996658715,entregue no aparelho,-1,Dropped by originator connect timeout,766e8474029770408141171k78012rmwp
+5511954080694,entregue no aparelho,200,Ok,770e8107754225827681847k78013rmwp
+5592988383776,não entregue,404,Not Found,774e2841164958290161120k78014rmwp
+5551993688331,entregue no aparelho,-1,Dropped by originator connect timeout,778e801721821471502817k78015rmwp
+5541988793698,entregue no aparelho,-1,Dropped by originator connect timeout,782e505652626788136539k78016rmwp
+5565984423109,entregue no aparelho,200,Ok,786e5705524134200537001k78017rmwp
+5571982312424,entregue no aparelho,-1,Dropped by originator connect timeout,790e2339017105057852928k78018rmwp
+5547989157474,entregue no aparelho,-1,Dropped by originator connect timeout,794e3045392015587536078k78019rmwp
+5551999966728,entregue no aparelho,200,Ok,798e8098006617482571789k78020rmwp
+5588997125654,entregue no aparelho,-1,Dropped by originator connect timeout,802e8144571413186672072k78021rmwp
+5521992051955,entregue no aparelho,-1,Dropped by originator connect timeout,806e5869413566149155212k78022rmwp
+5583996897814,enviado para a operadora,-1,Dropped by originator connect timeout,810e1901498554291053990k78023rmwp
+5585996528512,não entregue,-1,Dropped by originator connect timeout,814e6620751107333565971k78024rmwp
+5581999468689,entregue no aparelho,480,Temporarily Unavailable,818e6594489704533112437k78025rmwp
+5561982287807,entregue no aparelho,-1,Dropped by originator connect timeout,822e6560412908831253841k78026rmwp
+5551991886525,entregue no aparelho,-1,Dropped by originator connect timeout,826e1979619672956516082k78027rmwp
+5594974004351,entregue no aparelho,404,Not Found,830e2983310874250318608k78028rmwp
+5548998560087,entregue no aparelho,200,Ok,834e7784892508022367776k78029rmwp
+5521964337307,entregue no aparelho,-1,Dropped by originator connect timeout,838e7986377651924082884k78030rmwp
+5511933898787,entregue no aparelho,200,Ok,842e8559595884720365641k78031rmwp
+5592984468254,não entregue,403,Forbidden,846e1140965297693689084k78032rmwp
+5571991200307,entregue no aparelho,-1,Dropped by originator connect timeout,850e3473999246442752160k78033rmwp
+5531992656592,entregue no aparelho,200,Ok,854e7724632595816183071k78034rmwp
+5553999434803,entregue no aparelho,-1,Dropped by originator connect timeout,858e4347676784721868686k78035rmwp
+5553997121819,entregue no aparelho,-1,Dropped by originator connect timeout,862e8300744743012658525k78036rmwp
+5511992336593,entregue no aparelho,480,Temporarily Unavailable,866e3053207499528005271k78037rmwp
+5549999406152,entregue no aparelho,-1,Dropped by originator connect timeout,870e5066725973932825807k78038rmwp
+5555991175027,entregue no aparelho,-1,Dropped by originator connect timeout,874e8153361216888870968k78039rmwp
+5515988150484,entregue no aparelho,200,Ok,878e4919546312515987241k78040rmwp
+5511998956299,enviado para a operadora,603,Decline,882e4122233866888542660k78041rmwp
+5521983525822,entregue no aparelho,-1,Dropped by originator connect timeout,886e7782365210988281020k78042rmwp
+5532991809396,entregue no aparelho,-1,Dropped by originator connect timeout,890e2909603715008748432k78043rmwp
+5531985089286,entregue no aparelho,200,Ok,894e811740551882410525k78044rmwp
+5562981934102,entregue no aparelho,-1,Dropped by originator connect timeout,898e454191331868530055k78045rmwp
+5575983535906,enviado para a operadora,-1,Dropped by originator connect timeout,902e7866609486384702594k78046rmwp
+5586994650411,entregue no aparelho,-1,Dropped by originator connect timeout,906e6177916329426980248k78047rmwp
+5511999117764,entregue no aparelho,-1,Dropped by originator connect timeout,910e6027418993526005911k78048rmwp
+5511950017402,entregue no aparelho,603,Decline,914e6674217081195968099k78049rmwp
+5585986341835,não entregue,-1,Dropped by originator connect timeout,918e2430268811985021836k78050rmwp
+5586988681621,entregue no aparelho,-1,Dropped by originator connect timeout,922e654555834593754732k78051rmwp
+5511941520465,entregue no aparelho,-1,Dropped by originator connect timeout,926e7326172845726939992k78052rmwp
+5579988445698,entregue no aparelho,-1,Dropped by originator connect timeout,930e9025185693611993947k78053rmwp
+5571984011991,entregue no aparelho,-1,Dropped by originator connect timeout,934e8629674973715097332k78054rmwp
+5592993636811,entregue no aparelho,-1,Dropped by originator connect timeout,938e8525512750559138986k78055rmwp
+5586981667769,entregue no aparelho,-1,Dropped by originator connect timeout,942e7863505086448957374k78056rmwp
+5528999554784,entregue no aparelho,-1,Dropped by originator connect timeout,946e5901150047116763004k78057rmwp
+5524998289602,entregue no aparelho,-1,Dropped by originator connect timeout,950e2350246536049908434k78058rmwp
+5555999911663,entregue no aparelho,-1,Dropped by originator connect timeout,954e4895133239186321890k78059rmwp
+5516981864321,entregue no aparelho,200,Ok,958e6593722535815323489k78060rmwp
+5561987653421,não entregue,404,Not Found,962e7123158396367551718k78061rmwp
+5554991695969,entregue no aparelho,-1,Dropped by originator connect timeout,966e129491188848383182k78062rmwp
+5586998289658,entregue no aparelho,-1,Dropped by originator connect timeout,970e1348263058131605168k78063rmwp
+5547988347312,não entregue,500,Server Internal Error,974e8028011980445546026k78064rmwp
+5567999624042,entregue no aparelho,-1,Dropped by originator connect timeout,978e5955227483835444280k78065rmwp
+5511981343332,não entregue,200,Ok,982e1788739019645533888k78066rmwp
+5554993255583,entregue no aparelho,-1,Dropped by originator connect timeout,986e3109401885864183219k78067rmwp
+5551993574445,entregue no aparelho,-1,Dropped by originator connect timeout,990e2614369682609617383k78068rmwp
+5585999991075,não entregue,-1,Dropped by originator connect timeout,994e5859705812324532705k78069rmwp
+5585985501020,enviado para a operadora,200,Ok,998e7729882923252188317k78070rmwp
+5551999859299,entregue no aparelho,-1,Dropped by originator connect timeout,1002e1426581153861416491k78071rmwp
+5566981371000,entregue no aparelho,-1,Dropped by originator connect timeout,1006e1629615059609718587k78072rmwp
+5555991780438,entregue no aparelho,-1,Dropped by originator connect timeout,1010e4535825402426808351k78073rmwp
+5551993078329,enviado para a operadora,486,Busy Here,1014e7376619735395539159k78074rmwp
+5571988359190,entregue no aparelho,-1,Dropped by originator connect timeout,1018e5057203966344100383k78075rmwp
+5588999627000,não entregue,-1,Dropped by originator connect timeout,1022e3329791379987547429k78076rmwp
+5592992960145,entregue no aparelho,-1,Dropped by originator connect timeout,1026e4548351955357756097k78077rmwp
+5511970492822,entregue no aparelho,200,Ok,1030e4064233763821606209k78078rmwp
+5521983838308,entregue no aparelho,-1,Dropped by originator connect timeout,1034e5974593214624521759k78079rmwp
+5521995303132,entregue no aparelho,-1,Dropped by originator connect timeout,1038e6579836246462870530k78080rmwp
+5549999524428,entregue no aparelho,-1,Dropped by originator connect timeout,1042e2291154217252473424k78081rmwp
+5511966066617,entregue no aparelho,-1,Dropped by originator connect timeout,1046e5550159835995914430k78082rmwp
+5588993445880,não entregue,480,Temporarily Unavailable,1050e1236333950309315253k78083rmwp
+5551999861211,enviado para a operadora,480,Temporarily Unavailable,1054e2606344906203655874k78084rmwp
+5521986238302,entregue no aparelho,-1,Dropped by originator connect timeout,1058e4500296314614514416k78085rmwp
+5561995336496,entregue no aparelho,-1,Dropped by originator connect timeout,1062e6345021555822747730k78086rmwp
+5518996046228,entregue no aparelho,-1,Dropped by originator connect timeout,1066e6767587442760285864k78087rmwp
+5511993961717,enviado para a operadora,-1,Dropped by originator connect timeout,1070e3459617503133239355k78088rmwp
+5511992775791,entregue no aparelho,200,Ok,1074e4007781814810263583k78089rmwp
+5519987468101,entregue no aparelho,-1,Dropped by originator connect timeout,1078e9096079199975430089k78090rmwp
+5521988432678,não entregue,200,Ok,1082e8120722299027165770k78091rmwp
+5587981664934,entregue no aparelho,-1,Dropped by originator connect timeout,1086e2194514800850818790k78092rmwp
+5577981509762,entregue no aparelho,-1,Dropped by originator connect timeout,1090e4246872884717959740k78093rmwp
+5528988158582,entregue no aparelho,-1,Dropped by originator connect timeout,1094e1206362142369696781k78094rmwp
+5511969330796,enviado para a operadora,-1,Dropped by originator connect timeout,1098e8096201875093068797k78095rmwp
+5527999524747,não entregue,404,Not Found,1102e4407682230476090392k78096rmwp
+5513981693265,entregue no aparelho,-1,Dropped by originator connect timeout,1106e2761972206491609655k78097rmwp
+5511976247794,entregue no aparelho,-1,Dropped by originator connect timeout,1110e3004945048138805430k78098rmwp
+5521970973939,entregue no aparelho,-1,Dropped by originator connect timeout,1114e4001793780269989812k78099rmwp
+5517991241746,entregue no aparelho,-1,Dropped by originator connect timeout,1118e4817976880928234956k78100rmwp
+5592984601998,não entregue,403,Forbidden,1122e3519984574145530817k78101rmwp
+5583981807123,entregue no aparelho,200,Ok,1126e2676735339808790917k78102rmwp
+5586981912428,não entregue,480,Temporarily Unavailable,1130e8040588950879318648k78103rmwp
+5541985025150,entregue no aparelho,-1,Dropped by originator connect timeout,1134e4889297517715237039k78104rmwp
+5577991152568,não entregue,403,Forbidden,1138e4177641531481100104k78105rmwp
+5585992737998,entregue no aparelho,480,Temporarily Unavailable,1142e5961700930076808790k78106rmwp
+5551997158548,entregue no aparelho,200,Ok,1146e3707847333284981578k78107rmwp
+5567998433465,entregue no aparelho,-1,Dropped by originator connect timeout,1150e6005016396503646906k78108rmwp
+5512992261913,entregue no aparelho,200,Ok,1154e8817283994366656031k78109rmwp
+5541997621147,entregue no aparelho,200,Ok,1158e2427269850300221947k78110rmwp
+5585997244694,entregue no aparelho,200,Ok,1162e1712685796862507951k78111rmwp
+5517997330636,entregue no aparelho,200,Ok,1166e5192118398746360004k78112rmwp
+5538999934402,entregue no aparelho,-1,Dropped by originator connect timeout,1170e3875851278445408766k78113rmwp
+5511954732623,entregue no aparelho,-1,Dropped by originator connect timeout,1174e1779662443905309893k78114rmwp
+5585988524507,não entregue,500,Server Internal Error,1178e940915022931029011k78115rmwp
+5521988337782,entregue no aparelho,-1,Dropped by originator connect timeout,1182e1468845106840613502k78116rmwp
+5531982611879,entregue no aparelho,-1,Dropped by originator connect timeout,1186e735579168747513838k78117rmwp
+5585999171592,entregue no aparelho,-1,Dropped by originator connect timeout,1190e3880445848070524441k78118rmwp
+5527998268908,entregue no aparelho,-1,Dropped by originator connect timeout,1194e3769991638238323075k78119rmwp
+5511963626642,não entregue,-1,Dropped by originator connect timeout,1198e5878211222632249984k78120rmwp
+5516996145425,entregue no aparelho,480,Temporarily Unavailable,1202e6318517970144602518k78121rmwp
+5511995024069,entregue no aparelho,-1,Dropped by originator connect timeout,1206e7936415748105579687k78122rmwp
+5514997533735,entregue no aparelho,-1,Dropped by originator connect timeout,1210e4732632185029547069k78123rmwp
+5511981711585,entregue no aparelho,-1,Dropped by originator connect timeout,1214e1562765022427889807k78124rmwp
+5533988293832,entregue no aparelho,200,Ok,1218e4481395437094971010k78125rmwp
+5527999693798,entregue no aparelho,200,Ok,1222e961409925989802773k78126rmwp
+5515996741078,entregue no aparelho,480,Temporarily Unavailable,1226e4599434663298105130k78127rmwp
+5575991123818,entregue no aparelho,-1,Dropped by originator connect timeout,1230e534383101326300502k78128rmwp
+5547999003751,entregue no aparelho,-1,Dropped by originator connect timeout,1234e5847705043750406698k78129rmwp
+5585997071821,não entregue,200,Ok,1238e3314673586809085852k78130rmwp
+5547997526382,não entregue,200,Ok,1242e4416242174484574112k78131rmwp
+5541997548943,não entregue,603,Decline,1246e2357890483341839176k78132rmwp
+5551986169445,entregue no aparelho,-1,Dropped by originator connect timeout,1250e5576816580971866787k78133rmwp
+5519995371218,não entregue,480,Temporarily Unavailable,1254e6395125225508309078k78134rmwp
+5511967485494,entregue no aparelho,-1,Dropped by originator connect timeout,1258e7572689769076712691k78135rmwp
+5586995241825,entregue no aparelho,200,Ok,1262e360390319969692317k78136rmwp
+5511948320939,entregue no aparelho,-1,Dropped by originator connect timeout,1266e6467344143092141479k78137rmwp
+5551999711354,entregue no aparelho,-1,Dropped by originator connect timeout,1270e9080705160066949653k78138rmwp
+5571988656855,entregue no aparelho,-1,Dropped by originator connect timeout,1274e4425207229855299560k78139rmwp
+5511964563456,entregue no aparelho,-1,Dropped by originator connect timeout,1278e2674833350660849196k78140rmwp
+5561992155140,não entregue,480,Temporarily Unavailable,1282e690814345569406690k78141rmwp
+5517991544386,entregue no aparelho,-1,Dropped by originator connect timeout,1286e7718117468732753953k78142rmwp
+5511954365059,entregue no aparelho,200,Ok,1290e4486580321000174498k78143rmwp
+5586981610543,entregue no aparelho,500,Server Internal Error,1329r868502236129692578t78152rmwp
+5547996982494,entregue no aparelho,-1,Dropped by originator connect timeout,1298e377847029999205235k78145rmwp
+5551999566668,entregue no aparelho,200,Ok,1302e1211220077811524226k78146rmwp
+5511982340446,não entregue,404,Not Found,1306e4743505262914573768k78147rmwp
+5577981105271,entregue no aparelho,-1,Dropped by originator connect timeout,1310e7873138316906618445k78148rmwp
+5521975396769,não entregue,480,Temporarily Unavailable,1314e5624009529461045893k78149rmwp
+5533984630686,entregue no aparelho,200,Ok,1318e3124080513157537333k78150rmwp
+5551997830232,entregue no aparelho,-1,Dropped by originator connect timeout,1322e6068163990651243109k78151rmwp
+5585988872777,enviado para a operadora,480,Temporarily Unavailable,1326e5564530263714509508k78152rmwp
+5593991570599,entregue no aparelho,-1,Dropped by originator connect timeout,1330e6655730954851717961k78153rmwp
+5548996604452,entregue no aparelho,-1,Dropped by originator connect timeout,1334e3610537098550220742k78154rmwp
+5519987016617,enviado para a operadora,-1,Dropped by originator connect timeout,1338e3173529652061359507k78155rmwp
+5531981078843,entregue no aparelho,200,Ok,1342e1083640651096936149k78156rmwp
+5531996036515,entregue no aparelho,-1,Dropped by originator connect timeout,1346e4712228824835438087k78157rmwp
+5586981148443,entregue no aparelho,487,Request Terminated,1350e7102780518507418654k78158rmwp
+5561993535347,entregue no aparelho,486,Busy Here,1354e5843714565550791734k78159rmwp
+5583994178955,enviado para a operadora,-1,Dropped by originator connect timeout,1358e4006785171921719191k78160rmwp
+5516981212940,entregue no aparelho,-1,Dropped by originator connect timeout,1362e5538710803068916894k78161rmwp
+5554984342206,entregue no aparelho,200,Ok,1366e4396554960847322483k78162rmwp
+5511999978852,entregue no aparelho,200,Ok,1370e3012702369535809784k78163rmwp
+5583996121613,entregue no aparelho,480,Temporarily Unavailable,1374e245174297432550766k78164rmwp
+5513991534238,não entregue,480,Temporarily Unavailable,1378e4475748223990556977k78165rmwp
+5519974012077,entregue no aparelho,-1,Dropped by originator connect timeout,1382e7730945900691041969k78166rmwp
+5585999945162,não entregue,200,Ok,1386e6111987729143973698k78167rmwp
+5569981115287,entregue no aparelho,-1,Dropped by originator connect timeout,1390e6176180686602480441k78168rmwp
+5571988423716,entregue no aparelho,480,Temporarily Unavailable,1394e4049842474836799807k78169rmwp
+5581985391105,entregue no aparelho,-1,Dropped by originator connect timeout,1398e2745954413686074360k78170rmwp
+5589999879323,não entregue,404,Not Found,1402e7510202288045363329k78171rmwp
+5565996048304,entregue no aparelho,-1,Dropped by originator connect timeout,1406e6613417845015380947k78172rmwp
+5545999066158,entregue no aparelho,200,Ok,1410e8205853850885669876k78173rmwp
+5581993797475,não entregue,480,Temporarily Unavailable,1414e106309889657735352k78174rmwp
+5515996930150,entregue no aparelho,-1,Dropped by originator connect timeout,1418e6059580231865508038k78175rmwp
+5567993510045,não entregue,403,Forbidden,1422e2478576835463890707k78176rmwp
+5554997033706,entregue no aparelho,200,Ok,1426e3798103544600469851k78177rmwp
+5538999365044,entregue no aparelho,486,Busy Here,1430e9171233531060766697k78178rmwp
+5549999605363,entregue no aparelho,200,Ok,1434e5748902831484049182k78179rmwp
+5519987425691,entregue no aparelho,200,Ok,1438e4537457433143739508k78180rmwp
+5585999506170,não entregue,-1,Dropped by originator connect timeout,1442e368963318404578698k78181rmwp
+5538997374303,entregue no aparelho,200,Ok,1446e5790838625965160593k78182rmwp
+5554999095950,entregue no aparelho,-1,Dropped by originator connect timeout,1450e833424594474851680k78183rmwp
+5511961790361,não entregue,480,Temporarily Unavailable,1454e1646142119588541935k78184rmwp
+5582981889729,não entregue,480,Temporarily Unavailable,1458e8730506805304400341k78185rmwp
+5527999680227,entregue no aparelho,200,Ok,1462e2867930992247536728k78186rmwp
+5531987630446,entregue no aparelho,-1,Dropped by originator connect timeout,1466e4220248702966395092k78187rmwp
+5512996843619,não entregue,480,Temporarily Unavailable,1470e6846506269856021882k78188rmwp
+5585996882672,entregue no aparelho,200,Ok,1474e7851280044265820593k78189rmwp
+5584986027288,entregue no aparelho,-1,Dropped by originator connect timeout,1478e1897874655572288051k78190rmwp
+5586988852194,entregue no aparelho,200,Ok,1482e6122314368439970409k78191rmwp
+5589981176561,entregue no aparelho,200,Ok,1486e1056424922030038462k78192rmwp
+5534996965247,entregue no aparelho,-1,Dropped by originator connect timeout,1490e6497002851235776061k78193rmwp
+5585986034217,entregue no aparelho,200,Ok,1494e6046687446151411077k78194rmwp
+5567999458922,entregue no aparelho,-1,Dropped by originator connect timeout,1498e917352938177706133k78195rmwp
+5599999067759,não entregue,404,Not Found,1502e6965556256452223697k78196rmwp
+5571981119065,entregue no aparelho,-1,Dropped by originator connect timeout,1506e3565198050945185791k78197rmwp
+5566996101192,enviado para a operadora,487,Request Terminated,1510e6498201017673585831k78198rmwp
+5581973435431,entregue no aparelho,-1,Dropped by originator connect timeout,1514e6165652851300906283k78199rmwp
+5511981840561,não entregue,480,Temporarily Unavailable,1518e5052325073951858045k78200rmwp
+5592995096424,não entregue,404,Not Found,1522e5532149138008379237k78201rmwp
+5585999832580,não entregue,200,Ok,1526e2881586390061827151k78202rmwp
+5521969326523,entregue no aparelho,-1,Dropped by originator connect timeout,1530e5374284831337293202k78203rmwp
+5521990256919,entregue no aparelho,-1,Dropped by originator connect timeout,1534e4058316366178223200k78204rmwp
+5555991693154,entregue no aparelho,-1,Dropped by originator connect timeout,1538e4263538527912395374k78205rmwp
+5561992883684,não entregue,403,Forbidden,1542e6669818177046029927k78206rmwp
+5511962880376,entregue no aparelho,-1,Dropped by originator connect timeout,1546e4472677180533057040k78207rmwp
+5585997998847,entregue no aparelho,-1,Dropped by originator connect timeout,1550e3083774722323378401k78208rmwp
+5599984316108,entregue no aparelho,-1,Dropped by originator connect timeout,1554e6778977634366294117k78209rmwp
+5522997676845,entregue no aparelho,-1,Dropped by originator connect timeout,1558e1227325156236160439k78210rmwp
+5531995962167,entregue no aparelho,-1,Dropped by alerting timeout,1562e3323789652686128189k78211rmwp
+5571991347644,entregue no aparelho,200,Ok,1566e8784793647195425250k78212rmwp
+5561992665863,entregue no aparelho,200,Ok,1570e5433598154872627343k78213rmwp
+5519974219664,entregue no aparelho,-1,Dropped by originator connect timeout,1574e5345815978944087917k78214rmwp
+5551986260054,não entregue,404,Not Found,1578e4074459937521691954k78215rmwp
+5581982216296,não entregue,487,Request Terminated,1582e7609146465531208462k78216rmwp
+5519988728274,enviado para a operadora,200,Ok,1586e2997550463888786305k78217rmwp
+5521992324929,não entregue,480,Temporarily Unavailable,1590e6429598186092941678k78218rmwp
+5511956518641,enviado para a operadora,603,Decline,1594e2532980603207816548k78219rmwp
+5573982548608,entregue no aparelho,-1,Dropped by originator connect timeout,1598e7836234665844439533k78220rmwp
+5514998184461,entregue no aparelho,-1,Dropped by originator connect timeout,1602e528002164749844041k78221rmwp
+5511947723332,não entregue,480,Temporarily Unavailable,1606e9216377470568477810k78222rmwp
+5531998640073,entregue no aparelho,480,Temporarily Unavailable,1610e149695823272114871k78223rmwp
+5566992399926,não entregue,403,Forbidden,1614e6010411360252023917k78224rmwp
+5551999043474,entregue no aparelho,-1,Dropped by originator connect timeout,1618e7308383841639388488k78225rmwp
+5512991268932,entregue no aparelho,200,Ok,1622e2759799037010906382k78226rmwp
+5542999740420,entregue no aparelho,-1,Dropped by originator connect timeout,1626e1769879442514391937k78227rmwp
+5562993135085,entregue no aparelho,200,Ok,1630e2372747826032498557k78228rmwp
+5571983872216,não entregue,480,Temporarily Unavailable,1634e441365127468363059k78229rmwp
+5513997064268,entregue no aparelho,-1,Dropped by originator connect timeout,1638e7955835048514737683k78230rmwp
+5531992763107,entregue no aparelho,-1,Dropped by originator connect timeout,1642e1665840002108628446k78231rmwp
+5541999231010,entregue no aparelho,-1,Dropped by originator connect timeout,1646e6687632983748456463k78232rmwp
+5514996517557,entregue no aparelho,200,Ok,1650e8844503514225162182k78233rmwp
+5547991165459,entregue no aparelho,-1,Dropped by originator connect timeout,1654e8697859362996306141k78234rmwp
+5586988757391,enviado para a operadora,200,Ok,1658e1412898745032009224k78235rmwp
+5511991183732,entregue no aparelho,200,Ok,1662e9193691312128395933k78236rmwp
+5585996342266,enviado para a operadora,200,Ok,1666e1144929159599469732k78237rmwp
+5531995183203,entregue no aparelho,200,Ok,1670e6170453092504952648k78238rmwp
+5545998409175,entregue no aparelho,-1,Dropped by originator connect timeout,1674e4157361247600484693k78239rmwp
+5561994294006,não entregue,403,Forbidden,1678e5082276494017066051k78240rmwp
+5511950246269,entregue no aparelho,-1,Dropped by originator connect timeout,1682e24886411932927784k78241rmwp
+5534991009629,entregue no aparelho,-1,Dropped by originator connect timeout,1686e6684778387199092485k78242rmwp
+5585999180064,entregue no aparelho,200,Ok,1690e7057119468940604404k78243rmwp
+5561991766659,não entregue,403,Forbidden,1694e7031418071286467774k78244rmwp
+5584991097568,enviado para a operadora,-1,Dropped by originator connect timeout,1698e5805194233612470951k78245rmwp
+5541992288134,entregue no aparelho,200,Ok,1702e5574496227555952899k78246rmwp
+5585999351443,não entregue,200,Ok,1706e8859191994873214101k78247rmwp
+5569993960952,entregue no aparelho,-1,Dropped by originator connect timeout,1710e8865877872802285204k78248rmwp
+5511959783547,entregue no aparelho,200,Ok,1714e6818862819653108735k78249rmwp
+5541997243231,entregue no aparelho,-1,Dropped by originator connect timeout,1718e7787403646197833418k78250rmwp
+5531983507447,entregue no aparelho,200,Ok,1722e6302971011514970943k78251rmwp
+5531997800962,entregue no aparelho,200,Ok,1726e878157673042620161k78252rmwp
+5591984909018,entregue no aparelho,-1,Dropped by originator connect timeout,1730e6713617709889974403k78253rmwp
+5584987188643,não entregue,403,Forbidden,1734e1753743870473055997k78254rmwp
+5549991813254,entregue no aparelho,200,Ok,1738e8133409400415807776k78255rmwp
+5521992471695,entregue no aparelho,486,Busy Here,1742e4456034244535844258k78256rmwp
+5511988501346,entregue no aparelho,200,Ok,1746e7509159565912006089k78257rmwp
+5521994180452,não entregue,480,Temporarily Unavailable,1750e8471825998586014448k78258rmwp
+5534998005200,entregue no aparelho,200,Ok,1754e6120874221469577662k78259rmwp
+5519993596943,entregue no aparelho,-1,Dropped by originator connect timeout,1758e4794544227830008612k78260rmwp
+5521973405732,entregue no aparelho,-1,Dropped by originator connect timeout,1762e4776196944259880668k78261rmwp
+5569993429556,não entregue,403,Forbidden,1766e2550563337690100540k78262rmwp
+5514991623241,entregue no aparelho,-1,Dropped by originator connect timeout,1770e3376093580883406694k78263rmwp
+5511982099012,entregue no aparelho,-1,Dropped by originator connect timeout,1774e2079812643739755392k78264rmwp
+5592988066799,enviado para a operadora,480,Temporarily Unavailable,1778e4627445435530592005k78265rmwp
+5584992093516,entregue no aparelho,-1,Dropped by originator connect timeout,1782e4071936521497733388k78266rmwp
+5562992074222,entregue no aparelho,-1,Dropped by originator connect timeout,1786e8801487138056038862k78267rmwp
+5599984332488,entregue no aparelho,-1,Dropped by originator connect timeout,1790e8480950462165555876k78268rmwp
+5542999542597,entregue no aparelho,-1,Dropped by originator connect timeout,1794e6457290310131385309k78269rmwp
+5592986135376,entregue no aparelho,-1,Dropped by originator connect timeout,1798e3054183660417315692k78270rmwp
+5555999133438,entregue no aparelho,-1,Dropped by originator connect timeout,1802e4054628256689306780k78271rmwp
+5521975999134,entregue no aparelho,-1,Dropped by originator connect timeout,1806e3187671837588573364k78272rmwp
+5527998690345,entregue no aparelho,200,Ok,1810e6317371442598683784k78273rmwp
+5531982882961,entregue no aparelho,200,Ok,1814e5800352205521645113k78274rmwp
+5585991105475,entregue no aparelho,-1,Dropped by originator connect timeout,1818e6658069132371662947k78275rmwp
+5585988434231,não entregue,480,Temporarily Unavailable,1822e1033479343232593481k78276rmwp
+5511987766147,entregue no aparelho,200,Ok,1826e492840463897630165k78277rmwp
+5511943207700,entregue no aparelho,-1,Dropped by originator connect timeout,1830e6358280468075485665k78278rmwp
+5547996711134,entregue no aparelho,-1,Dropped by originator connect timeout,1834e1588899969692527992k78279rmwp
+5585986510153,não entregue,480,Temporarily Unavailable,1838e2645453129965146492k78280rmwp
+5532988121376,entregue no aparelho,-1,Dropped by originator connect timeout,1842e7492296077674690301k78281rmwp
+5531997110564,entregue no aparelho,200,Ok,1846e5066931355882124576k78282rmwp
+5585988125948,entregue no aparelho,200,Ok,1850e6131095476405142959k78283rmwp
+5586988469760,entregue no aparelho,200,Ok,1854e6770117472747099131k78284rmwp
+5585981056331,não entregue,-1,Dropped by originator connect timeout,1858e6284827182383633889k78285rmwp
+5541996479546,não entregue,603,Decline,1862e4755352406735797048k78286rmwp
+5543984795218,não entregue,480,Temporarily Unavailable,1866e2503267897183545613k78287rmwp
+5521976172557,entregue no aparelho,-1,Dropped by originator connect timeout,1870e4829238506315705758k78288rmwp
+5547999772869,entregue no aparelho,-1,Dropped by originator connect timeout,1874e1710688843301487045k78289rmwp
+5512991352199,entregue no aparelho,200,Ok,1878e7630410424575639250k78290rmwp
+5531993429612,entregue no aparelho,-1,Dropped by originator connect timeout,1882e4854861982686048893k78291rmwp
+5531983123368,não entregue,480,Temporarily Unavailable,1886e731135602920863738k78292rmwp
+5588999247200,não entregue,404,Not Found,1890e7948511764292301836k78293rmwp
+5579988781001,entregue no aparelho,-1,Dropped by originator connect timeout,1894e6447059821749277788k78294rmwp
+5527996082858,entregue no aparelho,-1,Dropped by originator connect timeout,1898e6910460529674733373k78295rmwp
+5518996299998,entregue no aparelho,480,Temporarily Unavailable,1902e5998765060223246751k78296rmwp
+5561999041309,entregue no aparelho,404,Not Found,1906e2783357029016813879k78297rmwp
+5585989540638,não entregue,480,Temporarily Unavailable,1910e2679811533821882688k78298rmwp
+5584998712633,não entregue,404,Not Found,1914e5095840166317836663k78299rmwp
+5534991095131,não entregue,404,Not Found,1918e1306205170557050214k78300rmwp
+5531988958090,entregue no aparelho,200,Ok,1922e1131081135590493331k78301rmwp
+5551989210149,não entregue,480,Temporarily Unavailable,1926e7728584608335208003k78302rmwp
+5554992295268,entregue no aparelho,-1,Dropped by originator connect timeout,1930e5211940160155152683k78303rmwp
+5528999411862,entregue no aparelho,-1,Dropped by originator connect timeout,1934e7557337001243168773k78304rmwp
+5565992653063,entregue no aparelho,-1,Dropped by originator connect timeout,1938e5925181242793761611k78305rmwp
+5511937602932,não entregue,404,Not Found,1942e5903470634677027871k78306rmwp
+5541987268053,não entregue,480,Temporarily Unavailable,1946e8483126291176727042k78307rmwp
+5585991296064,entregue no aparelho,-1,Dropped by originator connect timeout,1950e6416127585955371518k78308rmwp
+5571983635962,não entregue,480,Temporarily Unavailable,1954e3331179196908375977k78309rmwp
+5532998084219,entregue no aparelho,200,Ok,1958e6740134197243364364k78310rmwp
+5561999819078,entregue no aparelho,200,Ok,1962e7708755735997027550k78311rmwp
+5565984331644,entregue no aparelho,-1,Dropped by originator connect timeout,1966e3121252790294453175k78312rmwp
+5564992602890,não entregue,200,Ok,1970e4579464438511911382k78313rmwp
+5563991322975,entregue no aparelho,-1,Dropped by originator connect timeout,1974e6722550159708011000k78314rmwp
+5512997092004,não entregue,404,Not Found,1978e5012553389297531748k78315rmwp
+5555999894318,entregue no aparelho,-1,Dropped by originator connect timeout,1982e3371712131864352654k78316rmwp
+5589981262349,entregue no aparelho,200,Ok,1986e7826353341094876773k78317rmwp
+5521979373119,entregue no aparelho,486,Busy Here,1990e9043081363936662272k78318rmwp
+5551995042140,entregue no aparelho,487,Request Terminated,1994e468055883631344030k78319rmwp
+5511977014423,entregue no aparelho,-1,Dropped by originator connect timeout,1998e4154509652504810360k78320rmwp
+5588993307850,enviado para a operadora,-1,Dropped by originator connect timeout,2002e2011944589601717223k78321rmwp
+5579988574783,entregue no aparelho,200,Ok,2006e7975262932076275835k78322rmwp
+5575991191134,entregue no aparelho,-1,Dropped by originator connect timeout,2010e1146485446850460003k78323rmwp
+5512987017610,entregue no aparelho,200,Ok,2014e685834770887746213k78324rmwp
+5586995443626,entregue no aparelho,200,Ok,2018e8822509706966842068k78325rmwp
+5599992169391,entregue no aparelho,-1,Dropped by originator connect timeout,2022e823038595725104286k78326rmwp
+5585988977132,não entregue,-1,Dropped by originator connect timeout,2026e639678556828356750k78327rmwp
+5541997311968,entregue no aparelho,-1,Dropped by originator connect timeout,2030e7573581372412610545k78328rmwp
+5585998003189,não entregue,-1,Dropped by originator connect timeout,2034e4596711421099889108k78329rmwp
+5531971321959,entregue no aparelho,-1,Dropped by originator connect timeout,2038e7775141342998883508k78330rmwp
+5521983768452,entregue no aparelho,-1,Dropped by originator connect timeout,2042e6685722346433311404k78331rmwp
+5584981422591,não entregue,200,Ok,2046e1974737266473240851k78332rmwp
+5521981744312,entregue no aparelho,200,Ok,2050e8857872072778913370k78333rmwp
+5599982400111,entregue no aparelho,200,Ok,2054e495548866867348439k78334rmwp
+5592984152193,entregue no aparelho,-1,Dropped by originator connect timeout,2058e7426193036641621208k78335rmwp
+5592985613638,não entregue,403,Forbidden,2062e16323263239989343k78336rmwp
+5511982613742,entregue no aparelho,-1,Dropped by originator connect timeout,2066e1736467451344075830k78337rmwp
+5591989577002,entregue no aparelho,-1,Dropped by originator connect timeout,2070e4861687101016343133k78338rmwp
+5551996515679,não entregue,404,Not Found,2074e3395208550127372538k78339rmwp
+5549999701400,entregue no aparelho,-1,Dropped by originator connect timeout,2078e4537579004738371575k78340rmwp
+5521977194317,entregue no aparelho,200,Ok,2082e6280842286946504419k78341rmwp
+5528988036721,entregue no aparelho,-1,Dropped by originator connect timeout,2086e5042521308578957409k78342rmwp
+5511961324859,entregue no aparelho,-1,Dropped by originator connect timeout,2090e783431603827732508k78343rmwp
+5519999850781,entregue no aparelho,480,Temporarily Unavailable,2094e7963186408445306854k78344rmwp
+5586995542114,não entregue,480,Temporarily Unavailable,2098e7318833303131329734k78345rmwp
+5533998125356,entregue no aparelho,-1,Dropped by originator connect timeout,2102e8148986495778704373k78346rmwp
+5511948511118,entregue no aparelho,-1,Dropped by originator connect timeout,2106e7972336263285658961k78347rmwp
+5527996130663,entregue no aparelho,200,Ok,2110e1596187305087823573k78348rmwp
+5521996199875,entregue no aparelho,-1,Dropped by originator connect timeout,2114e2710470012804617551k78349rmwp
+5527997444179,entregue no aparelho,200,Ok,2118e6884017203230421589k78350rmwp
+5521981311309,entregue no aparelho,403,Forbidden,2122e3328108489823229730k78351rmwp
+5528999897574,não entregue,404,Not Found,2126e7348188605173651765k78352rmwp
+5561995853077,entregue no aparelho,200,Ok,2130e6216605589307216599k78353rmwp
+5591998295255,entregue no aparelho,-1,Dropped by originator connect timeout,2134e3452222497842825657k78354rmwp
+5599991330061,entregue no aparelho,-1,Dropped by originator connect timeout,2138e2864425295949012730k78355rmwp
+5571982167768,entregue no aparelho,-1,Dropped by originator connect timeout,2142e2866153249920167176k78356rmwp
+5511974396506,entregue no aparelho,-1,Dropped by originator connect timeout,2146e3163755659682197270k78357rmwp
+5551997149473,não entregue,404,Not Found,2150e8933431077913612356k78358rmwp
+5511998404413,entregue no aparelho,200,Ok,2154e5559934753236414321k78359rmwp
+5571992824210,entregue no aparelho,-1,Dropped by originator connect timeout,2158e605469382460034302k78360rmwp
+5531982603756,não entregue,480,Temporarily Unavailable,2162e1747840385947767134k78361rmwp
+5542999943214,entregue no aparelho,-1,Dropped by originator connect timeout,2166e2514809143832109558k78362rmwp
+5554999491762,entregue no aparelho,-1,Dropped by originator connect timeout,2170e446358241520918660k78363rmwp
+5586988333960,entregue no aparelho,-1,Dropped by originator connect timeout,2174e7686888017027604248k78364rmwp
+5585994037094,entregue no aparelho,-1,Dropped by originator connect timeout,2178e8665703768467805173k78365rmwp
+5598982499602,entregue no aparelho,-1,Dropped by originator connect timeout,2182e5735698443282443144k78366rmwp
+5565981271728,entregue no aparelho,-1,Dropped by originator connect timeout,2186e7317819721300956443k78367rmwp
+5598991524248,entregue no aparelho,-1,Dropped by originator connect timeout,2190e6739045162704159042k78368rmwp
+5547984245923,entregue no aparelho,-1,Dropped by originator connect timeout,2194e9191167621838362840k78369rmwp
+5584994409432,entregue no aparelho,-1,Dropped by originator connect timeout,2198e948939999532032279k78370rmwp
+5528999006154,entregue no aparelho,-1,Dropped by originator connect timeout,2202e4110305762021815684k78371rmwp
+5519901740935,falha,404,Not Found,2206e4246149861270437616k78372rmwp
+5514988002897,não entregue,480,Temporarily Unavailable,2210e6958248045211282716k78373rmwp
+5562993127493,entregue no aparelho,200,Ok,2214e3351057589258965030k78374rmwp
+5589988215951,enviado para a operadora,-1,Dropped by originator connect timeout,2218e3213849761212889655k78375rmwp
+5528999920525,entregue no aparelho,-1,Dropped by originator connect timeout,2222e6273373567998428666k78376rmwp
+5589987550594,não entregue,480,Temporarily Unavailable,2226e7592826621237132627k78377rmwp
+5511967326314,entregue no aparelho,200,Ok,2230e4242184540565657572k78378rmwp
+5571985306613,não entregue,480,Temporarily Unavailable,2234e1364718570296537531k78379rmwp
+5564999945661,entregue no aparelho,-1,Dropped by originator connect timeout,2238e1173569418013648525k78380rmwp
+5553999568241,entregue no aparelho,200,Ok,2242e1633867221568131087k78381rmwp
+5551984455880,entregue no aparelho,-1,Dropped by originator connect timeout,2246e7312422617192870236k78382rmwp
+5511991663716,entregue no aparelho,200,Ok,2250e863606667521806592k78383rmwp
+5511911062776,entregue no aparelho,200,Ok,2254e8791094404243052874k78384rmwp
+5534991931775,entregue no aparelho,200,Ok,2258e8674892338949113571k78385rmwp
+5586994329570,entregue no aparelho,-1,Dropped by originator connect timeout,2262e614886063878932746k78386rmwp
+5551995535210,entregue no aparelho,-1,Dropped by originator connect timeout,2266e7128175302985468655k78387rmwp
+5586998465291,não entregue,404,Not Found,2270e2087737569640390983k78388rmwp
+5551995685230,entregue no aparelho,-1,Dropped by originator connect timeout,2274e864459356478042050k78389rmwp
+5544988156424,não entregue,480,Temporarily Unavailable,2278e8671182837014491995k78390rmwp
+5585996484558,entregue no aparelho,200,Ok,2282e2175306604861568164k78391rmwp
+5543984472387,entregue no aparelho,480,Temporarily Unavailable,2286e3947076553132401884k78392rmwp
+5511997400338,entregue no aparelho,603,Decline,2290e6073284011159046190k78393rmwp
+5585989182040,enviado para a operadora,-1,Dropped by originator connect timeout,2294e7362657023413217700k78394rmwp
+5551989763477,entregue no aparelho,-1,Dropped by originator connect timeout,2298e8021274426417069543k78395rmwp
+5514997710507,entregue no aparelho,200,Ok,2302e5532780652709926572k78396rmwp
+5585992641709,não entregue,603,Decline,2306e7295708608135945489k78397rmwp
+5591983334004,entregue no aparelho,-1,Dropped by originator connect timeout,2310e930317332748641139k78398rmwp
+5511996334868,entregue no aparelho,200,Ok,2314e6051819370009153709k78399rmwp
+5561991714234,entregue no aparelho,-1,Dropped by originator connect timeout,2318e5924707728889093366k78400rmwp
+5592996090471,entregue no aparelho,-1,Dropped by originator connect timeout,2322e1170838641472595270k78401rmwp
+5521979800042,entregue no aparelho,-1,Dropped by originator connect timeout,2326e8123624564836617046k78402rmwp
+5561984915084,entregue no aparelho,-1,Dropped by originator connect timeout,2330e8660688600836354376k78403rmwp
+5522981210780,entregue no aparelho,-1,Dropped by alerting timeout,2334e4004214139801926772k78404rmwp
+5531989823479,não entregue,480,Temporarily Unavailable,2338e7016821134558862264k78405rmwp
+5581997402802,entregue no aparelho,486,Busy Here,2342e4027455960087322763k78406rmwp
+5521997949107,entregue no aparelho,-1,Dropped by originator connect timeout,2346e6590397392275098841k78407rmwp
+5592986129142,não entregue,403,Forbidden,2350e7366536208606074694k78408rmwp
+5511964273919,entregue no aparelho,200,Ok,2354e5212171532621715035k78409rmwp
+5586994031606,não entregue,480,Temporarily Unavailable,2358e1554367365664205011k78410rmwp
+5553984360485,enviado para a operadora,-1,Dropped by originator connect timeout,2362e8858138278115717001k78411rmwp
+5571983892551,entregue no aparelho,-1,Dropped by originator connect timeout,2366e8147770619675199902k78412rmwp
+5571988765547,entregue no aparelho,-1,Dropped by originator connect timeout,2370e4167106946665129267k78413rmwp
+5521975304766,entregue no aparelho,200,Ok,2374e6059145016111317203k78414rmwp
+5551998598582,entregue no aparelho,-1,Dropped by originator connect timeout,2378e707459699653513651k78415rmwp
+5586994355980,entregue no aparelho,200,Ok,2382e2704999755712212234k78416rmwp
+5511984423761,entregue no aparelho,-1,Dropped by originator connect timeout,2386e1890849413154792357k78417rmwp
+5581999446700,entregue no aparelho,-1,Dropped by originator connect timeout,2390e7290773002605684908k78418rmwp
+5555996061420,enviado para a operadora,480,Temporarily Unavailable,2394e1517862378061327522k78419rmwp
+5534999733634,entregue no aparelho,200,Ok,2398e6027342618619291125k78420rmwp
+5562995158540,não entregue,480,Temporarily Unavailable,2402e690738506374804639k78421rmwp
+5514996577795,entregue no aparelho,200,Ok,2406e8048485788298588511k78422rmwp
+5511974262772,entregue no aparelho,-1,Dropped by originator connect timeout,2410e8854880415349396777k78423rmwp
+5585991615994,não entregue,-1,Dropped by originator connect timeout,2414e2714795492590725376k78424rmwp
+5598989852012,não entregue,404,Not Found,2418e2946036107483880258k78425rmwp
+5591988475487,enviado para a operadora,-1,Dropped by originator connect timeout,2422e4954177244682628898k78426rmwp
+5566999014468,entregue no aparelho,487,Request Terminated,2426e7820512440689153510k78427rmwp
+5511978470049,não entregue,480,Temporarily Unavailable,2430e3211367121645222559k78428rmwp
+5521981907690,entregue no aparelho,-1,Dropped by originator connect timeout,2434e9072048855161941700k78429rmwp
+5564999975684,entregue no aparelho,-1,Dropped by originator connect timeout,2438e4646347734471923387k78430rmwp
+5544997003343,entregue no aparelho,-1,Dropped by originator connect timeout,2442e7035181490169014884k78431rmwp
+5582993534152,entregue no aparelho,-1,Dropped by originator connect timeout,2446e6406337025149275589k78432rmwp
+5511966739464,entregue no aparelho,-1,Dropped by originator connect timeout,2450e6464929052872939975k78433rmwp
+5521994988505,entregue no aparelho,486,Busy Here,2454e6719391272565356401k78434rmwp
+5547999743585,entregue no aparelho,-1,Dropped by originator connect timeout,2458e2372784350211364178k78435rmwp
+5511977596636,entregue no aparelho,200,Ok,2462e7458165460760463808k78436rmwp
+5567998818621,entregue no aparelho,404,Not Found,2466e8881192013404306761k78437rmwp
+5511995321691,entregue no aparelho,200,Ok,2470e7583939119947393396k78438rmwp
+5582981323613,entregue no aparelho,-1,Dropped by originator connect timeout,2474e6102593006472471398k78439rmwp
+5551997204080,entregue no aparelho,200,Ok,2478e7847898710205991171k78440rmwp
+5588988800966,não entregue,480,Temporarily Unavailable,2482e8689634253270638853k78441rmwp
+5511981225021,entregue no aparelho,-1,Dropped by originator connect timeout,2486e1506100564683437801k78442rmwp
+5561983456553,entregue no aparelho,486,Busy Here,2490e6425218081794292669k78443rmwp
+5548996082197,entregue no aparelho,486,Busy Here,2494e8858116042932064057k78444rmwp
+5563992593945,não entregue,480,Temporarily Unavailable,2498e5505808987228621658k78445rmwp
+5551999371171,entregue no aparelho,-1,Dropped by originator connect timeout,2502e2625201207850732944k78446rmwp
+5551998293801,não entregue,404,Not Found,2506e8749845114221778613k78447rmwp
+5521985132645,entregue no aparelho,200,Ok,2510e7406062875603892157k78448rmwp
+5574981354303,enviado para a operadora,-1,Dropped by originator connect timeout,2514e1746343438738325442k78449rmwp
+5511990153052,entregue no aparelho,480,Temporarily Unavailable,2518e7465974828642496401k78450rmwp
+5551998442953,entregue no aparelho,-1,Dropped by originator connect timeout,2522e8364012943439094198k78451rmwp
+5511951614747,entregue no aparelho,-1,Dropped by originator connect timeout,2526e7106867658804908564k78452rmwp
+5585997840968,entregue no aparelho,-1,Dropped by originator connect timeout,2530e8871276875033663531k78453rmwp
+5565992511417,enviado para a operadora,200,Ok,2534e4149970853621530117k78454rmwp
+5511985081054,não entregue,404,Not Found,2538e4582672616167386730k78455rmwp
+5584988578553,entregue no aparelho,480,Temporarily Unavailable,2542e5970158918836317778k78456rmwp
+5551989575762,não entregue,480,Temporarily Unavailable,2546e1687054658681741234k78457rmwp
+5563992806891,enviado para a operadora,-1,Dropped by originator connect timeout,2550e4969518095122601433k78458rmwp
+5511989072980,entregue no aparelho,-1,Dropped by originator connect timeout,2554e1996634219042612451k78459rmwp
+5571983766161,não entregue,480,Temporarily Unavailable,2558e8530105128775817249k78460rmwp
+5551994482579,entregue no aparelho,-1,Dropped by originator connect timeout,2562e255644772253405713k78461rmwp
+5531997471913,entregue no aparelho,-1,Dropped by originator connect timeout,2566e989874055445535256k78462rmwp
+5571992977575,enviado para a operadora,-1,Dropped by originator connect timeout,2570e7521140802783651571k78463rmwp
+5571986104815,não entregue,480,Temporarily Unavailable,2574e7015433874026299492k78464rmwp
+5551996186674,entregue no aparelho,-1,Dropped by originator connect timeout,2578e8034618792165150410k78465rmwp
+5581984887457,entregue no aparelho,-1,Dropped by originator connect timeout,2582e8630906994385424981k78466rmwp
+5551999490936,entregue no aparelho,-1,Dropped by originator connect timeout,2586e7465621639531545952k78467rmwp
+5531999981788,entregue no aparelho,-1,Dropped by originator connect timeout,2590e7107395855412842862k78468rmwp
+5511976402864,entregue no aparelho,-1,Dropped by originator connect timeout,2594e778976230786144368k78469rmwp
+5511942193785,entregue no aparelho,486,Busy Here,2598e1641930004765797056k78470rmwp
+5511970436151,entregue no aparelho,-1,Dropped by originator connect timeout,2602e4000300863542452736k78471rmwp
+5579999717801,enviado para a operadora,480,Temporarily Unavailable,2606e2513978000344411737k78472rmwp
+5511945286549,não entregue,480,Temporarily Unavailable,2610e5517736702044419130k78473rmwp
+5583981918802,enviado para a operadora,-1,Dropped by originator connect timeout,2614e391001121758967218k78474rmwp
+5527998355589,entregue no aparelho,-1,Dropped by originator connect timeout,2618e1635414851912576422k78475rmwp
+5581994820054,entregue no aparelho,480,Temporarily Unavailable,2622e3870511837979979442k78476rmwp
+5511999856752,entregue no aparelho,200,Ok,2626e4977594499760269859k78477rmwp
+5584999737992,não entregue,603,Decline,2630e1967448970686425043k78478rmwp
+5524999264527,entregue no aparelho,403,Forbidden,2634e6991999973254864685k78479rmwp
+5548984743317,não entregue,480,Temporarily Unavailable,2638e6694546667372039419k78480rmwp
+5541984522671,não entregue,480,Temporarily Unavailable,2642e4834992947864097874k78481rmwp
+5528999829458,entregue no aparelho,-1,Dropped by originator connect timeout,2646e159805039844429156k78482rmwp
+5512996845484,entregue no aparelho,-1,Dropped by originator connect timeout,2650e9203855945532318874k78483rmwp
+5581982562498,entregue no aparelho,-1,Dropped by originator connect timeout,2654e9221707569375486016k78484rmwp
+5567996357867,entregue no aparelho,200,Ok,2658e581245670527959524k78485rmwp
+5511940827016,não entregue,-1,Dropped by originator connect timeout,2662e7665067431325622678k78486rmwp
+5511981693282,entregue no aparelho,200,Ok,2666e7886535910230262727k78487rmwp
+5588997302836,entregue no aparelho,-1,Dropped by originator connect timeout,2670e4674646032414541903k78488rmwp
+5551982612303,entregue no aparelho,200,Ok,2674e2877034012106009639k78489rmwp
+5518996883933,entregue no aparelho,-1,Dropped by originator connect timeout,2678e5505132504839594126k78490rmwp
+5521973282552,entregue no aparelho,-1,Dropped by originator connect timeout,2682e4524007466874886220k78491rmwp
+5531989662728,não entregue,480,Temporarily Unavailable,2686e2348947364967134417k78492rmwp
+5547988879417,não entregue,480,Temporarily Unavailable,2690e2290551854575317967k78493rmwp
+5581984840268,não entregue,480,Temporarily Unavailable,2694e7438117377396728009k78494rmwp
+5527996882893,enviado para a operadora,487,Request Terminated,2698e2211358599011661104k78495rmwp
+5583988896984,entregue no aparelho,-1,Dropped by originator connect timeout,2702e1447468083890715877k78496rmwp
+5561983580434,não entregue,404,Not Found,2706e1107562218893007910k78497rmwp
+5519995060210,entregue no aparelho,200,Ok,2710e336428626291801031k78498rmwp
+5571984078273,entregue no aparelho,-1,Dropped by originator connect timeout,2714e651871207784857611k78499rmwp
+5553991068777,entregue no aparelho,-1,Dropped by originator connect timeout,2718e3945495498144448616k78500rmwp
+5551993285935,não entregue,403,Forbidden,2722e6780708410028491433k78501rmwp
+5517996425096,entregue no aparelho,-1,Dropped by originator connect timeout,2726e8742819740530413660k78502rmwp
+5531989833038,entregue no aparelho,200,Ok,2730e3246297883261681177k78503rmwp
+5553999297324,entregue no aparelho,-1,Dropped by originator connect timeout,2734e5001415114855457998k78504rmwp
+5541987947038,entregue no aparelho,486,Busy Here,2738e6963672372904202931k78505rmwp
+5511914630026,entregue no aparelho,-1,Dropped by originator connect timeout,2742e5579080980909173974k78506rmwp
+5569993269813,entregue no aparelho,200,Ok,2746e7605469278675212043k78507rmwp
+5585999894819,não entregue,-1,Dropped by originator connect timeout,2750e8416535564555917765k78508rmwp
+5531991337778,entregue no aparelho,486,Busy Here,2754e4007469314043899545k78509rmwp
+5511948409887,entregue no aparelho,-1,Dropped by originator connect timeout,2758e2054207110039097492k78510rmwp
+5564992963763,entregue no aparelho,200,Ok,2762e4670124126019924527k78511rmwp
+5511939456251,entregue no aparelho,200,Ok,2766e1038151193734324305k78512rmwp
+5571981979431,não entregue,480,Temporarily Unavailable,2770e8540734183691670380k78513rmwp
+5519982571889,entregue no aparelho,-1,Dropped by originator connect timeout,2774e1154306267537821803k78514rmwp
+5511979852152,entregue no aparelho,-1,Dropped by originator connect timeout,2778e951924861190731966k78515rmwp
+5581983587405,entregue no aparelho,200,Ok,2782e1902976900422737952k78516rmwp
+5545998559506,entregue no aparelho,-1,Dropped by originator connect timeout,2786e999854930774273942k78517rmwp
+5547997807982,entregue no aparelho,-1,Dropped by originator connect timeout,2790e7222734411162305093k78518rmwp
+5522991004342,não entregue,404,Not Found,2794e6856941439752984899k78519rmwp
+5592985543838,entregue no aparelho,-1,Dropped by originator connect timeout,2798e8321289878263974322k78520rmwp
+5562999340951,entregue no aparelho,-1,Dropped by originator connect timeout,2802e2278416853365822168k78521rmwp
+5511953650931,não entregue,480,Temporarily Unavailable,2806e6845164792408979327k78522rmwp
+5551996243328,entregue no aparelho,-1,Dropped by originator connect timeout,2810e374665737140217836k78523rmwp
+5551996291145,entregue no aparelho,-1,Dropped by originator connect timeout,2814e3700891284391206080k78524rmwp
+5519992159622,entregue no aparelho,200,Ok,2818e8975498834908123762k78525rmwp
+5575981158725,entregue no aparelho,-1,Dropped by originator connect timeout,2822e4646216294861322326k78526rmwp
+5511998323005,entregue no aparelho,-1,Dropped by originator connect timeout,2826e3945209212276159936k78527rmwp
+5511971315379,entregue no aparelho,-1,Dropped by originator connect timeout,2830e1376472835349646961k78528rmwp
+5535910187727,entregue no aparelho,-1,Dropped by originator connect timeout,2834e5686512583717840043k78529rmwp
+5585997163512,entregue no aparelho,486,Busy Here,2838e5013059291009776714k78530rmwp
+5532984646197,não entregue,480,Temporarily Unavailable,2842e6809927640791323829k78531rmwp
+5581995252340,entregue no aparelho,-1,Dropped by originator connect timeout,2846e1009588454222710089k78532rmwp
+5585997590870,entregue no aparelho,-1,Dropped by originator connect timeout,2850e2706266289656057702k78533rmwp
+5591982323642,entregue no aparelho,486,Busy Here,2854e5671332870967438803k78534rmwp
+5551991752906,não entregue,480,Temporarily Unavailable,2858e5052614149373085964k78535rmwp
+5511941450151,não entregue,480,Temporarily Unavailable,2862e870339410720517048k78536rmwp
+5521976685546,entregue no aparelho,-1,Dropped by originator connect timeout,2866e6648066078239429814k78537rmwp
+5592991240680,entregue no aparelho,-1,Dropped by originator connect timeout,2870e8728580560189460333k78538rmwp
+5512996336613,entregue no aparelho,-1,Dropped by originator connect timeout,2874e5518275109772741566k78539rmwp
+5511913595053,entregue no aparelho,-1,Dropped by originator connect timeout,2878e8555144000625277705k78540rmwp
+5541987378134,não entregue,480,Temporarily Unavailable,2882e5419268183439259441k78541rmwp
+5586981111211,entregue no aparelho,487,Request Terminated,2886e7867848107903252747k78542rmwp
+5561993054356,não entregue,480,Temporarily Unavailable,2890e1459926858387930112k78543rmwp
+5571996438256,entregue no aparelho,-1,Dropped by originator connect timeout,2894e6722788900288645355k78544rmwp
+5584996576819,entregue no aparelho,-1,Dropped by originator connect timeout,2898e6880536978271150802k78545rmwp
+5591985121503,entregue no aparelho,-1,Dropped by originator connect timeout,2902e7718827946936029815k78546rmwp
+5551981518666,entregue no aparelho,-1,Dropped by originator connect timeout,2906e3695448861626430571k78547rmwp
+5524988595957,entregue no aparelho,-1,Dropped by originator connect timeout,2910e5003472892461424001k78548rmwp
+5531991519474,entregue no aparelho,200,Ok,2914e8410548950172553751k78549rmwp
+5519999859985,entregue no aparelho,-1,Dropped by originator connect timeout,2918e7777709866377079338k78550rmwp
+5567984298671,entregue no aparelho,-1,Dropped by originator connect timeout,2922e7681223741056273639k78551rmwp
+5555987695307,não entregue,404,Not Found,2930e54995827063019030k78553rmwp
+5528999843090,entregue no aparelho,-1,Dropped by originator connect timeout,2926e2072535408331753161k78552rmwp
+5585988634070,entregue no aparelho,-1,Dropped by originator connect timeout,2934e7219522460298630553k78554rmwp
+5541999387150,entregue no aparelho,200,Ok,2938e5446652173802135061k78555rmwp
+5551995837752,entregue no aparelho,200,Ok,2942e2022345193709239543k78556rmwp
+5585991331966,entregue no aparelho,-1,Dropped by originator connect timeout,2946e2304978680182784250k78557rmwp
+5577998159766,entregue no aparelho,-1,Dropped by originator connect timeout,2950e3549323934617007947k78558rmwp
+5522988489822,entregue no aparelho,-1,Dropped by alerting timeout,2954e6838648235155348249k78559rmwp
+5547991622384,entregue no aparelho,200,Ok,2958e6008633165230331226k78560rmwp
+5519983264114,entregue no aparelho,-1,Dropped by originator connect timeout,2962e6167898631339605955k78561rmwp
+5547996832330,entregue no aparelho,486,Busy Here,2966e4472345665685299301k78562rmwp
+5592982888519,entregue no aparelho,-1,Dropped by originator connect timeout,2970e5491234062604672217k78563rmwp
+5531984909665,entregue no aparelho,-1,Dropped by originator connect timeout,2974e965204620752567309k78564rmwp
+5531990639226,entregue no aparelho,200,Ok,2978e5866971842260012393k78565rmwp
+5565992652510,entregue no aparelho,-1,Dropped by originator connect timeout,2982e1245738895157145156k78566rmwp
+5564992936510,enviado para a operadora,-1,Dropped by originator connect timeout,2986e4302183084152604620k78567rmwp
+5581999101829,entregue no aparelho,200,Ok,2990e3816666827854433253k78568rmwp
+5512988510464,não entregue,404,Not Found,2994e7037614373702039569k78569rmwp
+5511964068303,não entregue,603,Decline,2998e8889104705672366366k78570rmwp
+5562993087997,entregue no aparelho,-1,Dropped by originator connect timeout,3002e9058303668032333276k78571rmwp
+5575999879384,entregue no aparelho,-1,Dropped by originator connect timeout,3006e3781875890494440747k78572rmwp
+5599985019108,entregue no aparelho,-1,Dropped by originator connect timeout,3010e7562463813101296400k78573rmwp
+5555993581062,não entregue,404,Not Found,3014e4694519346030966624k78574rmwp
+5528998852362,entregue no aparelho,-1,Dropped by originator connect timeout,3018e8608314141571356109k78575rmwp
+5541984294611,entregue no aparelho,403,Forbidden,3022e1166677535581630203k78576rmwp
+5569992569249,entregue no aparelho,-1,Dropped by originator connect timeout,3026e7137946296354500128k78577rmwp
+5561985910290,entregue no aparelho,-1,Dropped by originator connect timeout,3030e4559052991912797274k78578rmwp
+5585988315314,entregue no aparelho,480,Temporarily Unavailable,3034e4999066129643457918k78579rmwp
+5531982143541,não entregue,480,Temporarily Unavailable,3038e8270267263246039501k78580rmwp
+5567998757454,entregue no aparelho,-1,Dropped by originator connect timeout,3042e4412306169024253579k78581rmwp
+5561992631185,não entregue,480,Temporarily Unavailable,3046e9070029025390515814k78582rmwp
+5592991987920,entregue no aparelho,-1,Dropped by originator connect timeout,3050e2304103129388593972k78583rmwp
+5584988405946,não entregue,480,Temporarily Unavailable,3054e7442414400259357572k78584rmwp
+5521995479986,entregue no aparelho,480,Temporarily Unavailable,3058e6117768153245749437k78585rmwp
+5511911266325,entregue no aparelho,200,Ok,3062e8001182117199042505k78586rmwp
+5587981190875,entregue no aparelho,200,Ok,3066e8324821982873046434k78587rmwp
+5581982912610,entregue no aparelho,200,Ok,3070e507002313487752696k78588rmwp
+5545999024822,entregue no aparelho,-1,Dropped by originator connect timeout,3074e2088815512091536883k78589rmwp
+5511976661541,entregue no aparelho,-1,Dropped by originator connect timeout,3078e5729436785994758842k78590rmwp
+5511982945860,não entregue,404,Not Found,3082e5641888241907349372k78591rmwp
+5582988338728,entregue no aparelho,-1,Dropped by originator connect timeout,3086e1784870786415665096k78592rmwp
+5534999627725,entregue no aparelho,-1,Dropped by originator connect timeout,3090e5509206029435340307k78593rmwp
+5511997422089,entregue no aparelho,-1,Dropped by originator connect timeout,3094e6941466223890616502k78594rmwp
+5585999390527,entregue no aparelho,-1,Dropped by originator connect timeout,3098e4956043898631241959k78595rmwp
+5511994859064,entregue no aparelho,200,Ok,3102e1002712280623261584k78596rmwp
+5598999712208,entregue no aparelho,200,Ok,3106e3042767051860543808k78597rmwp
+5511962377606,entregue no aparelho,-1,Dropped by originator connect timeout,3110e4340232355848264718k78598rmwp
+5584987288606,entregue no aparelho,486,Busy Here,3114e5234947415845575411k78599rmwp
+5553991424130,entregue no aparelho,-1,Dropped by originator connect timeout,3118e864267191337935604k78600rmwp
+5517996560741,entregue no aparelho,200,Ok,3122e4995442477042203645k78601rmwp
+5592995174065,entregue no aparelho,-1,Dropped by originator connect timeout,3126e7460290986724464738k78602rmwp
+5518996838144,entregue no aparelho,-1,Dropped by originator connect timeout,3130e4679192834258829226k78603rmwp
+5528999862194,enviado para a operadora,-1,Dropped by originator connect timeout,3134e9104121624457557475k78604rmwp
+5589994601430,entregue no aparelho,200,Ok,3138e651268029685939745k78605rmwp
+5511998355311,entregue no aparelho,-1,Dropped by originator connect timeout,3142e7829138075871663351k78606rmwp
+5551999638972,entregue no aparelho,200,Ok,3146e7140881084067791178k78607rmwp
+5538998493797,entregue no aparelho,-1,Dropped by originator connect timeout,3150e5874195894207164624k78608rmwp
+5511934992453,entregue no aparelho,200,Ok,3154e7499750891528818105k78609rmwp
+5579988241026,entregue no aparelho,-1,Dropped by originator connect timeout,3158e6516551942940784982k78610rmwp
+5511991325505,entregue no aparelho,-1,Dropped by originator connect timeout,3162e2511595805527762891k78611rmwp
+5511971564457,não entregue,603,Decline,3166e4908578104362397293k78612rmwp
+5516992410543,entregue no aparelho,486,Busy Here,3170e4338384218539489225k78613rmwp
+5511994368893,entregue no aparelho,-1,Dropped by originator connect timeout,3174e2256560633198525054k78614rmwp
+5534998287740,entregue no aparelho,480,Temporarily Unavailable,3178e7068734593503216182k78615rmwp
+5553991409339,entregue no aparelho,-1,Dropped by originator connect timeout,3182e4082020726460942147k78616rmwp
+5573999889189,entregue no aparelho,-1,Dropped by originator connect timeout,3186e6895328186707198789k78617rmwp
+5581996490077,entregue no aparelho,-1,Dropped by originator connect timeout,3190e270181629060903548k78618rmwp
+5561995299617,entregue no aparelho,-1,Dropped by originator connect timeout,3194e2354935686331890302k78619rmwp
+5577981334556,entregue no aparelho,-1,Dropped by originator connect timeout,3198e2026476341719775142k78620rmwp
+5511981643459,entregue no aparelho,-1,Dropped by originator connect timeout,3202e3973821722484457535k78621rmwp
+5567992149872,entregue no aparelho,200,Ok,3206e7484093450694600051k78622rmwp
+5519971711448,entregue no aparelho,200,Ok,3210e3455714056834220049k78623rmwp
+5511994880624,entregue no aparelho,-1,Dropped by originator connect timeout,3214e8553265325421879490k78624rmwp
+5531999772895,entregue no aparelho,-1,Dropped by originator connect timeout,3218e3595286182879365203k78625rmwp
+5511943416230,entregue no aparelho,-1,Dropped by originator connect timeout,3222e8834027031840542648k78626rmwp
+5561993339883,entregue no aparelho,200,Ok,3226e3271228949847869416k78627rmwp
+5542998293530,entregue no aparelho,-1,Dropped by originator connect timeout,3230e6381845659861736039k78628rmwp
+5541996650548,entregue no aparelho,-1,Dropped by originator connect timeout,3234e5276271836833171231k78629rmwp
+5519982072000,entregue no aparelho,-1,Dropped by originator connect timeout,3238e9129097547977210033k78630rmwp
+5567992513532,entregue no aparelho,-1,Dropped by originator connect timeout,3242e416877796035458345k78631rmwp
+5521988135384,entregue no aparelho,-1,Dropped by originator connect timeout,3246e8841906854604775663k78632rmwp
+5547996439078,entregue no aparelho,-1,Dropped by originator connect timeout,3250e7993554358010179554k78633rmwp
+5547996843327,entregue no aparelho,-1,Dropped by originator connect timeout,3254e3119596669735155545k78634rmwp
+5511940540101,entregue no aparelho,200,Ok,3258e830388187064626191k78635rmwp
+5551984560852,enviado para a operadora,404,Not Found,3262e5645072613748134046k78636rmwp
+5512991016852,entregue no aparelho,-1,Dropped by originator connect timeout,3266e7331392842965623189k78637rmwp
+5511947105037,entregue no aparelho,200,Ok,3270e1660792615791663238k78638rmwp
+5551989473056,entregue no aparelho,-1,Dropped by originator connect timeout,3274e74979802938953217k78639rmwp
+5511941215736,entregue no aparelho,200,Ok,3278e494438888069272005k78640rmwp
+5511974656697,entregue no aparelho,200,Ok,3282e2005253585626288226k78641rmwp
+5565992168226,entregue no aparelho,-1,Dropped by originator connect timeout,3286e5639994278967598756k78642rmwp
+5562991131474,entregue no aparelho,-1,Dropped by originator connect timeout,3290e7052938207204508613k78643rmwp
+5511973606430,entregue no aparelho,200,Ok,3294e2385201286366934608k78644rmwp
+5511987036728,entregue no aparelho,-1,Dropped by originator connect timeout,3298e2081956128420425501k78645rmwp
+5519996334820,não entregue,404,Not Found,3302e17574770080828244k78646rmwp
+5585987413630,enviado para a operadora,-1,Dropped by originator connect timeout,3306e3082819181601247284k78647rmwp
+5568992312510,entregue no aparelho,-1,Dropped by originator connect timeout,3310e8485361548240889660k78648rmwp
+5585992289849,entregue no aparelho,-1,Dropped by originator connect timeout,3314e2905849247419321044k78649rmwp
+5513991253764,entregue no aparelho,-1,Dropped by originator connect timeout,3318e5740294400513753478k78650rmwp
+5569984485981,entregue no aparelho,-1,Dropped by originator connect timeout,3322e8460184208546694594k78651rmwp
+5517991316105,entregue no aparelho,200,Ok,3326e6056139722841484831k78652rmwp
+5511950551445,entregue no aparelho,-1,Dropped by originator connect timeout,3330e268599998867403153k78653rmwp
+5561986533064,entregue no aparelho,200,Ok,3334e1634325405814704583k78654rmwp
+5567984241202,enviado para a operadora,-1,Dropped by originator connect timeout,3338e2672448562355633680k78655rmwp
+5521994315957,não entregue,480,Temporarily Unavailable,3342e8093835903480654857k78656rmwp
+5585987098768,entregue no aparelho,-1,Dropped by originator connect timeout,3346e5779962204926219824k78657rmwp
+5541991773419,entregue no aparelho,-1,Dropped by originator connect timeout,3350e516946638869357835k78658rmwp
+5551999635807,não entregue,404,Not Found,3354e5178994758690049560k78659rmwp
+5511939590365,não entregue,-1,Dropped by originator connect timeout,3358e3182165408844723670k78660rmwp
+5571992932760,entregue no aparelho,486,Busy Here,3362e7899097501072029980k78661rmwp
+5515996607919,entregue no aparelho,480,Temporarily Unavailable,3366e6120860749048779782k78662rmwp
+5511991615849,entregue no aparelho,200,Ok,3370e7386079650672063808k78663rmwp
+5581986094861,entregue no aparelho,480,Temporarily Unavailable,3374e638654210696496547k78664rmwp
+5586988821552,entregue no aparelho,480,Temporarily Unavailable,3378e4118543711149806113k78665rmwp
+5511988996823,não entregue,480,Temporarily Unavailable,3382e7506371046747973079k78666rmwp
+5593991328406,entregue no aparelho,200,Ok,3386e6288821868706511320k78667rmwp
+5511986581165,entregue no aparelho,-1,Dropped by originator connect timeout,3390e8776473992065896646k78668rmwp
+5518988266047,entregue no aparelho,-1,Dropped by originator connect timeout,3394e6732736125421644741k78669rmwp
+5514988177254,entregue no aparelho,-1,Dropped by originator connect timeout,3398e8309466013460799489k78670rmwp
+5534988362688,entregue no aparelho,-1,Dropped by originator connect timeout,3402e5227252278263739276k78671rmwp
+5551995044746,enviado para a operadora,480,Temporarily Unavailable,3406e3997533003382420621k78672rmwp
+5513988287669,não entregue,480,Temporarily Unavailable,3410e473117473924050078k78673rmwp
+5551999514433,entregue no aparelho,-1,Dropped by originator connect timeout,3414e233043705125786306k78674rmwp
+5575982897239,entregue no aparelho,-1,Dropped by originator connect timeout,3418e2362188885051101781k78675rmwp
+5521996049143,entregue no aparelho,-1,Dropped by originator connect timeout,3422e4495437187044640938k78676rmwp
+5551980371276,não entregue,404,Not Found,3426e7482733343418603747k78677rmwp
+5548991643482,não entregue,404,Not Found,3430e1557661765983413090k78678rmwp
+5521976231374,não entregue,480,Temporarily Unavailable,3434e5465514216202091095k78679rmwp
+5585987324241,entregue no aparelho,200,Ok,3438e4322327774503299145k78680rmwp
+5512997770401,entregue no aparelho,-1,Dropped by originator connect timeout,3442e5227604193318339741k78681rmwp
+5592993788272,entregue no aparelho,-1,Dropped by originator connect timeout,3446e1331885174324000999k78682rmwp
+5555997264075,entregue no aparelho,200,Ok,3450e4318488259912731655k78683rmwp
+5549991071355,entregue no aparelho,-1,Dropped by originator connect timeout,3454e2017514697650465105k78684rmwp
+5516997481943,entregue no aparelho,603,Decline,3458e5810932551193421185k78685rmwp
+5512997210367,entregue no aparelho,403,Forbidden,3462e8816220364695742457k78686rmwp
+5519994638909,entregue no aparelho,200,Ok,3466e2817801209772422257k78687rmwp
+5555996137579,entregue no aparelho,-1,Dropped by originator connect timeout,3470e1072245489237034288k78688rmwp
+5541995453100,entregue no aparelho,-1,Dropped by originator connect timeout,3474e1179967313089392349k78689rmwp
+5598989921337,não entregue,404,Not Found,3478e2308993683440785679k78690rmwp
+5561985228728,entregue no aparelho,-1,Dropped by originator connect timeout,3482e4945720344199001460k78691rmwp
+5555991505635,entregue no aparelho,-1,Dropped by originator connect timeout,3486e6721570718202300552k78692rmwp
+5549988471535,entregue no aparelho,-1,Dropped by originator connect timeout,3490e8632694408667992988k78693rmwp
+5511968746177,não entregue,480,Temporarily Unavailable,3494e274470408810913773k78694rmwp
+5511987453110,entregue no aparelho,-1,Dropped by originator connect timeout,3498e8377611127215994888k78695rmwp
+5511994709887,entregue no aparelho,200,Ok,3502e4599677130209746647k78696rmwp
+5531994102050,entregue no aparelho,200,Ok,3506e9095013362972423042k78697rmwp
+5521977085591,entregue no aparelho,-1,Dropped by originator connect timeout,3510e1885143144902081776k78698rmwp
+5583998937803,entregue no aparelho,200,Ok,3514e7196147459919194562k78699rmwp
+5586988630145,entregue no aparelho,200,Ok,3518e4985590666817759622k78700rmwp
+5531984753807,entregue no aparelho,200,Ok,3522e4835437448984397827k78701rmwp
+5511984444484,entregue no aparelho,200,Ok,3526e7629017928930854521k78702rmwp
+5562984420155,enviado para a operadora,-1,Dropped by originator connect timeout,3530e7794409096508022209k78703rmwp
+5551998042805,entregue no aparelho,200,Ok,3534e5861929064498033481k78704rmwp
+5511947811800,entregue no aparelho,200,Ok,3538e2212042885631833262k78705rmwp
+5511982350937,entregue no aparelho,-1,Dropped by originator connect timeout,3542e8319309716117417960k78706rmwp
+5585986671924,enviado para a operadora,480,Temporarily Unavailable,3546e9031008646041203763k78707rmwp
+5511953792407,entregue no aparelho,-1,Dropped by originator connect timeout,3550e3856849205547325786k78708rmwp
+5521992017853,não entregue,480,Temporarily Unavailable,3554e29558325607286637k78709rmwp
+5517991232742,não entregue,480,Temporarily Unavailable,3558e3305300482917794506k78710rmwp
+5561995907565,enviado para a operadora,200,Ok,3562e1976484052400822440k78711rmwp
+5585999935959,não entregue,480,Temporarily Unavailable,3566e801206341959527764k78712rmwp
+5591987282900,entregue no aparelho,-1,Dropped by originator connect timeout,3570e8938751793363646888k78713rmwp
+5579988152595,enviado para a operadora,480,Temporarily Unavailable,3574e1955205223916322139k78714rmwp
+5522988718215,entregue no aparelho,-1,Dropped by alerting timeout,3578e9059016953778841541k78715rmwp
+5516997180808,entregue no aparelho,200,Ok,3582e4497982219014245819k78716rmwp
+5511953397301,entregue no aparelho,200,Ok,3586e975238327384585637k78717rmwp
+5553984734501,entregue no aparelho,200,Ok,3590e3489918570372745445k78718rmwp
+5567981959930,entregue no aparelho,-1,Dropped by originator connect timeout,3594e8446722980826993031k78719rmwp
+5511968931363,entregue no aparelho,-1,Dropped by originator connect timeout,3598e2632860576046853605k78720rmwp
+5553991477039,não entregue,480,Temporarily Unavailable,3602e8265322883385101701k78721rmwp
+5554991163731,não entregue,403,Forbidden,3606e2926461595999006959k78722rmwp
+5581996419361,não entregue,480,Temporarily Unavailable,3610e3266878778759019679k78723rmwp
+5528999631380,enviado para a operadora,-1,Dropped by originator connect timeout,3614e1629493133458211231k78724rmwp
+5522997415775,entregue no aparelho,-1,Dropped by alerting timeout,3618e4663178011943045630k78725rmwp
+5541985330129,entregue no aparelho,-1,Dropped by originator connect timeout,3622e6729426001864559444k78726rmwp
+5571981680269,entregue no aparelho,-1,Dropped by originator connect timeout,3626e4084931397945924746k78727rmwp
+5531984676779,entregue no aparelho,200,Ok,3630e2453238000522699594k78728rmwp
+5551984683162,entregue no aparelho,200,Ok,3634e8296877493440286733k78729rmwp
+5585981690438,entregue no aparelho,-1,Dropped by originator connect timeout,3638e6696313997036643581k78730rmwp
+5531996430195,não entregue,404,Not Found,3642e4861610372935314853k78731rmwp
+5519993059302,não entregue,480,Temporarily Unavailable,3646e8478155259088546399k78732rmwp
+5521973154451,entregue no aparelho,200,Ok,3650e2027508471245418448k78733rmwp
+5551992675750,entregue no aparelho,-1,Dropped by originator connect timeout,3654e6868498601715307799k78734rmwp
+5538988339679,entregue no aparelho,200,Ok,3658e2122741433402955958k78735rmwp
+5533999462878,entregue no aparelho,200,Ok,3662e7885380699710749179k78736rmwp
+5511984350531,entregue no aparelho,-1,Dropped by originator connect timeout,3666e4517586017299585237k78737rmwp
+5528999259122,entregue no aparelho,200,Ok,3670e3128223323447064020k78738rmwp
+5586995617160,entregue no aparelho,-1,Dropped by originator connect timeout,3674e6834265199363158572k78739rmwp
+5561982249265,entregue no aparelho,200,Ok,3678e1189229389688762368k78740rmwp
+5513991202323,entregue no aparelho,-1,Dropped by originator connect timeout,3682e8103167340117554117k78741rmwp
+5554999199777,entregue no aparelho,200,Ok,3686e1175767033298753216k78742rmwp
+5511981554605,entregue no aparelho,200,Ok,3690e6613247685615680550k78743rmwp
+5551991227344,entregue no aparelho,-1,Dropped by originator connect timeout,3694e311247992678128412k78744rmwp
+5521982910858,entregue no aparelho,603,Decline,3698e5389083805298846776k78745rmwp
+5571981579465,não entregue,480,Temporarily Unavailable,3702e8902368576722652161k78746rmwp
+5511954670027,entregue no aparelho,-1,Dropped by originator connect timeout,3706e5308024982420700172k78747rmwp
+5511974154486,entregue no aparelho,200,Ok,3710e4332986312614409853k78748rmwp
+5583991764075,enviado para a operadora,-1,Dropped by originator connect timeout,3714e6895403752555970369k78749rmwp
+5588999272443,entregue no aparelho,-1,Dropped by originator connect timeout,3718e1179039680979150421k78750rmwp
+5553999883359,entregue no aparelho,200,Ok,3722e7703731180788729167k78751rmwp
+5584987082945,entregue no aparelho,200,Ok,3726e2707210725064827209k78752rmwp
+5555984579649,entregue no aparelho,200,Ok,3730e5994472562787464831k78753rmwp
+5548999931039,entregue no aparelho,-1,Dropped by originator connect timeout,3734e8108219997646197074k78754rmwp
+5585999014499,não entregue,-1,Dropped by originator connect timeout,3742e5680259313572341088k78756rmwp
+5551981379909,entregue no aparelho,-1,Dropped by originator connect timeout,3738e7270212136740074016k78755rmwp
+5528999043921,entregue no aparelho,200,Ok,3746e1792257284513527161k78757rmwp
+5516993647897,entregue no aparelho,-1,Dropped by originator connect timeout,3750e5504860430811976207k78758rmwp
+5598981829882,entregue no aparelho,-1,Dropped by originator connect timeout,3754e1760502135807589195k78759rmwp
+5585999814704,entregue no aparelho,-1,Dropped by originator connect timeout,3758e563234875224222927k78760rmwp
+5586988386619,entregue no aparelho,-1,Dropped by originator connect timeout,3762e6282890215584823906k78761rmwp
+5521988282831,entregue no aparelho,-1,Dropped by originator connect timeout,3766e519729004562867709k78762rmwp
+5535998989683,entregue no aparelho,200,Ok,3770e125444982816612895k78763rmwp
+5586995464127,entregue no aparelho,-1,Dropped by originator connect timeout,3774e9096204108342655622k78764rmwp
+5551995178800,entregue no aparelho,-1,Dropped by originator connect timeout,3778e6674881232892705430k78765rmwp
+5591996149811,entregue no aparelho,-1,Dropped by originator connect timeout,3782e2649238758050168425k78766rmwp
+5534998069906,entregue no aparelho,-1,Dropped by originator connect timeout,3786e19243080827858015k78767rmwp
+5515997483057,entregue no aparelho,-1,Dropped by originator connect timeout,3790e7335317391160118704k78768rmwp
+5585985757551,não entregue,480,Temporarily Unavailable,3794e3202209683552022093k78769rmwp
+5585996953780,não entregue,-1,Dropped by originator connect timeout,3798e6170368505902793592k78770rmwp
+5551985832887,enviado para a operadora,480,Temporarily Unavailable,3802e7533530974920730915k78771rmwp
+5573982467013,entregue no aparelho,-1,Dropped by originator connect timeout,3806e2374082634505348628k78772rmwp
+5531982139140,entregue no aparelho,-1,Dropped by originator connect timeout,3810e3513496531031302358k78773rmwp
+5511972185545,entregue no aparelho,-1,Dropped by originator connect timeout,3814e9086719828873192054k78774rmwp
+5519994507285,entregue no aparelho,200,Ok,3818e3785196014976356160k78775rmwp
+5512988771002,entregue no aparelho,-1,Dropped by originator connect timeout,3822e7461639146601995451k78776rmwp
+5563999919071,entregue no aparelho,200,Ok,3826e4968427234431921088k78777rmwp
+5514991109554,não entregue,480,Temporarily Unavailable,3830e6340444031617756119k78778rmwp
+5551993305846,entregue no aparelho,-1,Dropped by originator connect timeout,3834e2013888321358734522k78779rmwp
+5511989486791,entregue no aparelho,-1,Dropped by originator connect timeout,3838e2761604987108881181k78780rmwp
+5531989857340,entregue no aparelho,-1,Dropped by originator connect timeout,3842e2662054223271189446k78781rmwp
+5548988458526,entregue no aparelho,-1,Dropped by originator connect timeout,3846e7483472769770887781k78782rmwp
+5516999989958,entregue no aparelho,200,Ok,3850e368805299239183814k78783rmwp
+5531995962304,entregue no aparelho,-1,Dropped by originator connect timeout,3854e3945214480805559090k78784rmwp
+5551986109060,entregue no aparelho,-1,Dropped by originator connect timeout,3858e1855306877781918755k78785rmwp
+5551999453313,não entregue,-1,Dropped by originator connect timeout,3862e7136672361867946467k78786rmwp
+5567991893705,não entregue,403,Forbidden,3866e8957959381515529000k78787rmwp
+5585991758816,entregue no aparelho,-1,Dropped by originator connect timeout,3870e1891192169787210070k78788rmwp
+5555999677810,entregue no aparelho,-1,Dropped by originator connect timeout,3874e6542463896457406787k78789rmwp
+5541996866776,entregue no aparelho,200,Ok,3878e6922701232220731111k78790rmwp
+5521987121392,entregue no aparelho,200,Ok,3882e1114345672406511917k78791rmwp
+5574981073976,entregue no aparelho,-1,Dropped by originator connect timeout,3886e6006474372239104642k78792rmwp
+5521991055686,entregue no aparelho,-1,Dropped by originator connect timeout,3890e3737000229049783146k78793rmwp
+5513988722196,entregue no aparelho,-1,Dropped by originator connect timeout,3894e1860764718216950740k78794rmwp
+5581985563134,entregue no aparelho,200,Ok,3898e8931603108204092357k78795rmwp
+5514981452053,não entregue,404,Not Found,3902e6527997381383922437k78796rmwp
+5521964701455,entregue no aparelho,-1,Dropped by originator connect timeout,3906e8237362720579084700k78797rmwp
+5538984032731,enviado para a operadora,480,Temporarily Unavailable,3910e2570510463643818185k78798rmwp
+5571992255020,entregue no aparelho,-1,Dropped by originator connect timeout,3914e4935931885844840252k78799rmwp
+5541998976187,entregue no aparelho,200,Ok,3918e7589516087830675843k78800rmwp
+5574991084637,entregue no aparelho,-1,Dropped by originator connect timeout,3922e4083938267862245331k78801rmwp
+5585981968391,entregue no aparelho,-1,Dropped by originator connect timeout,3926e5499261794951516082k78802rmwp
+5561993327212,não entregue,480,Temporarily Unavailable,3930e1446604205816965929k78803rmwp
+5519981170904,entregue no aparelho,-1,Dropped by originator connect timeout,3934e6833220549944799128k78804rmwp
+5511934949031,entregue no aparelho,-1,Dropped by originator connect timeout,3938e1426894946796245833k78805rmwp
+5511982978219,entregue no aparelho,-1,Dropped by originator connect timeout,3942e1157771331253773099k78806rmwp
+5553999983589,entregue no aparelho,-1,Dropped by originator connect timeout,3946e5178253118895952900k78807rmwp
+5511977638135,entregue no aparelho,480,Temporarily Unavailable,3950e8135815633574171335k78808rmwp
+5555996870666,entregue no aparelho,-1,Dropped by originator connect timeout,3954e8361989046627084235k78809rmwp
+5511974825160,enviado para a operadora,-1,Dropped by originator connect timeout,3958e99645791137811642k78810rmwp
+5545999080444,entregue no aparelho,-1,Dropped by originator connect timeout,3962e8517029882887332673k78811rmwp
+5551981289144,não entregue,603,Decline,3966e6876515540804908967k78812rmwp
+5524998791633,entregue no aparelho,-1,Dropped by originator connect timeout,3970e8241875239717871872k78813rmwp
+5519991845863,entregue no aparelho,-1,Dropped by originator connect timeout,3974e8581703783441788208k78814rmwp
+5551992531601,não entregue,403,Forbidden,3978e4977515368377768249k78815rmwp
+5518991649969,não entregue,480,Temporarily Unavailable,3982e1860175396607629301k78816rmwp
+5547984577683,entregue no aparelho,-1,Dropped by originator connect timeout,3986e3647004982283532059k78817rmwp
+5511981241192,entregue no aparelho,-1,Dropped by originator connect timeout,3990e9213387733503524003k78818rmwp
+5511980363958,entregue no aparelho,-1,Dropped by originator connect timeout,3994e288168891993905470k78819rmwp
+5511998091827,entregue no aparelho,200,Ok,3998e1463251343181937714k78820rmwp
+5553991805226,entregue no aparelho,-1,Dropped by originator connect timeout,4002e8074554209816523366k78821rmwp
+5588999028333,não entregue,-1,Dropped by originator connect timeout,4006e2497691544617000907k78822rmwp
+5591985944556,entregue no aparelho,-1,Dropped by originator connect timeout,4010e2599523056524384615k78823rmwp
+5585996558766,enviado para a operadora,200,Ok,4014e8843485858455386443k78824rmwp
+5592992219931,entregue no aparelho,-1,Dropped by originator connect timeout,4018e6475998044543036513k78825rmwp
+5511997890838,entregue no aparelho,200,Ok,4022e1709734622598292367k78826rmwp
+5585997691003,não entregue,-1,Dropped by originator connect timeout,4026e8717142311370680575k78827rmwp
+5583988446643,não entregue,480,Temporarily Unavailable,4030e9061078351216104843k78828rmwp
+5541984941678,enviado para a operadora,480,Temporarily Unavailable,4034e321924048636201699k78829rmwp
+5566984617549,entregue no aparelho,-1,Dropped by originator connect timeout,4038e1352385450957658302k78830rmwp
+5511958572379,entregue no aparelho,-1,Dropped by originator connect timeout,4042e4795095530224026757k78831rmwp
+5582988760933,entregue no aparelho,-1,Dropped by originator connect timeout,4046e8266172897999459530k78832rmwp
+5531983351211,entregue no aparelho,-1,Dropped by originator connect timeout,4050e8412382781068857238k78833rmwp
+5521975685946,não entregue,480,Temporarily Unavailable,4054e7401224551142624425k78834rmwp
+5521995875226,entregue no aparelho,-1,Dropped by originator connect timeout,4058e8065114131410995694k78835rmwp
+5527998581606,entregue no aparelho,-1,Dropped by originator connect timeout,4062e7812901871729858482k78836rmwp
+5555996065710,entregue no aparelho,-1,Dropped by originator connect timeout,4066e8056000212366219532k78837rmwp
+5585999667870,não entregue,200,Ok,4070e48482659683593701k78838rmwp
+5581985013391,entregue no aparelho,200,Ok,4074e6460272821930141401k78839rmwp
+5511992582865,não entregue,480,Temporarily Unavailable,4078e4426173049905108818k78840rmwp
+5551995726574,entregue no aparelho,-1,Dropped by originator connect timeout,4082e6081322814785868047k78841rmwp
+5521997755040,entregue no aparelho,-1,Dropped by originator connect timeout,4086e6783158949081194941k78842rmwp
+5571984663813,entregue no aparelho,-1,Dropped by originator connect timeout,4090e4035642831303439050k78843rmwp
+5554996085701,entregue no aparelho,200,Ok,4094e4306245164032420979k78844rmwp
+5562981421819,entregue no aparelho,-1,Dropped by originator connect timeout,4098e4427183017759278967k78845rmwp
+5585989536733,entregue no aparelho,200,Ok,4102e2542817229001955484k78846rmwp
+5511993038402,entregue no aparelho,200,Ok,4106e5926819668270026941k78847rmwp
+5538984234861,entregue no aparelho,-1,Dropped by originator connect timeout,4110e1245915092745800752k78848rmwp
+5555991256790,entregue no aparelho,200,Ok,4114e270002442578931562k78849rmwp
+5588996394781,entregue no aparelho,-1,Dropped by originator connect timeout,4118e6999533679815829260k78850rmwp
+5575991352729,entregue no aparelho,200,Ok,4122e802880449667129271k78851rmwp
+5528999424068,entregue no aparelho,200,Ok,4126e8348939793715423261k78852rmwp
+5551992862325,entregue no aparelho,200,Ok,4130e5699725699936566260k78853rmwp
+5531982144433,entregue no aparelho,-1,Dropped by originator connect timeout,4134e3151467052868129952k78854rmwp
+5571985580335,entregue no aparelho,-1,Dropped by originator connect timeout,4138e587256994081100367k78855rmwp
+5511983842773,entregue no aparelho,-1,Dropped by originator connect timeout,4142e176971834648365032k78856rmwp
+5562983447700,entregue no aparelho,200,Ok,4146e6301320757090176940k78857rmwp
+5561996467218,entregue no aparelho,200,Ok,4150e5712730148147652982k78858rmwp
+5581996151084,não entregue,480,Temporarily Unavailable,4154e8701425934812040824k78859rmwp
+5521986860199,não entregue,603,Decline,4158e3825864716645013612k78860rmwp
+5521985231878,entregue no aparelho,603,Decline,4162e1842433201607868805k78861rmwp
+5585991083718,não entregue,-1,Dropped by originator connect timeout,4166e2613811405689946503k78862rmwp
+5511947433703,entregue no aparelho,200,Ok,4170e6425839330022318642k78863rmwp
+5511981234903,entregue no aparelho,200,Ok,4174e8681201679702464947k78864rmwp
+5551999168777,entregue no aparelho,200,Ok,4178e5886177424644328816k78865rmwp
+5511940045235,não entregue,480,Temporarily Unavailable,4182e2737370569848066208k78866rmwp
+5531984997867,entregue no aparelho,200,Ok,4186e786037749810711425k78867rmwp
+5542991571776,entregue no aparelho,-1,Dropped by originator connect timeout,4190e3113781828787936979k78868rmwp
+5512991734010,não entregue,480,Temporarily Unavailable,4194e2807812446732290292k78869rmwp
+5591985513286,entregue no aparelho,200,Ok,4198e7148467453575615046k78870rmwp
+5586994892498,não entregue,480,Temporarily Unavailable,4202e324969858979343401k78871rmwp
+5551984046502,entregue no aparelho,-1,Dropped by originator connect timeout,4206e7659110218980298726k78872rmwp
+5511977072579,entregue no aparelho,200,Ok,4210e8178025131219308400k78873rmwp
+5527997571969,entregue no aparelho,-1,Dropped by originator connect timeout,4214e1221094149487712646k78874rmwp
+5551991124945,entregue no aparelho,-1,Dropped by originator connect timeout,4218e7471241819158112171k78875rmwp
+5591992817126,não entregue,404,Not Found,4222e4861937904084141308k78876rmwp
+5511997944392,entregue no aparelho,200,Ok,4226e516000470817017881k78877rmwp
+5586998434169,entregue no aparelho,-1,Dropped by originator connect timeout,4230e2916165399239800455k78878rmwp
+5511970476082,entregue no aparelho,-1,Dropped by originator connect timeout,4234e8196628069998513145k78879rmwp
+5585986387483,não entregue,200,Ok,4238e1129724578910204523k78880rmwp
+5585999810081,não entregue,-1,Dropped by originator connect timeout,4242e7296849596723209306k78881rmwp
+5585989585657,entregue no aparelho,-1,Dropped by originator connect timeout,4246e4506893346287661305k78882rmwp
+5521996341062,entregue no aparelho,200,Ok,4250e2278055256017037532k78883rmwp
+5551991150100,entregue no aparelho,200,Ok,4254e583079786843127629k78884rmwp
+5541996091302,entregue no aparelho,-1,Dropped by originator connect timeout,4258e2623028221010811303k78885rmwp
+5538984254040,entregue no aparelho,-1,Dropped by originator connect timeout,4262e6000630965976116460k78886rmwp
+5538998300446,entregue no aparelho,-1,Dropped by originator connect timeout,4266e3159383020367807119k78887rmwp
+5575983391652,entregue no aparelho,-1,Dropped by originator connect timeout,4270e548358685030514358k78888rmwp
+5584988515584,entregue no aparelho,-1,Dropped by originator connect timeout,4274e7785381156999586402k78889rmwp
+5511994133282,entregue no aparelho,486,Busy Here,4278e5565530963709285282k78890rmwp
+5551982401167,entregue no aparelho,-1,Dropped by originator connect timeout,4282e9184357938161633242k78891rmwp
+5511988664773,entregue no aparelho,-1,Dropped by originator connect timeout,4286e5593004262878401910k78892rmwp
+5514997622042,entregue no aparelho,-1,Dropped by originator connect timeout,4290e3500143494528369293k78893rmwp
+5511982189706,entregue no aparelho,200,Ok,4294e8635439954155171654k78894rmwp
+5511948284826,entregue no aparelho,-1,Dropped by originator connect timeout,4298e8626121747874425321k78895rmwp
+5581999408000,entregue no aparelho,200,Ok,4302e5454098144909495841k78896rmwp
+5585989956352,não entregue,403,Forbidden,4306e750872036244689404k78897rmwp
+5519996685012,entregue no aparelho,-1,Dropped by originator connect timeout,4310e8603080000736657448k78898rmwp
+5551994804908,não entregue,480,Temporarily Unavailable,4314e3382608969967602467k78899rmwp
+5512988065307,entregue no aparelho,603,Decline,4318e5333519491978806667k78900rmwp
+5551982648850,entregue no aparelho,-1,Dropped by originator connect timeout,4322e4237303212643933276k78901rmwp
+5512996548410,entregue no aparelho,-1,Dropped by originator connect timeout,4326e3011421687267560034k78902rmwp
+5535984444016,não entregue,480,Temporarily Unavailable,4330e3053450315519189613k78903rmwp
+5585999565098,entregue no aparelho,486,Busy Here,4334e1205574879383760842k78904rmwp
+5527988068912,não entregue,404,Not Found,4338e1861753060176691132k78905rmwp
+5573999033901,entregue no aparelho,480,Temporarily Unavailable,4342e7651845893267691254k78906rmwp
+5551999903124,entregue no aparelho,200,Ok,4346e8727205150596501511k78907rmwp
+5564992776406,entregue no aparelho,-1,Dropped by originator connect timeout,4350e331336687246737872k78908rmwp
+5518996726014,entregue no aparelho,-1,Dropped by originator connect timeout,4354e1390392068740240441k78909rmwp
+5581991845743,não entregue,480,Temporarily Unavailable,4358e6460031683672279871k78910rmwp
+5533988620079,não entregue,480,Temporarily Unavailable,4362e2282620670258308649k78911rmwp
+5567992220710,não entregue,-1,Dropped by originator connect timeout,4366e8851436583549672026k78912rmwp
+5551993703552,não entregue,480,Temporarily Unavailable,4370e5751065784384544375k78913rmwp
+5511996130472,entregue no aparelho,-1,Dropped by originator connect timeout,4374e6633926229102906996k78914rmwp
+5511984859212,entregue no aparelho,486,Busy Here,4378e2130805716652754498k78915rmwp
+5553999248494,entregue no aparelho,-1,Dropped by originator connect timeout,4382e3748997284957451461k78916rmwp
+5564996114469,entregue no aparelho,-1,Dropped by originator connect timeout,4386e8467085209268861568k78917rmwp
+5586981230063,não entregue,480,Temporarily Unavailable,4390e14864779355848764k78918rmwp
+5582993066118,entregue no aparelho,404,Not Found,4394e7550109024293668294k78919rmwp
+5541998194606,entregue no aparelho,-1,Dropped by originator connect timeout,4398e1310258594100420689k78920rmwp
+5585986771742,enviado para a operadora,200,Ok,4402e6390356506525419498k78921rmwp
+5538992574557,entregue no aparelho,200,Ok,4406e832961930358962239k78922rmwp
+5571983006445,entregue no aparelho,200,Ok,4410e8003760115949495950k78923rmwp
+5591985325426,não entregue,403,Forbidden,4414e7759677074367837518k78924rmwp
+5531994831423,entregue no aparelho,-1,Dropped by originator connect timeout,4418e7956175688171025637k78925rmwp
+5521970287063,enviado para a operadora,-1,Dropped by originator connect timeout,4422e8078507806423866931k78926rmwp
+5585988982862,entregue no aparelho,-1,Dropped by originator connect timeout,4426e7308637791770537015k78927rmwp
+5511942387378,entregue no aparelho,-1,Dropped by originator connect timeout,4430e8089188025384030067k78928rmwp
+5511976117254,entregue no aparelho,-1,Dropped by originator connect timeout,4434e2716556467167278381k78929rmwp
+5531997035353,entregue no aparelho,-1,Dropped by originator connect timeout,4438e6180649975148354633k78930rmwp
+5527999810193,entregue no aparelho,200,Ok,4442e981073387426193225k78931rmwp
+5531984359511,entregue no aparelho,-1,Dropped by alerting timeout,4446e8373807572526975227k78932rmwp
+5551999740163,entregue no aparelho,200,Ok,4450e2744198028214212622k78933rmwp
+5564996653888,entregue no aparelho,200,Ok,4454e4844134554135540561k78934rmwp
+5551981338417,não entregue,603,Decline,4458e6608252981350206028k78935rmwp
+5547988261028,entregue no aparelho,-1,Dropped by originator connect timeout,4462e245239584159008292k78936rmwp
+5585988781135,não entregue,-1,Dropped by originator connect timeout,4466e3936432726972939111k78937rmwp
+5554999440818,entregue no aparelho,-1,Dropped by originator connect timeout,4470e5438996432145043765k78938rmwp
+5538984171146,não entregue,480,Temporarily Unavailable,4474e8477192037214606642k78939rmwp
+5532999396952,entregue no aparelho,-1,Dropped by originator connect timeout,4478e3219822798174929171k78940rmwp
+5511964961756,entregue no aparelho,-1,Dropped by originator connect timeout,4482e6783853392667211777k78941rmwp
+5511999208418,enviado para a operadora,-1,Dropped by originator connect timeout,4486e1685288447816801094k78942rmwp
+5514997088287,entregue no aparelho,-1,Dropped by originator connect timeout,4490e3980796743444715158k78943rmwp
+5511995346701,entregue no aparelho,-1,Dropped by originator connect timeout,4494e3596562808469658245k78944rmwp
+5534984088240,enviado para a operadora,-1,Dropped by originator connect timeout,4498e4123852053413621754k78945rmwp
+5511975159804,entregue no aparelho,200,Ok,4502e3318207347946138493k78946rmwp
+5585988611128,não entregue,200,Ok,4506e9152329519440093141k78947rmwp
+5531993151762,entregue no aparelho,-1,Dropped by originator connect timeout,4510e1931594234773567099k78948rmwp
+5511982774342,entregue no aparelho,-1,Dropped by originator connect timeout,4514e4353972162547639878k78949rmwp
+5524992329046,entregue no aparelho,-1,Dropped by originator connect timeout,4518e798691477062953430k78950rmwp
+5553991077610,não entregue,-1,Dropped by originator connect timeout,4522e4923230360201347523k78951rmwp
+5588981796670,não entregue,480,Temporarily Unavailable,4526e3920824525769218385k78952rmwp
+5511982338282,entregue no aparelho,-1,Dropped by originator connect timeout,4530e4373039778224078550k78953rmwp
+5519996116238,entregue no aparelho,200,Ok,4534e8211935579449711378k78954rmwp
+5521993441796,entregue no aparelho,200,Ok,4538e7955590674371694280k78955rmwp
+5585986959003,não entregue,-1,Dropped by originator connect timeout,4542e1700237620930488389k78956rmwp
+5531984292450,não entregue,480,Temporarily Unavailable,4546e7631134649520357574k78957rmwp
+5524988161568,entregue no aparelho,-1,Dropped by originator connect timeout,4550e7288280521835398102k78958rmwp
+5511989339567,entregue no aparelho,-1,Dropped by originator connect timeout,4554e2380709522292042728k78959rmwp
+5585992981688,entregue no aparelho,-1,Dropped by originator connect timeout,4558e1724125309565899545k78960rmwp
+5521999862421,entregue no aparelho,480,Temporarily Unavailable,4562e4175634078328321271k78961rmwp
+5585991366137,não entregue,-1,Dropped by originator connect timeout,4566e4112085985217624751k78962rmwp
+5531973494884,entregue no aparelho,-1,Dropped by originator connect timeout,4570e7822649039053833770k78963rmwp
+5585988996251,entregue no aparelho,200,Ok,4574e4047639453202413773k78964rmwp
+5542999943994,entregue no aparelho,480,Temporarily Unavailable,4578e6195109216020543745k78965rmwp
+5554991622873,não entregue,403,Forbidden,4582e6711639728865435098k78966rmwp
+5535988933676,enviado para a operadora,-1,Dropped by originator connect timeout,4586e7873039697966549110k78967rmwp
+5535984724778,entregue no aparelho,-1,Dropped by originator connect timeout,4590e5183510246938328901k78968rmwp
+5511991137121,entregue no aparelho,-1,Dropped by originator connect timeout,4594e6595800225912789903k78969rmwp
+5521985829962,entregue no aparelho,200,Ok,4598e6111378521024788681k78970rmwp
+5577998472149,entregue no aparelho,-1,Dropped by originator connect timeout,4602e6197767171541484870k78971rmwp
+5528999488776,entregue no aparelho,200,Ok,4606e8186613613805216102k78972rmwp
+5593984020869,não entregue,403,Forbidden,4610e4655097694518137705k78973rmwp
+5562981617686,entregue no aparelho,-1,Dropped by originator connect timeout,4614e2634341268714016948k78974rmwp
+5554999207310,entregue no aparelho,200,Ok,4618e5771465018340294420k78975rmwp
+5538999412510,entregue no aparelho,-1,Dropped by originator connect timeout,4622e6164269544757873357k78976rmwp
+5551995116061,não entregue,404,Not Found,4626e263845438690265066k78977rmwp
+5511999957564,entregue no aparelho,200,Ok,4630e4858796631712313442k78978rmwp
+5548988121420,entregue no aparelho,-1,Dropped by originator connect timeout,4634e2581755785221410766k78979rmwp
+5521996487617,não entregue,404,Not Found,4638e4437955576861476784k78980rmwp
+5599985070427,entregue no aparelho,-1,Dropped by originator connect timeout,4642e5772855236653369203k78981rmwp
+5521967671795,enviado para a operadora,404,Not Found,4646e7431365687864285291k78982rmwp
+5583991598617,não entregue,480,Temporarily Unavailable,4650e326089532513105894k78983rmwp
+5522992156716,não entregue,480,Temporarily Unavailable,4654e1863907747572303521k78984rmwp
+5528992716056,entregue no aparelho,480,Temporarily Unavailable,4658e2557825858812975987k78985rmwp
+5511941890100,entregue no aparelho,200,Ok,4662e3650460731664040822k78986rmwp
+5585999945926,não entregue,-1,Dropped by originator connect timeout,4666e2625463714836338467k78987rmwp
+5521991121308,entregue no aparelho,200,Ok,4670e6029832639115272674k78988rmwp
+5511996561210,entregue no aparelho,-1,Dropped by originator connect timeout,4674e94010475764246884k78989rmwp
+5588994355922,não entregue,480,Temporarily Unavailable,4678e589546598143521114k78990rmwp
+5537999496396,entregue no aparelho,-1,Dropped by originator connect timeout,4682e3205246341814660893k78991rmwp
+5562999221364,entregue no aparelho,-1,Dropped by originator connect timeout,4686e8875516213808166879k78992rmwp
+5515996858648,entregue no aparelho,-1,Dropped by originator connect timeout,4690e7215936050319279196k78993rmwp
+5566996655571,entregue no aparelho,-1,Dropped by originator connect timeout,4694e3167791318487904304k78994rmwp
+5512997667672,entregue no aparelho,-1,Dropped by originator connect timeout,4698e2069418173459028566k78995rmwp
+5577988501727,enviado para a operadora,-1,Dropped by originator connect timeout,4702e7158606898908659885k78996rmwp
+5585998007166,não entregue,-1,Dropped by originator connect timeout,4706e2418727967379451813k78997rmwp
+5591981372745,entregue no aparelho,-1,Dropped by originator connect timeout,4710e4003408603098768039k78998rmwp
+5586999832577,entregue no aparelho,-1,Dropped by originator connect timeout,4714e3906428225278431832k78999rmwp
+5511910176775,enviado para a operadora,404,Not Found,4718e3875713529442481406k79000rmwp
+5522997561463,entregue no aparelho,-1,Dropped by originator connect timeout,4722e8799042359837461182k79001rmwp
+5561996688376,entregue no aparelho,200,Ok,4726e9193585331179826640k79002rmwp
+5511996260856,entregue no aparelho,200,Ok,4730e7913097594407360187k79003rmwp
+5573999786382,não entregue,404,Not Found,4734e3560350163599088679k79004rmwp
+5598981398361,não entregue,603,Decline,4738e2137024070884654553k79005rmwp
+5586994311694,não entregue,480,Temporarily Unavailable,4742e1356915815983086109k79006rmwp
+5549991895090,entregue no aparelho,-1,Dropped by originator connect timeout,4746e6632432475072978605k79007rmwp
+5581987637032,entregue no aparelho,480,Temporarily Unavailable,4750e8550645344200503491k79008rmwp
+5585986860201,enviado para a operadora,-1,Dropped by originator connect timeout,4754e271259713085682733k79009rmwp
+5511993845630,entregue no aparelho,486,Busy Here,4758e3986739882683426623k79010rmwp
+5515988220235,não entregue,480,Temporarily Unavailable,4762e5423905329280011820k79011rmwp
+5563991204913,entregue no aparelho,-1,Dropped by originator connect timeout,4766e5347446865164103694k79012rmwp
+5527996366052,enviado para a operadora,-1,Dropped by originator connect timeout,4770e9163893022396504220k79013rmwp
+5585999785804,entregue no aparelho,200,Ok,4774e4299247317626997799k79014rmwp
+5511958559574,entregue no aparelho,-1,Dropped by originator connect timeout,4778e4333329075051658363k79015rmwp
+5521985221939,entregue no aparelho,-1,Dropped by originator connect timeout,4782e3662089549016377604k79016rmwp
+5591989032563,entregue no aparelho,-1,Dropped by originator connect timeout,4786e1440029172156825499k79017rmwp
+5515996267624,entregue no aparelho,-1,Dropped by originator connect timeout,4790e3534973181841219511k79018rmwp
+5528999062477,entregue no aparelho,-1,Dropped by originator connect timeout,4794e31395783547557086k79019rmwp
+5591999035058,não entregue,404,Not Found,4798e5487877037169323958k79020rmwp
+5581999479781,entregue no aparelho,-1,Dropped by originator connect timeout,4802e2433549386327266307k79021rmwp
+5511944582856,entregue no aparelho,-1,Dropped by originator connect timeout,4806e7931918996257699293k79022rmwp
+5591993640557,entregue no aparelho,200,Ok,4810e8806072294228847718k79023rmwp
+5575982412079,entregue no aparelho,-1,Dropped by originator connect timeout,4814e1774652287628709077k79024rmwp
+5567993071755,enviado para a operadora,-1,Dropped by originator connect timeout,4818e6450523849044561839k79025rmwp
+5579988059435,entregue no aparelho,-1,Dropped by originator connect timeout,4822e5940974068501135776k79026rmwp
+5519982268600,entregue no aparelho,-1,Dropped by originator connect timeout,4826e124250127725485362k79027rmwp
+5531985110593,entregue no aparelho,200,Ok,4830e2069848475784627257k79028rmwp
+5537998620877,entregue no aparelho,-1,Dropped by originator connect timeout,4834e8929421764525001215k79029rmwp
+5585996120017,não entregue,200,Ok,4838e7717075657909896641k79030rmwp
+5571984228361,entregue no aparelho,-1,Dropped by originator connect timeout,4842e7253985211760167640k79031rmwp
+5555989919153,não entregue,404,Not Found,4846e2808934766437906247k79032rmwp
+5581994624714,entregue no aparelho,-1,Dropped by originator connect timeout,4850e2526436846755897435k79033rmwp
+5585999617321,não entregue,603,Decline,4854e6230167313768562170k79034rmwp
+5585992052835,entregue no aparelho,200,Ok,4858e5116373906174297640k79035rmwp
+5551982792818,não entregue,404,Not Found,4862e8450524288873077861k79036rmwp
+5555949990105,não entregue,404,Not Found,4866e848172426268738921k79037rmwp
+5511960752507,entregue no aparelho,200,Ok,4870e4809784250310203828k79038rmwp
+5541991384976,entregue no aparelho,-1,Dropped by originator connect timeout,4874e5011450845370207167k79039rmwp
+5511999847882,entregue no aparelho,-1,Dropped by originator connect timeout,4878e5486524767416901091k79040rmwp
+5553981142341,enviado para a operadora,480,Temporarily Unavailable,4882e8331450026151273402k79041rmwp
+5575999555797,enviado para a operadora,480,Temporarily Unavailable,4886e2017272538768401096k79042rmwp
+5587991563856,entregue no aparelho,480,Temporarily Unavailable,4890e6290661556149757180k79043rmwp
+5511987432209,entregue no aparelho,200,Ok,4894e2037760513008403091k79044rmwp
+5592993506424,enviado para a operadora,480,Temporarily Unavailable,4898e5057567281181457849k79045rmwp
+5581973070171,entregue no aparelho,-1,Dropped by originator connect timeout,4902e8895155557843964351k79046rmwp
+5511981935774,entregue no aparelho,200,Ok,4906e4790053301635787937k79047rmwp
+5511953213113,entregue no aparelho,200,Ok,4910e4186966360036771449k79048rmwp
+5567996796799,entregue no aparelho,-1,Dropped by originator connect timeout,4914e8600554913023160878k79049rmwp
+5511984733998,entregue no aparelho,486,Busy Here,4918e4947986270778956410k79050rmwp
+5561981380542,entregue no aparelho,-1,Dropped by originator connect timeout,4922e5141762460021755053k79051rmwp
+5567992075817,entregue no aparelho,-1,Dropped by originator connect timeout,4926e8106248380932434481k79052rmwp
+5551994132332,entregue no aparelho,200,Ok,4930e86715140443016938k79053rmwp
+5511986328657,entregue no aparelho,-1,Dropped by originator connect timeout,4934e6143742618636471731k79054rmwp
+5511965509928,entregue no aparelho,200,Ok,4938e6932778060415543559k79055rmwp
+5551989464194,não entregue,480,Temporarily Unavailable,4942e7192842372189817919k79056rmwp
+5575983473184,entregue no aparelho,-1,Dropped by originator connect timeout,4946e5472217530739268417k79057rmwp
+5515988154213,entregue no aparelho,-1,Dropped by originator connect timeout,4950e5656589389773315865k79058rmwp
+5511996906712,entregue no aparelho,200,Ok,4954e2404350444881522499k79059rmwp
+5511994630770,entregue no aparelho,-1,Dropped by originator connect timeout,4958e201265331459966001k79060rmwp
+5527988168250,entregue no aparelho,-1,Dropped by originator connect timeout,4962e3559985907818013507k79061rmwp
+5535999762103,entregue no aparelho,-1,Dropped by originator connect timeout,4966e4124219236201833725k79062rmwp
+5551993587836,entregue no aparelho,-1,Dropped by originator connect timeout,4970e4490479502887539932k79063rmwp
+5567991007502,entregue no aparelho,-1,Dropped by originator connect timeout,4974e1646737469210352748k79064rmwp
+5541999075537,entregue no aparelho,200,Ok,4978e3867416403028829007k79065rmwp
+5521991416384,enviado para a operadora,200,Ok,4982e2613251726188167607k79066rmwp
+5511981241668,entregue no aparelho,-1,Dropped by originator connect timeout,4986e3486289495638123686k79067rmwp
+5594949997503,não entregue,404,Not Found,4990e5646783106969952480k79068rmwp
+5511942511804,entregue no aparelho,480,Temporarily Unavailable,4994e7891646078321405144k79069rmwp
+5585999412055,enviado para a operadora,-1,Dropped by originator connect timeout,4998e1305809540651687998k79070rmwp
+5584991691901,entregue no aparelho,-1,Dropped by originator connect timeout,5002e4642232759402082277k79071rmwp
+5585985206922,não entregue,-1,Dropped by originator connect timeout,5006e8898182253900736195k79072rmwp
+5547991474041,entregue no aparelho,-1,Dropped by originator connect timeout,5010e6525448240713411083k79073rmwp
+5511976784268,entregue no aparelho,-1,Dropped by originator connect timeout,5014e1951405688804830255k79074rmwp
+5581993294516,entregue no aparelho,480,Temporarily Unavailable,5018e4418599418732671557k79075rmwp
+5511982629789,entregue no aparelho,200,Ok,5022e1943359139162492103k79076rmwp
+5548999630307,entregue no aparelho,200,Ok,5026e8678213449763582094k79077rmwp
+5551991645643,entregue no aparelho,-1,Dropped by originator connect timeout,5030e7298111765469611885k79078rmwp
+5521999286109,entregue no aparelho,-1,Dropped by originator connect timeout,5034e1554638683672604772k79079rmwp
+5511943495826,entregue no aparelho,200,Ok,5038e6088296945939073004k79080rmwp
+5551984568012,entregue no aparelho,-1,Dropped by originator connect timeout,5042e6549117135349921701k79081rmwp
+5531992447611,entregue no aparelho,486,Busy Here,5046e3003555939460574906k79082rmwp
+5535992715164,entregue no aparelho,-1,Dropped by originator connect timeout,5050e5357881592738007147k79083rmwp
+5511976950610,entregue no aparelho,-1,Dropped by originator connect timeout,5054e1040892498365162861k79084rmwp
+5521984567011,não entregue,480,Temporarily Unavailable,5058e8149659916410079767k79085rmwp
+5551999452083,entregue no aparelho,200,Ok,5062e6856225868156893843k79086rmwp
+5546991229834,entregue no aparelho,200,Ok,5066e3690991945243590621k79087rmwp
+5548991735362,entregue no aparelho,-1,Dropped by originator connect timeout,5070e6689934857045843487k79088rmwp
+5544984478184,entregue no aparelho,-1,Dropped by originator connect timeout,5074e2688510187793674830k79089rmwp
+5511962520529,entregue no aparelho,200,Ok,5078e7619639199256598833k79090rmwp
+5511915695096,enviado para a operadora,480,Temporarily Unavailable,5082e4626917397854953486k79091rmwp
+5511945282124,não entregue,480,Temporarily Unavailable,5086e2791634567715472254k79092rmwp
+5511994920629,entregue no aparelho,200,Ok,5090e3089966265579437147k79093rmwp
+5511994983446,entregue no aparelho,486,Busy Here,5094e512861443919649586k79094rmwp
+5565992923288,entregue no aparelho,-1,Dropped by originator connect timeout,5098e5231780119819374470k79095rmwp
+5511991036461,entregue no aparelho,200,Ok,5102e124049130198507547k79096rmwp
+5527996600332,entregue no aparelho,-1,Dropped by alerting timeout,5106e89760337373594014k79097rmwp
+5511949741735,entregue no aparelho,-1,Dropped by originator connect timeout,5110e4611810394627674567k79098rmwp
+5584987081720,entregue no aparelho,200,Ok,5114e8500127303384526609k79099rmwp
+5585997480930,entregue no aparelho,-1,Dropped by originator connect timeout,5118e404701683989432551k79100rmwp
+5579999362203,entregue no aparelho,-1,Dropped by originator connect timeout,5122e7321558941162754031k79101rmwp
+5555991750237,entregue no aparelho,403,Forbidden,5126e5403091080417366771k79102rmwp
+5524998783876,não entregue,404,Not Found,5130e4528018084002196364k79103rmwp
+5521979917013,não entregue,480,Temporarily Unavailable,5134e5368867700718720585k79104rmwp
+5511986814401,entregue no aparelho,-1,Dropped by originator connect timeout,5138e5674959584003025281k79105rmwp
+5521966377521,não entregue,480,Temporarily Unavailable,5142e6752710287439454553k79106rmwp
+5562985564001,entregue no aparelho,-1,Dropped by originator connect timeout,5146e2172007077326132623k79107rmwp
+5511933266213,não entregue,404,Not Found,5150e3101143259669978153k79108rmwp
+5592992869743,entregue no aparelho,-1,Dropped by originator connect timeout,5154e1325296077303956386k79109rmwp
+5517988361261,enviado para a operadora,480,Temporarily Unavailable,5158e4215389605863256577k79110rmwp
+5581995901519,entregue no aparelho,-1,Dropped by originator connect timeout,5162e7429997016925461258k79111rmwp
+5511994063681,entregue no aparelho,-1,Dropped by originator connect timeout,5166e2424383848084507701k79112rmwp
+5511965406863,entregue no aparelho,200,Ok,5170e8489878057290340625k79113rmwp
+5592993414111,entregue no aparelho,-1,Dropped by originator connect timeout,5174e5240806992649944193k79114rmwp
+5551995887780,entregue no aparelho,480,Temporarily Unavailable,5178e8266131937485335227k79115rmwp
+5528999220065,entregue no aparelho,-1,Dropped by originator connect timeout,5182e8245544562006086674k79116rmwp
+5511951248613,não entregue,404,Not Found,5186e7387960200625091806k79117rmwp
+5511932099436,entregue no aparelho,-1,Dropped by originator connect timeout,5190e2055554062988390473k79118rmwp
+5531996347242,entregue no aparelho,-1,Dropped by originator connect timeout,5194e4777636400053922999k79119rmwp
+5511948431852,entregue no aparelho,-1,Dropped by originator connect timeout,5198e3836783250901135183k79120rmwp
+5516992806339,enviado para a operadora,-1,Dropped by originator connect timeout,5202e5042171690774611975k79121rmwp
+5537999798323,entregue no aparelho,-1,Dropped by originator connect timeout,5206e6899105854346593533k79122rmwp
+5511981503695,não entregue,404,Not Found,5210e5957204347237637677k79123rmwp
+5521973492769,não entregue,480,Temporarily Unavailable,5214e6476648918413432519k79124rmwp
+5527995047056,entregue no aparelho,-1,Dropped by originator connect timeout,5218e9137417815531360144k79125rmwp
+5511914860471,entregue no aparelho,200,Ok,5222e6061090331283920171k79126rmwp
+5585996755351,entregue no aparelho,200,Ok,5226e1401844158450345435k79127rmwp
+5511989382049,entregue no aparelho,-1,Dropped by originator connect timeout,5230e6970328077098340847k79128rmwp
+5511956367677,entregue no aparelho,200,Ok,5234e6648031702569998047k79129rmwp
+5511984533816,entregue no aparelho,200,Ok,5238e8240301462711280505k79130rmwp
+5562981188238,entregue no aparelho,-1,Dropped by originator connect timeout,5242e6027437097766629305k79131rmwp
+5541985026060,entregue no aparelho,-1,Dropped by originator connect timeout,5246e6144744575486652614k79132rmwp
+5585996283067,não entregue,-1,Dropped by originator connect timeout,5250e8829572016574054663k79133rmwp
+5511964455019,entregue no aparelho,-1,Dropped by originator connect timeout,5254e4883829016331621290k79134rmwp
+5581987556091,enviado para a operadora,480,Temporarily Unavailable,5258e6383670719623598057k79135rmwp
+5588997345971,entregue no aparelho,-1,Dropped by originator connect timeout,5262e2277516631400122469k79136rmwp
+5528992578255,entregue no aparelho,-1,Dropped by originator connect timeout,5266e4804761528060880988k79137rmwp
+5531985974990,entregue no aparelho,-1,Dropped by originator connect timeout,5270e6897248961034025282k79138rmwp
+5585996281868,não entregue,486,Busy Here,5274e6331376985285559999k79139rmwp
+5598991371988,entregue no aparelho,200,Ok,5278e1223401854554328265k79140rmwp
+5592984136316,não entregue,403,Forbidden,5282e5533150116278832101k79141rmwp
+5583996429666,entregue no aparelho,200,Ok,5286e1883501055205420148k79142rmwp
+5511982941457,entregue no aparelho,-1,Dropped by originator connect timeout,5290e2196403839755179584k79143rmwp
+5566984277823,entregue no aparelho,-1,Dropped by originator connect timeout,5294e3602128201352395254k79144rmwp
+5575991136759,entregue no aparelho,200,Ok,5298e2715662800325497768k79145rmwp
+5511983810929,entregue no aparelho,-1,Dropped by originator connect timeout,5302e7270654761554782601k79146rmwp
+5511984796150,não entregue,603,Decline,5306e5185006267453150611k79147rmwp
+5586988747807,enviado para a operadora,-1,Dropped by originator connect timeout,5310e1339532374751330707k79148rmwp
+5561992985835,entregue no aparelho,-1,Dropped by originator connect timeout,5314e9187355291593776145k79149rmwp
+5541997590189,entregue no aparelho,-1,Dropped by originator connect timeout,5318e313071132685453796k79150rmwp
+5595991201036,entregue no aparelho,-1,Dropped by originator connect timeout,5322e1543331139750516325k79151rmwp
+5531991541674,entregue no aparelho,-1,Dropped by alerting timeout,5326e2220141443529022295k79152rmwp
+5547992369501,não entregue,480,Temporarily Unavailable,5330e3802938858839551733k79153rmwp
+5571988191193,não entregue,480,Temporarily Unavailable,5334e3119093669992157068k79154rmwp
+5573982018207,não entregue,480,Temporarily Unavailable,5338e8982320846723080128k79155rmwp
+5511979855373,entregue no aparelho,200,Ok,5342e1621785921269369930k79156rmwp
+5541992197767,não entregue,480,Temporarily Unavailable,5346e4896517615912354710k79157rmwp
+5541987822029,entregue no aparelho,-1,Dropped by originator connect timeout,5350e1813050110195264466k79158rmwp
+5519999242504,entregue no aparelho,-1,Dropped by originator connect timeout,5354e445544259971532972k79159rmwp
+5528999485644,entregue no aparelho,-1,Dropped by originator connect timeout,5358e1798798164772196886k79160rmwp
+5517992111152,entregue no aparelho,480,Temporarily Unavailable,5362e4810671976226204773k79161rmwp
+5554991619025,entregue no aparelho,-1,Dropped by originator connect timeout,5366e7669949242194469839k79162rmwp
+5512988209325,entregue no aparelho,-1,Dropped by originator connect timeout,5370e1239377851464850498k79163rmwp
+5598989230147,não entregue,404,Not Found,5374e7987160259192227498k79164rmwp
+5519981534646,entregue no aparelho,-1,Dropped by originator connect timeout,5378e2099331701408662435k79165rmwp
+5582991054768,entregue no aparelho,-1,Dropped by originator connect timeout,5382e3243979371218249160k79166rmwp
+5528999868422,entregue no aparelho,200,Ok,5386e5078460075948797030k79167rmwp
+5518996382906,entregue no aparelho,-1,Dropped by originator connect timeout,5390e9025619568855400653k79168rmwp
+5547996392222,entregue no aparelho,-1,Dropped by originator connect timeout,5394e3409393610300720448k79169rmwp
+5531988059287,entregue no aparelho,480,Temporarily Unavailable,5398e7730050328377565973k79170rmwp
+5551997389488,entregue no aparelho,200,Ok,5402e4195056940514531091k79171rmwp
+5511968519616,entregue no aparelho,-1,Dropped by originator connect timeout,5406e7586953420107514597k79172rmwp
+5521979121755,não entregue,603,Decline,5410e3440926814942923267k79173rmwp
+5511995207908,entregue no aparelho,200,Ok,5414e5629096499445708813k79174rmwp
+5543998111885,entregue no aparelho,-1,Dropped by originator connect timeout,5418e608733159962156598k79175rmwp
+5548999234637,entregue no aparelho,603,Decline,5422e595371238790285218k79176rmwp
+5554999922567,entregue no aparelho,-1,Dropped by originator connect timeout,5426e5909679048122657740k79177rmwp
+5579988392644,entregue no aparelho,200,Ok,5430e6306702671579572611k79178rmwp
+5514991401266,enviado para a operadora,-1,Dropped by originator connect timeout,5434e3338832467436350749k79179rmwp
+5517996613666,entregue no aparelho,200,Ok,5438e1824820193796471851k79180rmwp
+5521981336846,enviado para a operadora,200,Ok,5442e8188779054518906326k79181rmwp
+5511995350311,entregue no aparelho,-1,Dropped by originator connect timeout,5446e1228205160027775520k79182rmwp
+5532991396325,entregue no aparelho,200,Ok,5450e2801118376004930672k79183rmwp
+5545988203420,entregue no aparelho,403,Forbidden,5454e4212586416959552322k79184rmwp
+5538991924200,entregue no aparelho,-1,Dropped by originator connect timeout,5458e3503039526519537336k79185rmwp
+5514988098176,entregue no aparelho,-1,Dropped by originator connect timeout,5462e7393298479918848000k79186rmwp
+5585996133934,entregue no aparelho,486,Busy Here,5466e3417958915482191446k79187rmwp
+5511947205678,enviado para a operadora,503,Service Unavailable,5470e5052951842924059681k79188rmwp
+5511963737442,entregue no aparelho,200,Ok,5474e5282212473109773431k79189rmwp
+5513997525955,entregue no aparelho,200,Ok,5478e2540010576447898496k79190rmwp
+5586988187290,não entregue,480,Temporarily Unavailable,5482e4080686922964512919k79191rmwp
+5551990185993,não entregue,480,Temporarily Unavailable,5486e548228883679135784k79192rmwp
+5588993828863,enviado para a operadora,480,Temporarily Unavailable,5490e3762182504838912426k79193rmwp
+5584987020254,entregue no aparelho,200,Ok,5494e3297153900111169044k79194rmwp
+5517988006509,não entregue,480,Temporarily Unavailable,5498e4933025910807954989k79195rmwp
+5547996150494,entregue no aparelho,-1,Dropped by originator connect timeout,5502e4387287910652547555k79196rmwp
+5585999223237,não entregue,-1,Dropped by originator connect timeout,5506e2541574124681706209k79197rmwp
+5511959932527,entregue no aparelho,486,Busy Here,5510e3107336330531238401k79198rmwp
+5585988803297,entregue no aparelho,-1,Dropped by originator connect timeout,5514e624497861703070267k79199rmwp
+5554991572035,não entregue,403,Forbidden,5518e5017301685658894927k79200rmwp
+5528999878488,entregue no aparelho,-1,Dropped by originator connect timeout,5522e1223692954054392168k79201rmwp
+5516993155132,não entregue,480,Temporarily Unavailable,5526e896446293547290602k79202rmwp
+5541995118211,entregue no aparelho,486,Busy Here,5530e40406110838756164k79203rmwp
+5511976822387,entregue no aparelho,200,Ok,5534e985923538265822948k79204rmwp
+5588992533844,não entregue,-1,Dropped by originator connect timeout,5538e2197510066373779665k79205rmwp
+5528998866836,entregue no aparelho,-1,Dropped by originator connect timeout,5542e8475741297517947904k79206rmwp
+5586988496003,entregue no aparelho,-1,Dropped by originator connect timeout,5546e9037316063175746694k79207rmwp
+5512992252422,entregue no aparelho,200,Ok,5550e4663290179409311344k79208rmwp
+5511942731374,entregue no aparelho,-1,Dropped by originator connect timeout,5554e4543542414838050368k79209rmwp
+5561992012813,entregue no aparelho,200,Ok,5558e5239573788195240840k79210rmwp
+5521968698578,não entregue,480,Temporarily Unavailable,5562e4901029825318546411k79211rmwp
+5521980870974,entregue no aparelho,-1,Dropped by originator connect timeout,5566e2260585288757976314k79212rmwp
+5519981105998,entregue no aparelho,-1,Dropped by originator connect timeout,5570e1700998735612191504k79213rmwp
+5544991795125,entregue no aparelho,403,Forbidden,5574e2576672990252976615k79214rmwp
+5585992063184,entregue no aparelho,-1,Dropped by originator connect timeout,5578e544487336637564292k79215rmwp
+5534996556207,entregue no aparelho,-1,Dropped by originator connect timeout,5582e4918151509119626083k79216rmwp
+5582994124985,entregue no aparelho,-1,Dropped by originator connect timeout,5586e4059720317101986988k79217rmwp
+5581989683358,entregue no aparelho,-1,Dropped by originator connect timeout,5590e282979150965576777k79218rmwp
+5561983849106,entregue no aparelho,200,Ok,5594e4007196461075413533k79219rmwp
+5524993188445,entregue no aparelho,-1,Dropped by alerting timeout,5598e726120120112241916k79220rmwp
+5521980932431,entregue no aparelho,200,Ok,5602e925671716229611511k79221rmwp
+5581985387831,entregue no aparelho,480,Temporarily Unavailable,5606e5842681549693402026k79222rmwp
+5566992377840,entregue no aparelho,-1,Dropped by originator connect timeout,5610e3385380515685649288k79223rmwp
+5554992354466,enviado para a operadora,-1,Dropped by originator connect timeout,5614e7873803337248731316k79224rmwp
+5531972014103,entregue no aparelho,-1,Dropped by originator connect timeout,5618e819946876913768325k79225rmwp
+5519991297340,entregue no aparelho,480,Temporarily Unavailable,5622e12644203082482033k79226rmwp
+5511997963426,entregue no aparelho,-1,Dropped by originator connect timeout,5626e8386923353270675329k79227rmwp
+5532998241120,não entregue,404,Not Found,5630e953945046435204054k79228rmwp
+5521912356789,não entregue,404,Not Found,5634e4823268328101493313k79229rmwp
+5511966064050,entregue no aparelho,480,Temporarily Unavailable,5638e8354205323481740454k79230rmwp
+5545991246942,entregue no aparelho,200,Ok,5642e5541458760602208488k79231rmwp
+5551985078023,não entregue,404,Not Found,5646e6445784313078387444k79232rmwp
+5571986429246,enviado para a operadora,-1,Dropped by originator connect timeout,5650e5488974916955288500k79233rmwp
+5511954943838,entregue no aparelho,-1,Dropped by originator connect timeout,5654e5945355630743564848k79234rmwp
+5511943600527,entregue no aparelho,-1,Dropped by originator connect timeout,5658e1641474136369975590k79235rmwp
+5528992767098,entregue no aparelho,-1,Dropped by originator connect timeout,5662e56017111745681196k79236rmwp
+5543996758656,entregue no aparelho,-1,Dropped by originator connect timeout,5666e8273039706941728916k79237rmwp
+5561991378192,entregue no aparelho,-1,Dropped by originator connect timeout,5670e2706872614533066157k79238rmwp
+5532988309779,entregue no aparelho,-1,Dropped by originator connect timeout,5674e717491669049521737k79239rmwp
+5569984939824,entregue no aparelho,-1,Dropped by originator connect timeout,5678e8534421770633705350k79240rmwp
+5575983132902,entregue no aparelho,200,Ok,5682e6262776748172566365k79241rmwp
+5527981350563,entregue no aparelho,200,Ok,5686e869891317503418937k79242rmwp
+5537988286397,entregue no aparelho,200,Ok,5690e4241051899821799373k79243rmwp
+5511951266373,não entregue,603,Decline,5694e2327997112316408843k79244rmwp
+5561992089178,enviado para a operadora,480,Temporarily Unavailable,5698e7864477681136079045k79245rmwp
+5569992253152,entregue no aparelho,-1,Dropped by originator connect timeout,5702e6411505557762692737k79246rmwp
+5579981400519,não entregue,403,Forbidden,5706e1658902244386977205k79247rmwp
+5551999823127,entregue no aparelho,-1,Dropped by originator connect timeout,5710e8256869091220762540k79248rmwp
+5511973169400,entregue no aparelho,-1,Dropped by originator connect timeout,5714e2950442991328130830k79249rmwp
+5585989049777,enviado para a operadora,200,Ok,5718e4234464654812093798k79250rmwp
+5532985112822,entregue no aparelho,-1,Dropped by originator connect timeout,5722e5817509946734172201k79251rmwp
+5511997826480,enviado para a operadora,403,Forbidden,5726e4758695663418558362k79252rmwp
+5511952976338,entregue no aparelho,200,Ok,5730e8939444010195855013k79253rmwp
+5582988640174,enviado para a operadora,480,Temporarily Unavailable,5734e3012210920765221993k79254rmwp
+5527998462280,entregue no aparelho,-1,Dropped by originator connect timeout,5738e2403989947158201986k79255rmwp
+5585999020369,entregue no aparelho,-1,Dropped by originator connect timeout,5742e2006849121256495119k79256rmwp
+5531998297070,entregue no aparelho,-1,Dropped by originator connect timeout,5746e1455812670639272000k79257rmwp
+5553999550072,entregue no aparelho,-1,Dropped by originator connect timeout,5750e5410511196673273426k79258rmwp
+5584994727903,entregue no aparelho,-1,Dropped by originator connect timeout,5754e3547018636392118844k79259rmwp
+5535992121986,entregue no aparelho,-1,Dropped by originator connect timeout,5758e5175695457774184048k79260rmwp
+5521967676825,entregue no aparelho,-1,Dropped by originator connect timeout,5762e6407758175449857539k79261rmwp
+5585992357076,entregue no aparelho,-1,Dropped by originator connect timeout,5766e311988103580987096k79262rmwp
+5554981526726,entregue no aparelho,-1,Dropped by originator connect timeout,5770e5409659358346418105k79263rmwp
+5513991734247,entregue no aparelho,-1,Dropped by originator connect timeout,5774e2623665100657943001k79264rmwp
+5585981200803,entregue no aparelho,200,Ok,5778e6881506212070547909k79265rmwp
+5511992391464,entregue no aparelho,200,Ok,5782e1454251140268127094k79266rmwp
+5561998678077,entregue no aparelho,200,Ok,5786e2925439295936346030k79267rmwp
+5571983279328,não entregue,480,Temporarily Unavailable,5790e6267670778620320830k79268rmwp
+5511991999569,entregue no aparelho,200,Ok,5794e3252421941327359805k79269rmwp
+5531994286543,entregue no aparelho,-1,Dropped by originator connect timeout,5798e4157952763939530240k79270rmwp
+5588981574665,não entregue,480,Temporarily Unavailable,5802e3927250569027467510k79271rmwp
+5535992220870,entregue no aparelho,-1,Dropped by originator connect timeout,5806e2368889346110542422k79272rmwp
+5575982289163,entregue no aparelho,-1,Dropped by originator connect timeout,5810e2133574038413562326k79273rmwp
+5522992922983,não entregue,480,Temporarily Unavailable,5814e6225689091771442817k79274rmwp
+5511971099828,entregue no aparelho,200,Ok,5818e6789798556049509444k79275rmwp
+5585997150181,entregue no aparelho,-1,Dropped by originator connect timeout,5822e8826055963639410630k79276rmwp
+5511996761260,não entregue,480,Temporarily Unavailable,5826e5845148365478792303k79277rmwp
+5511953033382,entregue no aparelho,-1,Dropped by originator connect timeout,5830e6136205056647853943k79278rmwp
+5547988295930,enviado para a operadora,-1,Dropped by originator connect timeout,5834e7071518329627267672k79279rmwp
+5524999576792,entregue no aparelho,-1,Dropped by originator connect timeout,5838e8674973198613391140k79280rmwp
+5586994378538,entregue no aparelho,200,Ok,5842e7745242879476801127k79281rmwp
+5511991491985,entregue no aparelho,-1,Dropped by originator connect timeout,5846e2286716046745408730k79282rmwp
+5512996512283,entregue no aparelho,-1,Dropped by originator connect timeout,5850e6864718952061801250k79283rmwp
+5561985599531,não entregue,200,Ok,5854e3160391164683207815k79284rmwp
+5562996293685,entregue no aparelho,-1,Dropped by originator connect timeout,5858e9085648444302074753k79285rmwp
+5516997693907,entregue no aparelho,-1,Dropped by originator connect timeout,5862e7884037079624704553k79286rmwp
+5551996456177,não entregue,404,Not Found,5866e1825515246077457522k79287rmwp
+5532984105437,não entregue,480,Temporarily Unavailable,5870e3538025489260399996k79288rmwp
+5511991928852,entregue no aparelho,-1,Dropped by originator connect timeout,5874e7285935879738496303k79289rmwp
+5535998981681,entregue no aparelho,200,Ok,5878e2406068794037605774k79290rmwp
+5511993993519,entregue no aparelho,-1,Dropped by originator connect timeout,5882e8208277221778991349k79291rmwp
+5511979584917,entregue no aparelho,-1,Dropped by originator connect timeout,5886e5925080594413150253k79292rmwp
+5528999022023,entregue no aparelho,200,Ok,5890e5365662971442742843k79293rmwp
+5561994631311,não entregue,480,Temporarily Unavailable,5894e212085740526967681k79294rmwp
+5511964326522,entregue no aparelho,-1,Dropped by originator connect timeout,5898e1320442520488930015k79295rmwp
+5582981389908,entregue no aparelho,200,Ok,5902e91296650060276180k79296rmwp
+5521988068602,entregue no aparelho,-1,Dropped by originator connect timeout,5906e6839373667014508589k79297rmwp
+5511968502546,entregue no aparelho,200,Ok,5910e7663544810547784973k79298rmwp
+5591999425799,não entregue,480,Temporarily Unavailable,5914e7893307747368507551k79299rmwp
+5551999883213,entregue no aparelho,-1,Dropped by originator connect timeout,5918e12508895364180370k79300rmwp
+5511974690598,entregue no aparelho,-1,Dropped by originator connect timeout,5922e4876712832189131047k79301rmwp
+5555984584058,entregue no aparelho,200,Ok,5926e6410593937035391198k79302rmwp
+5512991369052,entregue no aparelho,-1,Dropped by originator connect timeout,5930e2679918245909434730k79303rmwp
+5585999042608,não entregue,-1,Dropped by originator connect timeout,5934e6917288553613922762k79304rmwp
+5571991379167,entregue no aparelho,200,Ok,5938e1641780344521439683k79305rmwp
+5561991807177,entregue no aparelho,200,Ok,5942e6456142988987846051k79306rmwp
+5527997430894,entregue no aparelho,-1,Dropped by originator connect timeout,5946e8531573169550729685k79307rmwp
+5511997619437,enviado para a operadora,200,Ok,5950e2457710667158190074k79308rmwp
+5531998079898,entregue no aparelho,-1,Dropped by originator connect timeout,5954e6229111769398042286k79309rmwp
+5531995250123,não entregue,403,Forbidden,5958e2374472778815134853k79310rmwp
+5511993483246,entregue no aparelho,-1,Dropped by originator connect timeout,5962e7872140005852810776k79311rmwp
+5516988703372,enviado para a operadora,-1,Dropped by originator connect timeout,5966e4102268424087256912k79312rmwp
+5511955101616,não entregue,404,Not Found,5970e6833018247777581178k79313rmwp
+5585997109988,não entregue,-1,Dropped by originator connect timeout,5974e1098895435981976149k79314rmwp
+5551998394813,entregue no aparelho,-1,Dropped by originator connect timeout,5978e2166073480595913660k79315rmwp
+5585999244090,entregue no aparelho,-1,Dropped by originator connect timeout,5982e7732078632571447900k79316rmwp
+5566992286539,não entregue,403,Forbidden,5986e8946065184291765959k79317rmwp
+5588999626817,não entregue,-1,Dropped by originator connect timeout,5990e5453940780058351823k79318rmwp
+5527995076223,entregue no aparelho,-1,Dropped by originator connect timeout,5994e7885063329531879237k79319rmwp
+5519997768098,entregue no aparelho,480,Temporarily Unavailable,5998e5189101131189247306k79320rmwp
+5533991750049,entregue no aparelho,200,Ok,6002e3758777360640930789k79321rmwp
+5586994250809,entregue no aparelho,480,Temporarily Unavailable,6006e8808726586363993133k79322rmwp
+5573982488460,entregue no aparelho,-1,Dropped by originator connect timeout,6010e4167385969826305988k79323rmwp
+5581992199406,não entregue,480,Temporarily Unavailable,6014e2654014918304786141k79324rmwp
+5511994997339,não entregue,480,Temporarily Unavailable,6018e4643215990034969221k79325rmwp
+5511981559321,entregue no aparelho,-1,Dropped by originator connect timeout,6022e5728745426414667312k79326rmwp
+5511948380873,entregue no aparelho,-1,Dropped by originator connect timeout,6026e6924149789839294605k79327rmwp
+5553997071539,entregue no aparelho,200,Ok,6030e969312778218267934k79328rmwp
+5598991665183,não entregue,404,Not Found,6034e8111692763909316572k79329rmwp
+5521999376611,entregue no aparelho,-1,Dropped by originator connect timeout,6038e2774314509202290540k79330rmwp
+5592985999419,entregue no aparelho,-1,Dropped by originator connect timeout,6042e8075182803065328613k79331rmwp
+5547984069156,não entregue,480,Temporarily Unavailable,6046e4625577528414301688k79332rmwp
+5571987251495,entregue no aparelho,-1,Dropped by originator connect timeout,6050e257172941924366744k79333rmwp
+5599985189478,entregue no aparelho,-1,Dropped by originator connect timeout,6054e4759887445890804140k79334rmwp
+5519982228139,entregue no aparelho,-1,Dropped by originator connect timeout,6058e8889629618725321993k79335rmwp
+5511981054635,entregue no aparelho,-1,Dropped by originator connect timeout,6062e569255333403304069k79336rmwp
+5555999226796,entregue no aparelho,200,Ok,6066e2193197493479755309k79337rmwp
+5551983278988,não entregue,-1,Dropped by originator connect timeout,6070e5999366298741233336k79338rmwp
+5548996776132,entregue no aparelho,-1,Dropped by originator connect timeout,6074e6545596926493736431k79339rmwp
+5511981874641,entregue no aparelho,200,Ok,6078e7960656386263129825k79340rmwp
+5513997382604,entregue no aparelho,-1,Dropped by originator connect timeout,6082e9057343561588561885k79341rmwp
+5511983177035,entregue no aparelho,-1,Dropped by originator connect timeout,6086e7481063465563340792k79342rmwp
+5511974117680,entregue no aparelho,-1,Dropped by originator connect timeout,6090e2599935428625625637k79343rmwp
+5521998535300,entregue no aparelho,-1,Dropped by originator connect timeout,6094e5644891518280777673k79344rmwp
+5586988890145,entregue no aparelho,-1,Dropped by originator connect timeout,6098e5083718660699239742k79345rmwp
+5543988154587,entregue no aparelho,-1,Dropped by originator connect timeout,6102e8715839043858468702k79346rmwp
+5549998169819,entregue no aparelho,200,Ok,6106e1664987872433695246k79347rmwp
+5511995117753,entregue no aparelho,-1,Dropped by originator connect timeout,6110e8437263782976488007k79348rmwp
+5554997122805,entregue no aparelho,-1,Dropped by originator connect timeout,6114e3179486408940685358k79349rmwp
+5551996203078,entregue no aparelho,200,Ok,6118e3058331675471451617k79350rmwp
+5531973078713,entregue no aparelho,-1,Dropped by originator connect timeout,6122e1450667389095300650k79351rmwp
+5566992534153,não entregue,403,Forbidden,6126e5035528243837645250k79352rmwp
+5534992078636,entregue no aparelho,603,Decline,6130e6778368289645931569k79353rmwp
+5575988171318,enviado para a operadora,480,Temporarily Unavailable,6134e6798759129468935376k79354rmwp
+5591989968046,entregue no aparelho,200,Ok,6138e1106595849293087883k79355rmwp
+5581997931183,entregue no aparelho,-1,Dropped by originator connect timeout,6142e5355999419061306561k79356rmwp
+5511966660149,entregue no aparelho,-1,Dropped by originator connect timeout,6146e794223090457530105k79357rmwp
+5599998330810,não entregue,404,Not Found,6150e3795104413803829865k79358rmwp
+5561981331388,entregue no aparelho,200,Ok,6154e1927291890216292251k79359rmwp
+5579998559485,entregue no aparelho,-1,Dropped by originator connect timeout,6158e4336637001129405577k79360rmwp
+5571982677191,entregue no aparelho,200,Ok,6162e8539430395005124187k79361rmwp
+5519994791083,não entregue,480,Temporarily Unavailable,6166e2848545507067166558k79362rmwp
+5551981264309,não entregue,404,Not Found,6170e2258548285372438065k79363rmwp
+5592994393076,entregue no aparelho,-1,Dropped by originator connect timeout,6174e2348685125749938125k79364rmwp
+5511940151369,entregue no aparelho,-1,Dropped by originator connect timeout,6178e6176897659525252553k79365rmwp
+5581988270471,não entregue,480,Temporarily Unavailable,6182e743826721859624123k79366rmwp
+5511996468235,entregue no aparelho,200,Ok,6186e4000408934552309768k79367rmwp
+5546991276745,entregue no aparelho,200,Ok,6190e5697226369462326495k79368rmwp
+5581997076237,entregue no aparelho,480,Temporarily Unavailable,6194e6798218339241154062k79369rmwp
+5511996967876,entregue no aparelho,486,Busy Here,6198e5779593108854828064k79370rmwp
+5519981945340,enviado para a operadora,-1,Dropped by originator connect timeout,6202e3229645160600245038k79371rmwp
+5581991629445,entregue no aparelho,-1,Dropped by originator connect timeout,6206e2434590962663746803k79372rmwp
+5544991514803,entregue no aparelho,200,Ok,6210e2760092914366309278k79373rmwp
+5511947922227,não entregue,480,Temporarily Unavailable,6214e6194829332789159750k79374rmwp
+5511999530506,entregue no aparelho,-1,Dropped by originator connect timeout,6218e1953661020690650910k79375rmwp
+5511969465117,entregue no aparelho,-1,Dropped by originator connect timeout,6222e4545419959998764296k79376rmwp
+5567981283954,entregue no aparelho,-1,Dropped by originator connect timeout,6226e4257022002949497652k79377rmwp
+5585986555539,entregue no aparelho,480,Temporarily Unavailable,6230e6475057562154130062k79378rmwp
+5561985836385,entregue no aparelho,200,Ok,6234e4018933807125608413k79379rmwp
+5597991978662,não entregue,404,Not Found,6238e3878536725127977985k79380rmwp
+5511971919536,entregue no aparelho,-1,Dropped by originator connect timeout,6242e1159872712888473582k79381rmwp
+5511982056701,entregue no aparelho,-1,Dropped by originator connect timeout,6246e946424515724795824k79382rmwp
+5531995159491,entregue no aparelho,-1,Dropped by originator connect timeout,6250e2827725160695038198k79383rmwp
+5541999181932,enviado para a operadora,-1,Dropped by originator connect timeout,6254e8539402391505262026k79384rmwp
+5585996120029,não entregue,-1,Dropped by originator connect timeout,6258e1345638932617329147k79385rmwp
+5585987873344,entregue no aparelho,-1,Dropped by originator connect timeout,6262e3573034451916126530k79386rmwp
+5551993538297,não entregue,480,Temporarily Unavailable,6266e4630799670669530423k79387rmwp
+5573999829147,entregue no aparelho,200,Ok,6270e751506052706572757k79388rmwp
+5538999374445,entregue no aparelho,-1,Dropped by originator connect timeout,6274e5755648906735776719k79389rmwp
+5544997284876,entregue no aparelho,200,Ok,6278e6227021935875551511k79390rmwp
+5541991284848,entregue no aparelho,200,Ok,6282e1795777707420280075k79391rmwp
+5521977061022,entregue no aparelho,200,Ok,6286e8314330287885076488k79392rmwp
+5541984234695,entregue no aparelho,-1,Dropped by originator connect timeout,6290e1188658655267735416k79393rmwp
+5527988178431,entregue no aparelho,-1,Dropped by originator connect timeout,6294e4013137417959148747k79394rmwp
+5514991737922,enviado para a operadora,200,Ok,6298e3378914585411409063k79395rmwp
+5548996601332,entregue no aparelho,-1,Dropped by originator connect timeout,6302e569098354036459384k79396rmwp
+5544991854839,não entregue,404,Not Found,6306e364429940866196152k79397rmwp
+5555984291525,entregue no aparelho,-1,Dropped by originator connect timeout,6310e7625512181180465428k79398rmwp
+5577998250852,entregue no aparelho,-1,Dropped by originator connect timeout,6314e8695788402148361211k79399rmwp
+5527996943461,enviado para a operadora,403,Forbidden,6318e4276032667282334163k79400rmwp
+5563991377968,entregue no aparelho,-1,Dropped by originator connect timeout,6322e8430124545605768396k79401rmwp
+5511981285312,entregue no aparelho,200,Ok,6326e8741829196187644839k79402rmwp
+5549991236802,entregue no aparelho,-1,Dropped by originator connect timeout,6330e6755081231209642475k79403rmwp
+5531972073707,não entregue,404,Not Found,6334e7194036643323411316k79404rmwp
+5511941206352,entregue no aparelho,-1,Dropped by originator connect timeout,6338e8014312668478950421k79405rmwp
+5548984036354,entregue no aparelho,-1,Dropped by originator connect timeout,6342e1668016561568234964k79406rmwp
+5511999740314,entregue no aparelho,-1,Dropped by originator connect timeout,6346e2508748809984876724k79407rmwp
+5551990172128,não entregue,480,Temporarily Unavailable,6350e7531029943327595988k79408rmwp
+5548984180994,entregue no aparelho,-1,Dropped by originator connect timeout,6354e3379569083739627600k79409rmwp
+5548999247724,entregue no aparelho,200,Ok,6358e3746137294788073934k79410rmwp
+5511989389193,entregue no aparelho,-1,Dropped by originator connect timeout,6362e146542040895970619k79411rmwp
+5591991355423,não entregue,404,Not Found,6366e8932139679277653746k79412rmwp
+5511993147183,não entregue,480,Temporarily Unavailable,6370e4851006135425844718k79413rmwp
+5519988141054,enviado para a operadora,-1,Dropped by originator connect timeout,6374e5823111630862492037k79414rmwp
+5548991181214,entregue no aparelho,200,Ok,6378e465797729910252861k79415rmwp
+5564992937658,entregue no aparelho,-1,Dropped by originator connect timeout,6382e4036740100629967532k79416rmwp
+5511913677083,entregue no aparelho,-1,Dropped by originator connect timeout,6386e329373948322939661k79417rmwp
+5519987715136,entregue no aparelho,-1,Dropped by originator connect timeout,6390e142610430155293483k79418rmwp
+5521990031115,entregue no aparelho,-1,Dropped by originator connect timeout,6394e7705479100287645026k79419rmwp
+5551996462521,entregue no aparelho,200,Ok,6398e3624431165021604296k79420rmwp
+5511997175282,enviado para a operadora,200,Ok,6402e7164828189400708734k79421rmwp
+5588987832268,não entregue,480,Temporarily Unavailable,6406e2906039691498974576k79422rmwp
+5586999689834,entregue no aparelho,200,Ok,6410e4773732048087184886k79423rmwp
+5517981388210,entregue no aparelho,-1,Dropped by originator connect timeout,6414e6931736842687933681k79424rmwp
+5515997642024,entregue no aparelho,200,Ok,6418e3780408716044150485k79425rmwp
+5521991951867,entregue no aparelho,-1,Dropped by originator connect timeout,6422e2227186185146399769k79426rmwp
+5541987035558,enviado para a operadora,480,Temporarily Unavailable,6426e1816697495034059151k79427rmwp
+5591987371437,entregue no aparelho,-1,Dropped by originator connect timeout,6430e7721304792956104712k79428rmwp
+5524993266630,não entregue,480,Temporarily Unavailable,6434e37738711324038714k79429rmwp
+5562985240287,entregue no aparelho,-1,Dropped by originator connect timeout,6438e3517143372486710115k79430rmwp
+5563991064149,entregue no aparelho,200,Ok,6442e3687443069367904666k79431rmwp
+5591985076064,entregue no aparelho,200,Ok,6446e4489675208571141535k79432rmwp
+5598988224405,entregue no aparelho,-1,Dropped by originator connect timeout,6450e2779970038142592495k79433rmwp
+5511956646333,não entregue,404,Not Found,6454e3374407163874298315k79434rmwp
+5511943892040,entregue no aparelho,-1,Dropped by originator connect timeout,6458e2040436201865097088k79435rmwp
+5586995441760,enviado para a operadora,200,Ok,6462e878836143768554636k79436rmwp
+5592996069856,entregue no aparelho,-1,Dropped by originator connect timeout,6466e4399117712605974062k79437rmwp
+5544999691256,entregue no aparelho,200,Ok,6470e5272032256004129319k79438rmwp
+5531996337425,entregue no aparelho,-1,Dropped by originator connect timeout,6474e8465114606142489736k79439rmwp
+5551997793170,não entregue,404,Not Found,6478e8840192878814118857k79440rmwp
+5511945854026,entregue no aparelho,-1,Dropped by originator connect timeout,6482e2532518025259244555k79441rmwp
+5516992252559,entregue no aparelho,-1,Dropped by originator connect timeout,6486e5248068164913497354k79442rmwp
+5551984261079,entregue no aparelho,-1,Dropped by originator connect timeout,6490e8824442547984399326k79443rmwp
+5521999431248,entregue no aparelho,200,Ok,6494e3527280309006965907k79444rmwp
+5564999221861,entregue no aparelho,-1,Dropped by originator connect timeout,6498e2487473907403262507k79445rmwp
+5583999828023,entregue no aparelho,-1,Dropped by originator connect timeout,6502e6906326799857113144k79446rmwp
+5535988865028,entregue no aparelho,-1,Dropped by originator connect timeout,6506e6360444937279110747k79447rmwp
+5589981346874,entregue no aparelho,480,Temporarily Unavailable,6510e4210775791841049431k79448rmwp
+5571983057575,entregue no aparelho,-1,Dropped by originator connect timeout,6514e837714219175864742k79449rmwp
+5531995939971,entregue no aparelho,-1,Dropped by originator connect timeout,6518e9032534777911361635k79450rmwp
+5514988065963,entregue no aparelho,-1,Dropped by originator connect timeout,6522e7737358919149962313k79451rmwp
+5511986866815,entregue no aparelho,200,Ok,6526e4782393621824727982k79452rmwp
+5595991522474,entregue no aparelho,-1,Dropped by originator connect timeout,6530e8203190866543168885k79453rmwp
+5511971644793,entregue no aparelho,-1,Dropped by originator connect timeout,6534e3255541506378033957k79454rmwp
+5511957346634,entregue no aparelho,-1,Dropped by originator connect timeout,6538e8135025896062216591k79455rmwp
+5522988775249,enviado para a operadora,-1,Dropped by alerting timeout,6542e576846452784763654k79456rmwp
+5568992354820,entregue no aparelho,200,Ok,6546e8794706369745073084k79457rmwp
+5582988900010,não entregue,480,Temporarily Unavailable,6550e223650896528181500k79458rmwp
+5521971514082,entregue no aparelho,-1,Dropped by originator connect timeout,6554e2419081376444593338k79459rmwp
+5591981420815,entregue no aparelho,-1,Dropped by originator connect timeout,6558e2192722327687043506k79460rmwp
+5511987873220,entregue no aparelho,200,Ok,6562e6873332306245874775k79461rmwp
+5531997282636,entregue no aparelho,-1,Dropped by originator connect timeout,6566e3886972734361283350k79462rmwp
+5528998853521,entregue no aparelho,-1,Dropped by originator connect timeout,6570e3058921935985123511k79463rmwp
+5585988786979,entregue no aparelho,480,Temporarily Unavailable,6574e6526390180664973431k79464rmwp
+5575981087313,entregue no aparelho,-1,Dropped by originator connect timeout,6578e814624595741431396k79465rmwp
+5511940215990,entregue no aparelho,-1,Dropped by originator connect timeout,6582e5077267390051787447k79466rmwp
+5521999948517,entregue no aparelho,404,Not Found,6586e9149562606654506955k79467rmwp
+5519999009297,entregue no aparelho,-1,Dropped by originator connect timeout,6590e521534281538636015k79468rmwp
+5551992838526,entregue no aparelho,-1,Dropped by originator connect timeout,6594e184587999515942538k79469rmwp
+5531992929194,entregue no aparelho,200,Ok,6598e5748978992994175424k79470rmwp
+5585996214275,não entregue,-1,Dropped by originator connect timeout,6602e5347889346534538373k79471rmwp
+5591982844880,entregue no aparelho,-1,Dropped by originator connect timeout,6606e212652934418615563k79472rmwp
+5553991062272,não entregue,-1,Dropped by originator connect timeout,6610e4569719059651587507k79473rmwp
+5589935721352,não entregue,480,Temporarily Unavailable,6614e6452912695323991473k79474rmwp
+5521996871440,entregue no aparelho,-1,Dropped by originator connect timeout,6618e9020425266283913616k79475rmwp
+5521976529270,entregue no aparelho,200,Ok,6622e6086875695925390863k79476rmwp
+5565999854242,enviado para a operadora,-1,Dropped by originator connect timeout,6626e7219829135965060121k79477rmwp
+5524998470453,não entregue,404,Not Found,6630e4340570700015481433k79478rmwp
+5511941493299,entregue no aparelho,-1,Dropped by originator connect timeout,6634e7304510279179987458k79479rmwp
+5567998137857,entregue no aparelho,480,Temporarily Unavailable,6638e8971860633846062917k79480rmwp
+5511983838474,entregue no aparelho,-1,Dropped by originator connect timeout,6642e1422015202295231578k79481rmwp
+5531990674389,entregue no aparelho,-1,Dropped by originator connect timeout,6646e5293813459304245281k79482rmwp
+5586995143549,entregue no aparelho,200,Ok,6650e7932991982567277699k79483rmwp
+5571996565989,enviado para a operadora,480,Temporarily Unavailable,6654e5362073502455980396k79484rmwp
+5511957923251,não entregue,603,Decline,6658e3345037416994161541k79485rmwp
+5548996082654,entregue no aparelho,200,Ok,6662e1394913156200616892k79486rmwp
+5511965628346,entregue no aparelho,-1,Dropped by originator connect timeout,6666e5038904783765403801k79487rmwp
+5511961103888,entregue no aparelho,-1,Dropped by originator connect timeout,6670e8402810242881286024k79488rmwp
+5517991107017,entregue no aparelho,200,Ok,6674e2026803639725761424k79489rmwp
+5594991792783,entregue no aparelho,-1,Dropped by originator connect timeout,6678e6043726715594644077k79490rmwp
+5511980281908,entregue no aparelho,200,Ok,6682e748656822410108407k79491rmwp
+5585991883498,entregue no aparelho,-1,Dropped by originator connect timeout,6686e3962374226115666085k79492rmwp
+5511989708751,entregue no aparelho,-1,Dropped by originator connect timeout,6690e4800286572918984979k79493rmwp
+5511965339740,entregue no aparelho,-1,Dropped by originator connect timeout,6694e1328642010286623715k79494rmwp
+5513997246340,entregue no aparelho,-1,Dropped by originator connect timeout,6698e3697837421277413287k79495rmwp
+5511940817600,entregue no aparelho,-1,Dropped by originator connect timeout,6702e3395811989873003769k79496rmwp
+5542999337977,entregue no aparelho,200,Ok,6706e331095276302481700k79497rmwp
+5579981574744,não entregue,403,Forbidden,6710e2393095030162086023k79498rmwp
+5586981583130,não entregue,480,Temporarily Unavailable,6714e980918787274790810k79499rmwp
+5587991181318,entregue no aparelho,-1,Dropped by originator connect timeout,6718e1606649385909455443k79500rmwp
+5527998958576,entregue no aparelho,-1,Dropped by originator connect timeout,6722e7995932831034476920k79501rmwp
+5562992582060,entregue no aparelho,-1,Dropped by originator connect timeout,6726e4441518718042518872k79502rmwp
+5583986540036,entregue no aparelho,200,Ok,6730e2588187568474421822k79503rmwp
+5511963204693,não entregue,480,Temporarily Unavailable,6734e8077406226017799335k79504rmwp
+5511967688711,entregue no aparelho,-1,Dropped by originator connect timeout,6738e8406469035447784360k79505rmwp
+5551981720465,entregue no aparelho,-1,Dropped by originator connect timeout,6742e3231923450991111875k79506rmwp
+5531971430307,entregue no aparelho,200,Ok,6746e8491385138833447391k79507rmwp
+5594992007853,entregue no aparelho,-1,Dropped by originator connect timeout,6750e4853327607486904026k79508rmwp
+5521974728824,entregue no aparelho,-1,Dropped by originator connect timeout,6754e5239878782570339553k79509rmwp
+5511971991414,entregue no aparelho,-1,Dropped by originator connect timeout,6758e9054428975171953145k79510rmwp
+5585997061200,não entregue,-1,Dropped by originator connect timeout,6762e8575795268989935488k79511rmwp
+5513997748045,entregue no aparelho,200,Ok,6766e4849850050324197117k79512rmwp
+5562981638140,entregue no aparelho,-1,Dropped by originator connect timeout,6770e5984163465687864301k79513rmwp
+5579999261513,entregue no aparelho,-1,Dropped by originator connect timeout,6774e8996340044930642315k79514rmwp
+5521980067454,entregue no aparelho,-1,Dropped by originator connect timeout,6778e6383291465106994358k79515rmwp
+5528999663185,entregue no aparelho,-1,Dropped by originator connect timeout,6782e5420349152438377560k79516rmwp
+5521972002126,entregue no aparelho,-1,Dropped by originator connect timeout,6786e8410585842690634825k79517rmwp
+5521964752286,entregue no aparelho,200,Ok,6790e315782159093081833k79518rmwp
+5521988820603,enviado para a operadora,-1,Dropped by originator connect timeout,6794e501493763397695925k79519rmwp
+5551992513031,entregue no aparelho,200,Ok,6798e5210637516338873030k79520rmwp
+5573988017511,entregue no aparelho,200,Ok,6802e5622932088070139124k79521rmwp
+5585987756551,não entregue,-1,Dropped by originator connect timeout,6806e2779337485451733278k79522rmwp
+5571982746172,entregue no aparelho,-1,Dropped by originator connect timeout,6810e20943766133932490k79523rmwp
+5585988941333,não entregue,-1,Dropped by originator connect timeout,6973r4964798055875976936t79563rmwp
+5535998039373,entregue no aparelho,-1,Dropped by originator connect timeout,6818e4186571573768274534k79525rmwp
+5591991979191,entregue no aparelho,-1,Dropped by originator connect timeout,6822e5461774470744932133k79526rmwp
+5567996011783,entregue no aparelho,-1,Dropped by originator connect timeout,6826e6332179912493742063k79527rmwp
+5521969017262,entregue no aparelho,-1,Dropped by originator connect timeout,6830e1132065293364242755k79528rmwp
+5585985858785,não entregue,480,Temporarily Unavailable,6834e972245320252555142k79529rmwp
+5511982767512,entregue no aparelho,200,Ok,6838e665138310672525970k79530rmwp
+5591982203351,entregue no aparelho,-1,Dropped by originator connect timeout,6842e5320255223053758373k79531rmwp
+5511991911198,não entregue,480,Temporarily Unavailable,6846e5371777464967875129k79532rmwp
+5528992771560,não entregue,404,Not Found,6850e195834747354345815k79533rmwp
+5598984288806,entregue no aparelho,-1,Dropped by originator connect timeout,6854e4251644020494879457k79534rmwp
+5511952103978,entregue no aparelho,486,Busy Here,6858e8526374338731827186k79535rmwp
+5522981694589,entregue no aparelho,-1,Dropped by alerting timeout,6862e6017507635609837393k79536rmwp
+5554999223220,entregue no aparelho,-1,Dropped by originator connect timeout,6866e6437812018291701800k79537rmwp
+5517988047626,entregue no aparelho,-1,Dropped by originator connect timeout,6870e408408274547127260k79538rmwp
+5511991876989,entregue no aparelho,-1,Dropped by originator connect timeout,6874e4129168411732363537k79539rmwp
+5511965952335,entregue no aparelho,-1,Dropped by originator connect timeout,6878e1245070878285474001k79540rmwp
+5522998428151,entregue no aparelho,-1,Dropped by originator connect timeout,6882e5523877990073634919k79541rmwp
+5511981962261,entregue no aparelho,-1,Dropped by originator connect timeout,6886e9079505521295341552k79542rmwp
+5549999174795,entregue no aparelho,-1,Dropped by originator connect timeout,6890e6067966197727885875k79543rmwp
+5543996887998,entregue no aparelho,486,Busy Here,6894e2267190270078554649k79544rmwp
+5584999890060,entregue no aparelho,200,Ok,6898e2187508220483235976k79545rmwp
+5555919920583,não entregue,404,Not Found,6902e6208759084974439350k79546rmwp
+5538999291885,entregue no aparelho,-1,Dropped by originator connect timeout,6906e7499321589238120368k79547rmwp
+5555999755177,entregue no aparelho,200,Ok,6910e6687252300514962400k79548rmwp
+5522997036929,não entregue,480,Temporarily Unavailable,6914e7803716242486984553k79549rmwp
+5573981075037,entregue no aparelho,-1,Dropped by originator connect timeout,6918e8784255539323748873k79550rmwp
+5551993345136,entregue no aparelho,200,Ok,6922e541668971500307456k79551rmwp
+5565993006661,entregue no aparelho,-1,Dropped by originator connect timeout,6926e620134014889951959k79552rmwp
+5511947350180,entregue no aparelho,-1,Dropped by originator connect timeout,6930e9136314650548243747k79553rmwp
+5521989021667,entregue no aparelho,200,Ok,6934e2910026955473267498k79554rmwp
+5537998319622,entregue no aparelho,403,Forbidden,6938e4265446356224508604k79555rmwp
+5519997963125,entregue no aparelho,480,Temporarily Unavailable,6942e8776202548183441575k79556rmwp
+5519996668437,entregue no aparelho,200,Ok,6946e4378159229362732424k79557rmwp
+5585987406653,não entregue,-1,Dropped by originator connect timeout,6950e1844875840365875014k79558rmwp
+5534988190579,não entregue,480,Temporarily Unavailable,6954e2721917336145174163k79559rmwp
+5511989351598,entregue no aparelho,200,Ok,6958e4465695051898886371k79560rmwp
+5511972098162,entregue no aparelho,200,Ok,6962e3132515776615569358k79561rmwp
+5586994937602,entregue no aparelho,-1,Dropped by originator connect timeout,6966e4897136806673466518k79562rmwp
+5593939913335,não entregue,404,Not Found,6970e7560233366868914441k79563rmwp
+5521993605912,entregue no aparelho,486,Busy Here,6974e6710118521817379168k79564rmwp
+5571983411093,enviado para a operadora,-1,Dropped by originator connect timeout,6978e8527688430264636238k79565rmwp
+5592981518654,entregue no aparelho,-1,Dropped by originator connect timeout,6982e2481400450048718953k79566rmwp
+5554996064404,entregue no aparelho,-1,Dropped by originator connect timeout,6986e4449401018031478759k79567rmwp
+5511946666132,entregue no aparelho,200,Ok,6990e5818624866607504001k79568rmwp
+5566999976606,entregue no aparelho,-1,Dropped by originator connect timeout,6994e8803558680630882033k79569rmwp
+5567992506484,entregue no aparelho,-1,Dropped by originator connect timeout,6998e6080698332388602662k79570rmwp
+5573998253329,enviado para a operadora,480,Temporarily Unavailable,7002e6078570808109410952k79571rmwp
+5511961874643,entregue no aparelho,-1,Dropped by originator connect timeout,7006e5574783560891862041k79572rmwp
+5521985234201,enviado para a operadora,480,Temporarily Unavailable,7010e777427110426517028k79573rmwp
+5541988545488,entregue no aparelho,200,Ok,7014e7409911580690204680k79574rmwp
+5581993602470,entregue no aparelho,-1,Dropped by originator connect timeout,7018e6822399131152879356k79575rmwp
+5581983593837,entregue no aparelho,-1,Dropped by originator connect timeout,7022e1856299492107880505k79576rmwp
+5592986122155,enviado para a operadora,-1,Dropped by originator connect timeout,7026e95545862453805681k79577rmwp
+5511988123124,entregue no aparelho,-1,Dropped by originator connect timeout,7030e4008567830322959960k79578rmwp
+5521998405553,entregue no aparelho,200,Ok,7034e1256850911875768961k79579rmwp
+5519996980958,não entregue,480,Temporarily Unavailable,7038e327155066821835174k79580rmwp
+5511965976097,entregue no aparelho,200,Ok,7042e2164506689255973143k79581rmwp
+5575981919138,não entregue,403,Forbidden,7046e6828026124112577320k79582rmwp
+5579981326948,entregue no aparelho,200,Ok,7050e932480812369992137k79583rmwp
+5588999770285,enviado para a operadora,480,Temporarily Unavailable,7054e6859245964110164824k79584rmwp
+5584981384480,entregue no aparelho,200,Ok,7058e7539343415546899879k79585rmwp
+5561981494200,entregue no aparelho,200,Ok,7062e89937757498322598k79586rmwp
+5511953367136,entregue no aparelho,-1,Dropped by originator connect timeout,7066e514973251940524286k79587rmwp
+5585991459961,não entregue,480,Temporarily Unavailable,7070e8708094527658378732k79588rmwp
+5554984368812,entregue no aparelho,200,Ok,7074e1502496571567697741k79589rmwp
+5582982295151,entregue no aparelho,200,Ok,7078e7547147875235675346k79590rmwp
+5511994329421,entregue no aparelho,-1,Dropped by originator connect timeout,7082e1663983756353196479k79591rmwp
+5514997200585,entregue no aparelho,-1,Dropped by originator connect timeout,7086e3068315363811323043k79592rmwp
+5528999967041,não entregue,404,Not Found,7090e4769118888140769778k79593rmwp
+5582998030976,entregue no aparelho,-1,Dropped by originator connect timeout,7094e5726715165870193120k79594rmwp
+5528999221687,entregue no aparelho,200,Ok,7098e2528465701312625680k79595rmwp
+5549984196917,entregue no aparelho,-1,Dropped by originator connect timeout,7102e1488683317913349145k79596rmwp
+5511978351722,enviado para a operadora,200,Ok,7106e1010730124372470091k79597rmwp
+5511992565883,entregue no aparelho,-1,Dropped by originator connect timeout,7110e7394096311567385334k79598rmwp
+5561984856105,entregue no aparelho,-1,Dropped by originator connect timeout,7114e8309124221689095482k79599rmwp
+5567999834953,entregue no aparelho,480,Temporarily Unavailable,7118e2141226778801028417k79600rmwp
+5533987228845,entregue no aparelho,-1,Dropped by originator connect timeout,7122e3335693329760577258k79601rmwp
+5512996146589,entregue no aparelho,-1,Dropped by originator connect timeout,7126e7345144021574487795k79602rmwp
+5521951012770,não entregue,404,Not Found,7130e8858665436538747102k79603rmwp
+5535991195805,entregue no aparelho,200,Ok,7134e2206852913740163170k79604rmwp
+5585981012227,entregue no aparelho,-1,Dropped by originator connect timeout,7138e148528385145190221k79605rmwp
+5551986044195,enviado para a operadora,-1,Dropped by originator connect timeout,7142e4805769624568231821k79606rmwp
+5511949650727,entregue no aparelho,-1,Dropped by originator connect timeout,7146e1838421386156357410k79607rmwp
+5527999532579,entregue no aparelho,-1,Dropped by alerting timeout,7150e3284205145683841774k79608rmwp
+5555999179464,entregue no aparelho,404,Not Found,7154e8440274912439888789k79609rmwp
+5551991407662,entregue no aparelho,-1,Dropped by originator connect timeout,7158e7543405655174895439k79610rmwp
+5571984416056,entregue no aparelho,-1,Dropped by originator connect timeout,7162e1581322814760692438k79611rmwp
+5511992636421,entregue no aparelho,-1,Dropped by originator connect timeout,7166e5201416622034368830k79612rmwp
+5521964336779,entregue no aparelho,-1,Dropped by originator connect timeout,7170e4173608951941761963k79613rmwp
+5511991177562,entregue no aparelho,-1,Dropped by originator connect timeout,7174e979742754036437047k79614rmwp
+5511971611214,entregue no aparelho,480,Temporarily Unavailable,7178e9126234924500325591k79615rmwp
+5566981510503,entregue no aparelho,-1,Dropped by originator connect timeout,7182e286693589928246125k79616rmwp
+5585992429469,entregue no aparelho,200,Ok,7186e5623855727168194671k79617rmwp
+5585999036622,não entregue,200,Ok,7190e1031943652087232887k79618rmwp
+5591992814331,entregue no aparelho,-1,Dropped by originator connect timeout,7194e764063251918625708k79619rmwp
+5547997004547,entregue no aparelho,200,Ok,7198e1120300165856992863k79620rmwp
+5591991506006,entregue no aparelho,-1,Dropped by originator connect timeout,7202e2172383516907582609k79621rmwp
+5541995709021,entregue no aparelho,-1,Dropped by originator connect timeout,7206e8438795398614731406k79622rmwp
+5531992071697,entregue no aparelho,-1,Dropped by originator connect timeout,7210e1619174130663372611k79623rmwp
+5589934623608,não entregue,480,Temporarily Unavailable,7214e1105019648992212744k79624rmwp
+5585998073005,não entregue,-1,Dropped by originator connect timeout,7218e2152347792584524254k79625rmwp
+5585999157369,entregue no aparelho,-1,Dropped by originator connect timeout,7222e1001754037277231642k79626rmwp
+5561999743072,entregue no aparelho,200,Ok,7226e4691727299390188619k79627rmwp
+5541992114675,entregue no aparelho,200,Ok,7230e2543695284158116536k79628rmwp
+5591991206184,entregue no aparelho,-1,Dropped by originator connect timeout,7234e3925366180136598617k79629rmwp
+5511983972016,entregue no aparelho,-1,Dropped by originator connect timeout,7238e2863231492808737131k79630rmwp
+5554999678218,enviado para a operadora,-1,Dropped by originator connect timeout,7246e7830690165831749480k79632rmwp
+5511995631450,não entregue,603,Decline,7242e361911240319523999k79631rmwp
+5581999219924,entregue no aparelho,-1,Dropped by originator connect timeout,7250e1023729690222628792k79633rmwp
+5551934722987,não entregue,404,Not Found,7254e291388861482955043k79634rmwp
+5564999544813,entregue no aparelho,-1,Dropped by originator connect timeout,7258e7863250321568392579k79635rmwp
+5583988566842,entregue no aparelho,-1,Dropped by originator connect timeout,7262e1640828672716737024k79636rmwp
+5551981485897,entregue no aparelho,-1,Dropped by originator connect timeout,7266e5698802902564994017k79637rmwp
+5582994329873,entregue no aparelho,-1,Dropped by originator connect timeout,7270e1238242188836722044k79638rmwp
+5511984085806,entregue no aparelho,-1,Dropped by originator connect timeout,7274e9024031498436238556k79639rmwp
+5515998469089,entregue no aparelho,-1,Dropped by originator connect timeout,7278e5252020934422479378k79640rmwp
+5521972230042,entregue no aparelho,200,Ok,7282e6696156104568076885k79641rmwp
+5532998273729,entregue no aparelho,200,Ok,7286e5187468905193051746k79642rmwp
+5562981167273,entregue no aparelho,-1,Dropped by originator connect timeout,7290e8083169393060035764k79643rmwp
+5511947481954,entregue no aparelho,503,Service Unavailable,7294e3664607052732155590k79644rmwp
+5521970638147,entregue no aparelho,-1,Dropped by originator connect timeout,7298e5649798091352701740k79645rmwp
+5531971610081,entregue no aparelho,-1,Dropped by originator connect timeout,7302e7408202334282119651k79646rmwp
+5548998807807,não entregue,404,Not Found,7306e3401052606394700885k79647rmwp
+5586999990449,entregue no aparelho,-1,Dropped by originator connect timeout,7310e5401141540992167093k79648rmwp
+5565974008024,enviado para a operadora,-1,Dropped by originator connect timeout,7314e557735818937161203k79649rmwp
+5546999013836,entregue no aparelho,-1,Dropped by originator connect timeout,7318e5092848761706454265k79650rmwp
+5512988298461,entregue no aparelho,200,Ok,7322e3005156208958170048k79651rmwp
+5585997675700,entregue no aparelho,200,Ok,7326e7753660368652056866k79652rmwp
+5571992571436,entregue no aparelho,-1,Dropped by originator connect timeout,7330e5880681253825878743k79653rmwp
+5575983446168,enviado para a operadora,480,Temporarily Unavailable,7334e43913432186677299k79654rmwp
+5524981611706,entregue no aparelho,200,Ok,7338e8378589676148017490k79655rmwp
+5588981496994,não entregue,200,Ok,7342e1062848647704180834k79656rmwp
+5532991047789,entregue no aparelho,-1,Dropped by originator connect timeout,7346e1738905248113700280k79657rmwp
+5511984908183,entregue no aparelho,200,Ok,7350e781484803572629812k79658rmwp
+5548996246809,entregue no aparelho,-1,Dropped by originator connect timeout,7354e3355577388402138947k79659rmwp
+5511994426362,entregue no aparelho,-1,Dropped by originator connect timeout,7358e7347261828761401132k79660rmwp
+5545999317381,entregue no aparelho,-1,Dropped by originator connect timeout,7362e4688845890131260344k79661rmwp
+5551991210119,entregue no aparelho,480,Temporarily Unavailable,7366e4797390239350285404k79662rmwp
+5532998680714,entregue no aparelho,200,Ok,7370e5170207893158385796k79663rmwp
+5567998713649,entregue no aparelho,-1,Dropped by originator connect timeout,7374e7254197677691939236k79664rmwp
+5579981250261,entregue no aparelho,200,Ok,7378e3940312602085071866k79665rmwp
+5521980741809,entregue no aparelho,-1,Dropped by originator connect timeout,7382e9060661932894249211k79666rmwp
+5515981816358,entregue no aparelho,200,Ok,7386e7574449911472128951k79667rmwp
+5585988666566,entregue no aparelho,-1,Dropped by originator connect timeout,7390e2528590241742202840k79668rmwp
+5511972826867,entregue no aparelho,-1,Dropped by originator connect timeout,7394e4092044429459602401k79669rmwp
+5511984782484,entregue no aparelho,-1,Dropped by originator connect timeout,7398e8670504934786109875k79670rmwp
+5522988730545,enviado para a operadora,-1,Dropped by alerting timeout,7402e3475156358977623733k79671rmwp
+5511951958303,entregue no aparelho,-1,Dropped by originator connect timeout,7406e2626289621156871021k79672rmwp
+5521996629435,entregue no aparelho,-1,Dropped by originator connect timeout,7410e2752414879911473244k79673rmwp
+5521988278949,enviado para a operadora,-1,Dropped by originator connect timeout,7414e6417493536169329917k79674rmwp
+5511965646718,entregue no aparelho,200,Ok,7418e1873102491926968473k79675rmwp
+5551991068945,entregue no aparelho,200,Ok,7422e7221136466458222107k79676rmwp
+5585988817607,entregue no aparelho,-1,Dropped by originator connect timeout,7426e5718978664524914233k79677rmwp
+5518998080835,entregue no aparelho,-1,Dropped by originator connect timeout,7430e6159260603071412621k79678rmwp
+5581986630117,entregue no aparelho,-1,Dropped by originator connect timeout,7434e3799981010215245194k79679rmwp
+5535999611098,entregue no aparelho,-1,Dropped by originator connect timeout,7438e4522831990839196919k79680rmwp
+5548991852857,entregue no aparelho,200,Ok,7442e1865456265901058123k79681rmwp
+5511991108284,entregue no aparelho,-1,Dropped by originator connect timeout,7446e8222863806487739354k79682rmwp
+5585974010103,entregue no aparelho,480,Temporarily Unavailable,7450e8519968497232011729k79683rmwp
+5562992062048,entregue no aparelho,-1,Dropped by originator connect timeout,7454e6739415393399657422k79684rmwp
+5571986820300,entregue no aparelho,480,Temporarily Unavailable,7458e1909573933346729163k79685rmwp
